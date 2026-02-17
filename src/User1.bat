@@ -2,149 +2,149 @@
   "playerData": {
     "version": "1.5.78.11833",
     "awardAllAchievements": false,
-    "profileID": 4,
-    "playTime": 13.845623016357422,
+    "profileID": 1,
+    "playTime": 132898.078125,
     "completionPercent": 0,
     "openingCreditsPlayed": true,
     "permadeathMode": 0,
-    "health": 5,
-    "maxHealth": 5,
-    "maxHealthBase": 5,
+    "health": 8,
+    "maxHealth": 9,
+    "maxHealthBase": 9,
     "healthBlue": 0,
     "joniHealthBlue": 0,
     "damagedBlue": false,
     "heartPieces": 0,
-    "heartPieceCollected": false,
+    "heartPieceCollected": true,
     "maxHealthCap": 9,
-    "heartPieceMax": false,
-    "prevHealth": 5,
+    "heartPieceMax": true,
+    "prevHealth": 9,
     "blockerHits": 4,
-    "firstGeo": false,
-    "geo": 0,
+    "firstGeo": true,
+    "geo": 3497,
     "maxMP": 99,
     "MPCharge": 0,
     "MPReserve": 0,
-    "MPReserveMax": 0,
+    "MPReserveMax": 99,
     "soulLimited": false,
     "vesselFragments": 0,
-    "vesselFragmentCollected": false,
+    "vesselFragmentCollected": true,
     "MPReserveCap": 99,
-    "vesselFragmentMax": false,
+    "vesselFragmentMax": true,
     "focusMP_amount": 33,
     "atBench": false,
-    "respawnScene": "Tutorial_01",
-    "mapZone": 2,
-    "respawnMarkerName": "Death Respawn Marker",
-    "respawnType": 0,
-    "respawnFacingRight": false,
+    "respawnScene": "Town",
+    "mapZone": 4,
+    "respawnMarkerName": "RestBench",
+    "respawnType": 1,
+    "respawnFacingRight": true,
     "hazardRespawnFacingRight": false,
     "shadeScene": "None",
-    "shadeMapZone": "",
-    "shadePositionX": -999,
-    "shadePositionY": -999,
-    "shadeHealth": 0,
-    "shadeMP": 0,
-    "shadeFireballLevel": 0,
-    "shadeQuakeLevel": 0,
-    "shadeScreamLevel": 0,
+    "shadeMapZone": "COLOSSEUM",
+    "shadePositionX": 27.200000762939453,
+    "shadePositionY": 45.599998474121094,
+    "shadeHealth": 4,
+    "shadeMP": 4,
+    "shadeFireballLevel": 2,
+    "shadeQuakeLevel": 2,
+    "shadeScreamLevel": 2,
     "shadeSpecialType": 0,
     "shadeMapPos": {
-      "x": 0,
-      "y": 0,
+      "x": 13.252999305725098,
+      "y": 0.9220004081726074,
       "z": 0
     },
     "dreamgateMapPos": {
-      "x": 0,
-      "y": 0,
+      "x": -0.05499887466430664,
+      "y": -5.695000171661377,
       "z": 0
     },
     "geoPool": 0,
-    "nailDamage": 5,
+    "nailDamage": 21,
     "nailRange": 0,
-    "beamDamage": 2,
-    "canDash": false,
+    "beamDamage": 16,
+    "canDash": true,
     "canBackDash": false,
-    "canWallJump": false,
+    "canWallJump": true,
     "canSuperDash": false,
     "canShadowDash": false,
-    "hasSpell": false,
-    "fireballLevel": 0,
-    "quakeLevel": 0,
-    "screamLevel": 0,
-    "hasNailArt": false,
-    "hasCyclone": false,
-    "hasDashSlash": false,
-    "hasUpwardSlash": false,
-    "hasAllNailArts": false,
-    "hasDreamNail": false,
-    "hasDreamGate": false,
-    "dreamNailUpgraded": false,
-    "dreamOrbs": 0,
-    "dreamOrbsSpent": 0,
-    "dreamGateScene": "",
-    "dreamGateX": 0,
-    "dreamGateY": 0,
-    "hasDash": false,
-    "hasWalljump": false,
-    "hasSuperDash": false,
-    "hasShadowDash": false,
-    "hasAcidArmour": false,
-    "hasDoubleJump": false,
-    "hasLantern": false,
-    "hasTramPass": false,
-    "hasQuill": false,
-    "hasCityKey": false,
+    "hasSpell": true,
+    "fireballLevel": 2,
+    "quakeLevel": 2,
+    "screamLevel": 2,
+    "hasNailArt": true,
+    "hasCyclone": true,
+    "hasDashSlash": true,
+    "hasUpwardSlash": true,
+    "hasAllNailArts": true,
+    "hasDreamNail": true,
+    "hasDreamGate": true,
+    "dreamNailUpgraded": true,
+    "dreamOrbs": 2126,
+    "dreamOrbsSpent": -19,
+    "dreamGateScene": "GG_Waterways",
+    "dreamGateX": 38.84913635253906,
+    "dreamGateY": 15.408123016357422,
+    "hasDash": true,
+    "hasWalljump": true,
+    "hasSuperDash": true,
+    "hasShadowDash": true,
+    "hasAcidArmour": true,
+    "hasDoubleJump": true,
+    "hasLantern": true,
+    "hasTramPass": true,
+    "hasQuill": true,
+    "hasCityKey": true,
     "hasSlykey": false,
-    "gaveSlykey": false,
-    "hasWhiteKey": false,
-    "usedWhiteKey": false,
+    "gaveSlykey": true,
+    "hasWhiteKey": true,
+    "usedWhiteKey": true,
     "hasMenderKey": false,
     "hasWaterwaysKey": false,
     "hasSpaKey": false,
     "hasLoveKey": false,
-    "hasKingsBrand": false,
+    "hasKingsBrand": true,
     "hasXunFlower": false,
     "ghostCoins": 0,
     "ore": 0,
     "foundGhostCoin": false,
     "trinket1": 0,
-    "foundTrinket1": false,
-    "trinket2": 0,
-    "foundTrinket2": false,
-    "trinket3": 0,
-    "foundTrinket3": false,
-    "trinket4": 0,
-    "foundTrinket4": false,
-    "noTrinket1": false,
+    "foundTrinket1": true,
+    "trinket2": 3,
+    "foundTrinket2": true,
+    "trinket3": 3,
+    "foundTrinket3": true,
+    "trinket4": 3,
+    "foundTrinket4": true,
+    "noTrinket1": true,
     "noTrinket2": false,
     "noTrinket3": false,
     "noTrinket4": false,
-    "soldTrinket1": 0,
-    "soldTrinket2": 0,
-    "soldTrinket3": 0,
-    "soldTrinket4": 0,
+    "soldTrinket1": 10,
+    "soldTrinket2": 8,
+    "soldTrinket3": 4,
+    "soldTrinket4": 1,
     "simpleKeys": 0,
-    "rancidEggs": 0,
-    "notchShroomOgres": false,
-    "notchFogCanyon": false,
-    "gotLurkerKey": false,
-    "gMap_doorX": 0,
-    "gMap_doorY": 0,
-    "gMap_doorScene": "",
-    "gMap_doorMapZone": "",
+    "rancidEggs": 12,
+    "notchShroomOgres": true,
+    "notchFogCanyon": true,
+    "gotLurkerKey": true,
+    "gMap_doorX": 82.65388488769531,
+    "gMap_doorY": 11.408123970031738,
+    "gMap_doorScene": "Town",
+    "gMap_doorMapZone": "TOWN",
     "gMap_doorOriginOffsetX": 0,
     "gMap_doorOriginOffsetY": 0,
     "gMap_doorSceneWidth": 310,
     "gMap_doorSceneHeight": 95,
-    "guardiansDefeated": 0,
-    "lurienDefeated": false,
-    "hegemolDefeated": false,
-    "monomonDefeated": false,
-    "maskBrokenLurien": false,
-    "maskBrokenHegemol": false,
-    "maskBrokenMonomon": false,
+    "guardiansDefeated": 3,
+    "lurienDefeated": true,
+    "hegemolDefeated": true,
+    "monomonDefeated": true,
+    "maskBrokenLurien": true,
+    "maskBrokenHegemol": true,
+    "maskBrokenMonomon": true,
     "maskToBreak": 0,
-    "elderbug": 0,
+    "elderbug": 1,
     "metElderbug": false,
     "elderbugReintro": false,
     "elderbugHistory": 0,
@@ -163,94 +163,94 @@
     "elderbugSpeechFinalBossDoor": false,
     "elderbugRequestedFlower": false,
     "elderbugGaveFlower": false,
-    "elderbugFirstCall": false,
+    "elderbugFirstCall": true,
     "metQuirrel": false,
     "quirrelEggTemple": 0,
     "quirrelSlugShrine": 0,
     "quirrelRuins": 0,
     "quirrelMines": 0,
     "quirrelLeftStation": false,
-    "quirrelLeftEggTemple": false,
-    "quirrelCityEncountered": false,
-    "quirrelCityLeft": false,
-    "quirrelMinesEncountered": false,
+    "quirrelLeftEggTemple": true,
+    "quirrelCityEncountered": true,
+    "quirrelCityLeft": true,
+    "quirrelMinesEncountered": true,
     "quirrelMinesLeft": false,
     "quirrelMantisEncountered": false,
-    "enteredMantisLordArea": false,
-    "visitedDeepnestSpa": false,
-    "quirrelSpaReady": false,
+    "enteredMantisLordArea": true,
+    "visitedDeepnestSpa": true,
+    "quirrelSpaReady": true,
     "quirrelSpaEncountered": false,
-    "quirrelArchiveEncountered": false,
-    "quirrelEpilogueCompleted": false,
+    "quirrelArchiveEncountered": true,
+    "quirrelEpilogueCompleted": true,
     "metRelicDealer": false,
-    "metRelicDealerShop": false,
-    "marmOutside": false,
-    "marmOutsideConvo": false,
+    "metRelicDealerShop": true,
+    "marmOutside": true,
+    "marmOutsideConvo": true,
     "marmConvo1": false,
     "marmConvo2": false,
     "marmConvo3": false,
     "marmConvoNailsmith": false,
     "cornifer": 0,
-    "metCornifer": false,
+    "metCornifer": true,
     "corniferIntroduced": false,
-    "corniferAtHome": false,
+    "corniferAtHome": true,
     "corn_crossroadsEncountered": false,
-    "corn_crossroadsLeft": false,
+    "corn_crossroadsLeft": true,
     "corn_greenpathEncountered": false,
-    "corn_greenpathLeft": false,
-    "corn_fogCanyonEncountered": false,
-    "corn_fogCanyonLeft": false,
+    "corn_greenpathLeft": true,
+    "corn_fogCanyonEncountered": true,
+    "corn_fogCanyonLeft": true,
     "corn_fungalWastesEncountered": false,
-    "corn_fungalWastesLeft": false,
-    "corn_cityEncountered": false,
-    "corn_cityLeft": false,
-    "corn_waterwaysEncountered": false,
-    "corn_waterwaysLeft": false,
-    "corn_minesEncountered": false,
-    "corn_minesLeft": false,
-    "corn_cliffsEncountered": false,
-    "corn_cliffsLeft": false,
-    "corn_deepnestEncountered": false,
-    "corn_deepnestLeft": false,
+    "corn_fungalWastesLeft": true,
+    "corn_cityEncountered": true,
+    "corn_cityLeft": true,
+    "corn_waterwaysEncountered": true,
+    "corn_waterwaysLeft": true,
+    "corn_minesEncountered": true,
+    "corn_minesLeft": true,
+    "corn_cliffsEncountered": true,
+    "corn_cliffsLeft": true,
+    "corn_deepnestEncountered": true,
+    "corn_deepnestLeft": true,
     "corn_deepnestMet1": false,
-    "corn_deepnestMet2": false,
-    "corn_outskirtsEncountered": false,
-    "corn_outskirtsLeft": false,
-    "corn_royalGardensEncountered": false,
-    "corn_royalGardensLeft": false,
-    "corn_abyssEncountered": false,
-    "corn_abyssLeft": false,
-    "metIselda": false,
+    "corn_deepnestMet2": true,
+    "corn_outskirtsEncountered": true,
+    "corn_outskirtsLeft": true,
+    "corn_royalGardensEncountered": true,
+    "corn_royalGardensLeft": true,
+    "corn_abyssEncountered": true,
+    "corn_abyssLeft": true,
+    "metIselda": true,
     "iseldaCorniferHomeConvo": false,
-    "iseldaConvo1": false,
-    "brettaRescued": false,
+    "iseldaConvo1": true,
+    "brettaRescued": true,
     "brettaPosition": 0,
-    "brettaState": 0,
-    "brettaSeenBench": false,
+    "brettaState": 4,
+    "brettaSeenBench": true,
     "brettaSeenBed": false,
-    "brettaSeenBenchDiary": false,
+    "brettaSeenBenchDiary": true,
     "brettaSeenBedDiary": false,
     "brettaLeftTown": false,
-    "slyRescued": false,
+    "slyRescued": true,
     "slyBeta": false,
-    "metSlyShop": false,
-    "gotSlyCharm": false,
-    "slyShellFrag1": false,
-    "slyShellFrag2": false,
-    "slyShellFrag3": false,
-    "slyShellFrag4": false,
-    "slyVesselFrag1": false,
-    "slyVesselFrag2": false,
+    "metSlyShop": true,
+    "gotSlyCharm": true,
+    "slyShellFrag1": true,
+    "slyShellFrag2": true,
+    "slyShellFrag3": true,
+    "slyShellFrag4": true,
+    "slyVesselFrag1": true,
+    "slyVesselFrag2": true,
     "slyVesselFrag3": false,
     "slyVesselFrag4": false,
     "slyNotch1": false,
     "slyNotch2": false,
-    "slySimpleKey": false,
-    "slyRancidEgg": false,
+    "slySimpleKey": true,
+    "slyRancidEgg": true,
     "slyConvoNailArt": false,
     "slyConvoMapper": false,
     "slyConvoNailHoned": false,
-    "jijiDoorUnlocked": false,
+    "jijiDoorUnlocked": true,
     "jijiMet": false,
     "jijiShadeOffered": false,
     "jijiShadeCharmConvo": false,
@@ -262,18 +262,18 @@
     "jinnConvoShadeCharm": false,
     "jinnEggsSold": 0,
     "zote": 0,
-    "zoteRescuedBuzzer": false,
+    "zoteRescuedBuzzer": true,
     "zoteDead": false,
     "zoteDeathPos": 0,
     "zoteSpokenCity": false,
     "zoteLeftCity": false,
-    "zoteTrappedDeepnest": false,
+    "zoteTrappedDeepnest": true,
     "zoteRescuedDeepnest": false,
     "zoteDefeated": false,
     "zoteSpokenColosseum": false,
     "zotePrecept": 1,
     "zoteTownConvo": 0,
-    "shaman": 0,
+    "shaman": 6,
     "shamanScreamConvo": false,
     "shamanQuakeConvo": false,
     "shamanFireball2Convo": false,
@@ -282,60 +282,60 @@
     "metMiner": false,
     "miner": 0,
     "minerEarly": 0,
-    "hornetGreenpath": 0,
+    "hornetGreenpath": 4,
     "hornetFung": 0,
-    "hornet_f19": false,
-    "hornetFountainEncounter": false,
+    "hornet_f19": true,
+    "hornetFountainEncounter": true,
     "hornetCityBridge_ready": false,
-    "hornetCityBridge_completed": false,
-    "hornetAbyssEncounter": false,
+    "hornetCityBridge_completed": true,
+    "hornetAbyssEncounter": true,
     "hornetDenEncounter": false,
-    "metMoth": false,
-    "ignoredMoth": false,
-    "gladeDoorOpened": false,
+    "metMoth": true,
+    "ignoredMoth": true,
+    "gladeDoorOpened": true,
     "mothDeparted": false,
     "completedRGDreamPlant": false,
-    "dreamReward1": false,
-    "dreamReward2": false,
-    "dreamReward3": false,
-    "dreamReward4": false,
-    "dreamReward5": false,
-    "dreamReward5b": false,
-    "dreamReward6": false,
-    "dreamReward7": false,
-    "dreamReward8": false,
+    "dreamReward1": true,
+    "dreamReward2": true,
+    "dreamReward3": true,
+    "dreamReward4": true,
+    "dreamReward5": true,
+    "dreamReward5b": true,
+    "dreamReward6": true,
+    "dreamReward7": true,
+    "dreamReward8": true,
     "dreamReward9": false,
     "dreamMothConvo1": false,
-    "bankerAccountPurchased": false,
-    "metBanker": false,
-    "bankerBalance": 0,
+    "bankerAccountPurchased": true,
+    "metBanker": true,
+    "bankerBalance": -12,
     "bankerDeclined": false,
     "bankerTheftCheck": true,
-    "bankerTheft": 0,
+    "bankerTheft": 2,
     "bankerSpaMet": false,
     "metGiraffe": false,
-    "metCharmSlug": false,
-    "salubraNotch1": false,
-    "salubraNotch2": false,
-    "salubraNotch3": false,
-    "salubraNotch4": false,
-    "salubraBlessing": false,
+    "metCharmSlug": true,
+    "salubraNotch1": true,
+    "salubraNotch2": true,
+    "salubraNotch3": true,
+    "salubraNotch4": true,
+    "salubraBlessing": true,
     "salubraConvoCombo": false,
     "salubraConvoOvercharm": false,
     "salubraConvoTruth": false,
     "cultistTransformed": false,
-    "metNailsmith": false,
-    "nailSmithUpgrades": 0,
-    "honedNail": false,
-    "nailsmithCliff": false,
+    "metNailsmith": true,
+    "nailSmithUpgrades": 4,
+    "honedNail": true,
+    "nailsmithCliff": true,
     "nailsmithKilled": false,
-    "nailsmithSpared": false,
+    "nailsmithSpared": true,
     "nailsmithKillSpeech": false,
-    "nailsmithSheo": false,
+    "nailsmithSheo": true,
     "nailsmithConvoArt": false,
-    "metNailmasterMato": false,
-    "metNailmasterSheo": false,
-    "metNailmasterOro": false,
+    "metNailmasterMato": true,
+    "metNailmasterSheo": true,
+    "metNailmasterOro": true,
     "matoConvoSheo": false,
     "matoConvoOro": false,
     "matoConvoSly": false,
@@ -346,37 +346,37 @@
     "oroConvoSheo": false,
     "oroConvoMato": false,
     "oroConvoSly": false,
-    "hunterRoared": false,
-    "metHunter": false,
+    "hunterRoared": true,
+    "metHunter": true,
     "hunterRewardOffered": false,
     "huntersMarkOffered": false,
     "hasHuntersMark": false,
-    "metLegEater": false,
-    "paidLegEater": false,
+    "metLegEater": true,
+    "paidLegEater": true,
     "refusedLegEater": false,
     "legEaterConvo1": false,
     "legEaterConvo2": false,
     "legEaterConvo3": false,
     "legEaterBrokenConvo": false,
-    "legEaterDungConvo": false,
+    "legEaterDungConvo": true,
     "legEaterInfectedCrossroadConvo": false,
     "legEaterBoughtConvo": false,
     "legEaterGoldConvo": false,
     "legEaterLeft": false,
-    "tukMet": false,
-    "tukEggPrice": 0,
+    "tukMet": true,
+    "tukEggPrice": 99,
     "tukDungEgg": false,
-    "metEmilitia": false,
+    "metEmilitia": true,
     "emilitiaKingsBrandConvo": false,
     "metCloth": false,
-    "clothEnteredTramRoom": false,
+    "clothEnteredTramRoom": true,
     "savedCloth": false,
-    "clothEncounteredQueensGarden": false,
+    "clothEncounteredQueensGarden": true,
     "clothKilled": false,
     "clothInTown": false,
     "clothLeftTown": false,
     "clothGhostSpoken": false,
-    "bigCatHitTail": false,
+    "bigCatHitTail": true,
     "bigCatHitTailConvo": false,
     "bigCatMeet": false,
     "bigCatTalk1": false,
@@ -390,15 +390,15 @@
     "tisoEncounteredColosseum": false,
     "tisoDead": false,
     "tisoShieldConvo": false,
-    "mossCultist": 0,
-    "maskmakerMet": false,
+    "mossCultist": 1,
+    "maskmakerMet": true,
     "maskmakerConvo1": false,
     "maskmakerConvo2": false,
     "maskmakerUnmasked1": false,
     "maskmakerUnmasked2": false,
     "maskmakerShadowDash": false,
     "maskmakerKingsBrand": false,
-    "dungDefenderConvo1": false,
+    "dungDefenderConvo1": true,
     "dungDefenderConvo2": false,
     "dungDefenderConvo3": false,
     "dungDefenderCharmConvo": false,
@@ -409,689 +409,695 @@
     "midwifeMet": false,
     "midwifeConvo1": false,
     "midwifeConvo2": false,
-    "metQueen": false,
+    "metQueen": true,
     "queenTalk1": false,
     "queenTalk2": false,
     "queenDung1": false,
     "queenDung2": false,
     "queenHornet": false,
     "queenTalkExtra": false,
-    "gotQueenFragment": false,
+    "gotQueenFragment": true,
     "queenConvo_grimm1": false,
     "queenConvo_grimm2": false,
-    "gotKingFragment": false,
-    "metXun": false,
-    "xunFailedConvo1": false,
-    "xunFailedConvo2": true,
+    "gotKingFragment": true,
+    "metXun": true,
+    "xunFailedConvo1": true,
+    "xunFailedConvo2": false,
     "xunFlowerBroken": false,
-    "xunFlowerBrokeTimes": 0,
-    "xunFlowerGiven": false,
-    "xunRewardGiven": false,
-    "menderState": 0,
+    "xunFlowerBrokeTimes": 17,
+    "xunFlowerGiven": true,
+    "xunRewardGiven": true,
+    "menderState": 1,
     "menderSignBroken": false,
     "allBelieverTabletsDestroyed": false,
-    "mrMushroomState": 0,
-    "openedMapperShop": false,
+    "mrMushroomState": 1,
+    "openedMapperShop": true,
     "openedSlyShop": false,
-    "metStag": false,
+    "metStag": true,
     "travelling": false,
-    "stagPosition": -1,
-    "stationsOpened": 0,
+    "stagPosition": 6,
+    "stationsOpened": 9,
     "stagConvoTram": false,
     "stagConvoTiso": false,
-    "stagRemember1": false,
-    "stagRemember2": false,
-    "stagRemember3": false,
-    "stagEggInspected": false,
-    "stagHopeConvo": false,
-    "nextScene": "",
-    "littleFoolMet": false,
+    "stagRemember1": true,
+    "stagRemember2": true,
+    "stagRemember3": true,
+    "stagEggInspected": true,
+    "stagHopeConvo": true,
+    "nextScene": "Ruins2_08",
+    "littleFoolMet": true,
     "ranAway": false,
-    "seenColosseumTitle": false,
-    "colosseumBronzeOpened": false,
-    "colosseumBronzeCompleted": false,
-    "colosseumSilverOpened": false,
-    "colosseumSilverCompleted": false,
-    "colosseumGoldOpened": false,
+    "seenColosseumTitle": true,
+    "colosseumBronzeOpened": true,
+    "colosseumBronzeCompleted": true,
+    "colosseumSilverOpened": true,
+    "colosseumSilverCompleted": true,
+    "colosseumGoldOpened": true,
     "colosseumGoldCompleted": false,
     "openedTown": true,
-    "openedTownBuilding": false,
-    "openedCrossroads": false,
-    "openedGreenpath": false,
-    "openedRuins1": false,
-    "openedRuins2": false,
-    "openedFungalWastes": false,
-    "openedRoyalGardens": false,
-    "openedRestingGrounds": false,
-    "openedDeepnest": false,
-    "openedStagNest": false,
-    "openedHiddenStation": false,
-    "dreamReturnScene": "Dream_NailCollection",
-    "charmSlots": 3,
-    "charmSlotsFilled": 0,
-    "hasCharm": false,
-    "equippedCharms": [],
-    "charmBenchMsg": false,
-    "charmsOwned": 0,
-    "canOvercharm": false,
+    "openedTownBuilding": true,
+    "openedCrossroads": true,
+    "openedGreenpath": true,
+    "openedRuins1": true,
+    "openedRuins2": true,
+    "openedFungalWastes": true,
+    "openedRoyalGardens": true,
+    "openedRestingGrounds": true,
+    "openedDeepnest": true,
+    "openedStagNest": true,
+    "openedHiddenStation": true,
+    "dreamReturnScene": "Grimm_Main_Tent",
+    "charmSlots": 11,
+    "charmSlotsFilled": 11,
+    "hasCharm": true,
+    "equippedCharms": [
+      36,
+      13,
+      32,
+      25,
+      40
+    ],
+    "charmBenchMsg": true,
+    "charmsOwned": 39,
+    "canOvercharm": true,
     "overcharmed": false,
-    "gotCharm_1": false,
+    "gotCharm_1": true,
     "equippedCharm_1": false,
     "charmCost_1": 1,
-    "newCharm_1": true,
-    "gotCharm_2": false,
+    "newCharm_1": false,
+    "gotCharm_2": true,
     "equippedCharm_2": false,
     "charmCost_2": 1,
-    "newCharm_2": true,
-    "gotCharm_3": false,
+    "newCharm_2": false,
+    "gotCharm_3": true,
     "equippedCharm_3": false,
     "charmCost_3": 1,
-    "newCharm_3": true,
-    "gotCharm_4": false,
+    "newCharm_3": false,
+    "gotCharm_4": true,
     "equippedCharm_4": false,
     "charmCost_4": 2,
-    "newCharm_4": true,
-    "gotCharm_5": false,
+    "newCharm_4": false,
+    "gotCharm_5": true,
     "equippedCharm_5": false,
     "charmCost_5": 2,
-    "newCharm_5": true,
-    "gotCharm_6": false,
+    "newCharm_5": false,
+    "gotCharm_6": true,
     "equippedCharm_6": false,
     "charmCost_6": 2,
-    "newCharm_6": true,
-    "gotCharm_7": false,
+    "newCharm_6": false,
+    "gotCharm_7": true,
     "equippedCharm_7": false,
     "charmCost_7": 3,
-    "newCharm_7": true,
-    "gotCharm_8": false,
+    "newCharm_7": false,
+    "gotCharm_8": true,
     "equippedCharm_8": false,
     "charmCost_8": 2,
-    "newCharm_8": true,
-    "gotCharm_9": false,
+    "newCharm_8": false,
+    "gotCharm_9": true,
     "equippedCharm_9": false,
     "charmCost_9": 3,
-    "newCharm_9": true,
-    "gotCharm_10": false,
+    "newCharm_9": false,
+    "gotCharm_10": true,
     "equippedCharm_10": false,
     "charmCost_10": 1,
-    "newCharm_10": true,
-    "gotCharm_11": false,
+    "newCharm_10": false,
+    "gotCharm_11": true,
     "equippedCharm_11": false,
     "charmCost_11": 3,
-    "newCharm_11": true,
-    "gotCharm_12": false,
+    "newCharm_11": false,
+    "gotCharm_12": true,
     "equippedCharm_12": false,
     "charmCost_12": 1,
-    "newCharm_12": true,
-    "gotCharm_13": false,
-    "equippedCharm_13": false,
+    "newCharm_12": false,
+    "gotCharm_13": true,
+    "equippedCharm_13": true,
     "charmCost_13": 3,
-    "newCharm_13": true,
-    "gotCharm_14": false,
+    "newCharm_13": false,
+    "gotCharm_14": true,
     "equippedCharm_14": false,
     "charmCost_14": 1,
-    "newCharm_14": true,
-    "gotCharm_15": false,
+    "newCharm_14": false,
+    "gotCharm_15": true,
     "equippedCharm_15": false,
     "charmCost_15": 2,
-    "newCharm_15": true,
-    "gotCharm_16": false,
+    "newCharm_15": false,
+    "gotCharm_16": true,
     "equippedCharm_16": false,
     "charmCost_16": 2,
-    "newCharm_16": true,
-    "gotCharm_17": false,
+    "newCharm_16": false,
+    "gotCharm_17": true,
     "equippedCharm_17": false,
     "charmCost_17": 1,
-    "newCharm_17": true,
-    "gotCharm_18": false,
+    "newCharm_17": false,
+    "gotCharm_18": true,
     "equippedCharm_18": false,
     "charmCost_18": 2,
-    "newCharm_18": true,
-    "gotCharm_19": false,
+    "newCharm_18": false,
+    "gotCharm_19": true,
     "equippedCharm_19": false,
     "charmCost_19": 3,
-    "newCharm_19": true,
-    "gotCharm_20": false,
+    "newCharm_19": false,
+    "gotCharm_20": true,
     "equippedCharm_20": false,
     "charmCost_20": 2,
-    "newCharm_20": true,
-    "gotCharm_21": false,
+    "newCharm_20": false,
+    "gotCharm_21": true,
     "equippedCharm_21": false,
     "charmCost_21": 4,
-    "newCharm_21": true,
-    "gotCharm_22": false,
+    "newCharm_21": false,
+    "gotCharm_22": true,
     "equippedCharm_22": false,
     "charmCost_22": 2,
-    "newCharm_22": true,
-    "gotCharm_23": false,
+    "newCharm_22": false,
+    "gotCharm_23": true,
     "equippedCharm_23": false,
     "brokenCharm_23": false,
     "charmCost_23": 2,
-    "newCharm_23": true,
+    "newCharm_23": false,
     "gotCharm_24": false,
     "equippedCharm_24": false,
     "brokenCharm_24": false,
     "charmCost_24": 2,
-    "newCharm_24": true,
-    "gotCharm_25": false,
-    "equippedCharm_25": false,
+    "newCharm_24": false,
+    "gotCharm_25": true,
+    "equippedCharm_25": true,
     "brokenCharm_25": false,
     "charmCost_25": 3,
-    "newCharm_25": true,
-    "gotCharm_26": false,
+    "newCharm_25": false,
+    "gotCharm_26": true,
     "equippedCharm_26": false,
     "charmCost_26": 1,
-    "newCharm_26": true,
-    "gotCharm_27": false,
+    "newCharm_26": false,
+    "gotCharm_27": true,
     "equippedCharm_27": false,
     "charmCost_27": 4,
-    "newCharm_27": true,
-    "gotCharm_28": false,
+    "newCharm_27": false,
+    "gotCharm_28": true,
     "equippedCharm_28": false,
     "charmCost_28": 2,
-    "newCharm_28": true,
-    "gotCharm_29": false,
+    "newCharm_28": false,
+    "gotCharm_29": true,
     "equippedCharm_29": false,
     "charmCost_29": 4,
-    "newCharm_29": true,
-    "gotCharm_30": false,
+    "newCharm_29": false,
+    "gotCharm_30": true,
     "equippedCharm_30": false,
     "charmCost_30": 1,
-    "newCharm_30": true,
-    "gotCharm_31": false,
+    "newCharm_30": false,
+    "gotCharm_31": true,
     "equippedCharm_31": false,
     "charmCost_31": 2,
-    "newCharm_31": true,
-    "gotCharm_32": false,
-    "equippedCharm_32": false,
+    "newCharm_31": false,
+    "gotCharm_32": true,
+    "equippedCharm_32": true,
     "charmCost_32": 3,
-    "newCharm_32": true,
-    "gotCharm_33": false,
+    "newCharm_32": false,
+    "gotCharm_33": true,
     "equippedCharm_33": false,
     "charmCost_33": 2,
-    "newCharm_33": true,
-    "gotCharm_34": false,
+    "newCharm_33": false,
+    "gotCharm_34": true,
     "equippedCharm_34": false,
     "charmCost_34": 4,
-    "newCharm_34": true,
-    "gotCharm_35": false,
+    "newCharm_34": false,
+    "gotCharm_35": true,
     "equippedCharm_35": false,
     "charmCost_35": 3,
-    "newCharm_35": true,
-    "gotCharm_36": false,
-    "equippedCharm_36": false,
-    "charmCost_36": 5,
-    "newCharm_36": true,
-    "gotCharm_37": false,
+    "newCharm_35": false,
+    "gotCharm_36": true,
+    "equippedCharm_36": true,
+    "charmCost_36": 0,
+    "newCharm_36": false,
+    "gotCharm_37": true,
     "equippedCharm_37": false,
     "charmCost_37": 1,
     "newCharm_37": false,
-    "gotCharm_38": false,
+    "gotCharm_38": true,
     "equippedCharm_38": false,
     "charmCost_38": 3,
     "newCharm_38": false,
-    "gotCharm_39": false,
+    "gotCharm_39": true,
     "equippedCharm_39": false,
     "charmCost_39": 2,
     "newCharm_39": false,
-    "gotCharm_40": false,
-    "equippedCharm_40": false,
+    "gotCharm_40": true,
+    "equippedCharm_40": true,
     "charmCost_40": 2,
     "newCharm_40": false,
     "fragileHealth_unbreakable": false,
     "fragileGreed_unbreakable": false,
-    "fragileStrength_unbreakable": false,
-    "royalCharmState": 0,
-    "hasJournal": false,
-    "lastJournalItem": 0,
-    "killedDummy": false,
+    "fragileStrength_unbreakable": true,
+    "royalCharmState": 4,
+    "hasJournal": true,
+    "lastJournalItem": 34,
+    "killedDummy": true,
     "killsDummy": 0,
-    "newDataDummy": false,
-    "seenJournalMsg": false,
-    "seenHunterMsg": false,
+    "newDataDummy": true,
+    "seenJournalMsg": true,
+    "seenHunterMsg": true,
     "fillJournal": false,
-    "journalEntriesCompleted": 0,
-    "journalNotesCompleted": 0,
-    "journalEntriesTotal": 0,
+    "journalEntriesCompleted": 146,
+    "journalNotesCompleted": 116,
+    "journalEntriesTotal": 151,
     "killedCrawler": true,
     "killsCrawler": 0,
     "newDataCrawler": false,
-    "killedBuzzer": false,
-    "killsBuzzer": 45,
+    "killedBuzzer": true,
+    "killsBuzzer": 0,
     "newDataBuzzer": false,
-    "killedBouncer": false,
-    "killsBouncer": 25,
+    "killedBouncer": true,
+    "killsBouncer": 0,
     "newDataBouncer": false,
-    "killedClimber": false,
-    "killsClimber": 30,
+    "killedClimber": true,
+    "killsClimber": 0,
     "newDataClimber": false,
-    "killedHopper": false,
-    "killsHopper": 25,
-    "newDataHopper": false,
-    "killedWorm": false,
-    "killsWorm": 10,
+    "killedHopper": true,
+    "killsHopper": 0,
+    "newDataHopper": true,
+    "killedWorm": true,
+    "killsWorm": 0,
     "newDataWorm": false,
-    "killedSpitter": false,
-    "killsSpitter": 20,
+    "killedSpitter": true,
+    "killsSpitter": 0,
     "newDataSpitter": false,
-    "killedHatcher": false,
-    "killsHatcher": 15,
+    "killedHatcher": true,
+    "killsHatcher": 0,
     "newDataHatcher": false,
-    "killedHatchling": false,
-    "killsHatchling": 30,
+    "killedHatchling": true,
+    "killsHatchling": 0,
     "newDataHatchling": false,
-    "killedZombieRunner": false,
-    "killsZombieRunner": 35,
+    "killedZombieRunner": true,
+    "killsZombieRunner": 0,
     "newDataZombieRunner": false,
-    "killedZombieHornhead": false,
-    "killsZombieHornhead": 35,
+    "killedZombieHornhead": true,
+    "killsZombieHornhead": 0,
     "newDataZombieHornhead": false,
-    "killedZombieLeaper": false,
-    "killsZombieLeaper": 35,
+    "killedZombieLeaper": true,
+    "killsZombieLeaper": 7,
     "newDataZombieLeaper": false,
-    "killedZombieBarger": false,
-    "killsZombieBarger": 35,
+    "killedZombieBarger": true,
+    "killsZombieBarger": 0,
     "newDataZombieBarger": false,
-    "killedZombieShield": false,
-    "killsZombieShield": 10,
+    "killedZombieShield": true,
+    "killsZombieShield": 4,
     "newDataZombieShield": false,
-    "killedZombieGuard": false,
-    "killsZombieGuard": 6,
+    "killedZombieGuard": true,
+    "killsZombieGuard": 0,
     "newDataZombieGuard": false,
-    "killedBigBuzzer": false,
-    "killsBigBuzzer": 2,
+    "killedBigBuzzer": true,
+    "killsBigBuzzer": 0,
     "newDataBigBuzzer": false,
-    "killedBigFly": false,
-    "killsBigFly": 3,
+    "killedBigFly": true,
+    "killsBigFly": 0,
     "newDataBigFly": false,
-    "killedMawlek": false,
-    "killsMawlek": 1,
-    "newDataMawlek": false,
-    "killedFalseKnight": false,
-    "killsFalseKnight": 1,
+    "killedMawlek": true,
+    "killsMawlek": 0,
+    "newDataMawlek": true,
+    "killedFalseKnight": true,
+    "killsFalseKnight": 0,
     "newDataFalseKnight": false,
-    "killedRoller": false,
-    "killsRoller": 20,
+    "killedRoller": true,
+    "killsRoller": 0,
     "newDataRoller": false,
-    "killedBlocker": false,
-    "killsBlocker": 1,
+    "killedBlocker": true,
+    "killsBlocker": 0,
     "newDataBlocker": false,
-    "killedPrayerSlug": false,
-    "killsPrayerSlug": 2,
+    "killedPrayerSlug": true,
+    "killsPrayerSlug": 0,
     "newDataPrayerSlug": false,
     "killedMenderBug": false,
     "killsMenderBug": 1,
     "newDataMenderBug": false,
-    "killedMossmanRunner": false,
-    "killsMossmanRunner": 25,
+    "killedMossmanRunner": true,
+    "killsMossmanRunner": 19,
     "newDataMossmanRunner": false,
-    "killedMossmanShaker": false,
-    "killsMossmanShaker": 25,
+    "killedMossmanShaker": true,
+    "killsMossmanShaker": 5,
     "newDataMossmanShaker": false,
-    "killedMosquito": false,
-    "killsMosquito": 25,
+    "killedMosquito": true,
+    "killsMosquito": 0,
     "newDataMosquito": false,
-    "killedBlobFlyer": false,
-    "killsBlobFlyer": 20,
+    "killedBlobFlyer": true,
+    "killsBlobFlyer": 0,
     "newDataBlobFlyer": false,
-    "killedFungifiedZombie": false,
-    "killsFungifiedZombie": 10,
-    "newDataFungifiedZombie": false,
-    "killedPlantShooter": false,
-    "killsPlantShooter": 15,
+    "killedFungifiedZombie": true,
+    "killsFungifiedZombie": 4,
+    "newDataFungifiedZombie": true,
+    "killedPlantShooter": true,
+    "killsPlantShooter": 14,
     "newDataPlantShooter": false,
-    "killedMossCharger": false,
-    "killsMossCharger": 15,
+    "killedMossCharger": true,
+    "killsMossCharger": 3,
     "newDataMossCharger": false,
-    "killedMegaMossCharger": false,
-    "killsMegaMossCharger": 1,
+    "killedMegaMossCharger": true,
+    "killsMegaMossCharger": 0,
     "newDataMegaMossCharger": false,
-    "killedSnapperTrap": false,
-    "killsSnapperTrap": 15,
+    "killedSnapperTrap": true,
+    "killsSnapperTrap": 4,
     "newDataSnapperTrap": false,
-    "killedMossKnight": false,
-    "killsMossKnight": 8,
+    "killedMossKnight": true,
+    "killsMossKnight": 3,
     "newDataMossKnight": false,
-    "killedGrassHopper": false,
-    "killsGrassHopper": 15,
-    "newDataGrassHopper": false,
+    "killedGrassHopper": true,
+    "killsGrassHopper": 14,
+    "newDataGrassHopper": true,
     "killedAcidFlyer": false,
     "killsAcidFlyer": 8,
     "newDataAcidFlyer": false,
     "killedAcidWalker": false,
     "killsAcidWalker": 8,
     "newDataAcidWalker": false,
-    "killedMossFlyer": false,
-    "killsMossFlyer": 25,
+    "killedMossFlyer": true,
+    "killsMossFlyer": 0,
     "newDataMossFlyer": false,
-    "killedMossKnightFat": false,
-    "killsMossKnightFat": 10,
+    "killedMossKnightFat": true,
+    "killsMossKnightFat": 0,
     "newDataMossKnightFat": false,
-    "killedMossWalker": false,
-    "killsMossWalker": 30,
+    "killedMossWalker": true,
+    "killsMossWalker": 7,
     "newDataMossWalker": false,
-    "killedInfectedKnight": false,
-    "killsInfectedKnight": 1,
-    "newDataInfectedKnight": false,
+    "killedInfectedKnight": true,
+    "killsInfectedKnight": 0,
+    "newDataInfectedKnight": true,
     "killedLazyFlyer": false,
     "killsLazyFlyer": 1,
     "newDataLazyFlyer": false,
-    "killedZapBug": false,
-    "killsZapBug": 1,
-    "newDataZapBug": false,
-    "killedJellyfish": false,
-    "killsJellyfish": 12,
+    "killedZapBug": true,
+    "killsZapBug": 0,
+    "newDataZapBug": true,
+    "killedJellyfish": true,
+    "killsJellyfish": 0,
     "newDataJellyfish": false,
-    "killedJellyCrawler": false,
-    "killsJellyCrawler": 20,
-    "newDataJellyCrawler": false,
-    "killedMegaJellyfish": false,
-    "killsMegaJellyfish": 1,
-    "newDataMegaJellyfish": false,
-    "killedFungoonBaby": false,
-    "killsFungoonBaby": 30,
-    "newDataFungoonBaby": false,
-    "killedMushroomTurret": false,
-    "killsMushroomTurret": 20,
-    "newDataMushroomTurret": false,
-    "killedMantis": false,
-    "killsMantis": 25,
-    "newDataMantis": false,
-    "killedMushroomRoller": false,
-    "killsMushroomRoller": 20,
-    "newDataMushroomRoller": false,
-    "killedMushroomBrawler": false,
-    "killsMushroomBrawler": 8,
-    "newDataMushroomBrawler": false,
-    "killedMushroomBaby": false,
-    "killsMushroomBaby": 20,
+    "killedJellyCrawler": true,
+    "killsJellyCrawler": 0,
+    "newDataJellyCrawler": true,
+    "killedMegaJellyfish": true,
+    "killsMegaJellyfish": 0,
+    "newDataMegaJellyfish": true,
+    "killedFungoonBaby": true,
+    "killsFungoonBaby": 0,
+    "newDataFungoonBaby": true,
+    "killedMushroomTurret": true,
+    "killsMushroomTurret": 7,
+    "newDataMushroomTurret": true,
+    "killedMantis": true,
+    "killsMantis": 13,
+    "newDataMantis": true,
+    "killedMushroomRoller": true,
+    "killsMushroomRoller": 6,
+    "newDataMushroomRoller": true,
+    "killedMushroomBrawler": true,
+    "killsMushroomBrawler": 0,
+    "newDataMushroomBrawler": true,
+    "killedMushroomBaby": true,
+    "killsMushroomBaby": 0,
     "newDataMushroomBaby": false,
-    "killedMantisFlyerChild": false,
-    "killsMantisFlyerChild": 25,
+    "killedMantisFlyerChild": true,
+    "killsMantisFlyerChild": 2,
     "newDataMantisFlyerChild": false,
-    "killedFungusFlyer": false,
-    "killsFungusFlyer": 20,
+    "killedFungusFlyer": true,
+    "killsFungusFlyer": 0,
     "newDataFungusFlyer": false,
-    "killedFungCrawler": false,
-    "killsFungCrawler": 15,
-    "newDataFungCrawler": false,
-    "killedMantisLord": false,
-    "killsMantisLord": 1,
-    "newDataMantisLord": false,
-    "killedBlackKnight": false,
-    "killsBlackKnight": 10,
-    "newDataBlackKnight": false,
-    "killedElectricMage": false,
-    "killsElectricMage": 6,
-    "newDataElectricMage": false,
-    "killedMage": false,
-    "killsMage": 20,
+    "killedFungCrawler": true,
+    "killsFungCrawler": 0,
+    "newDataFungCrawler": true,
+    "killedMantisLord": true,
+    "killsMantisLord": 0,
+    "newDataMantisLord": true,
+    "killedBlackKnight": true,
+    "killsBlackKnight": 0,
+    "newDataBlackKnight": true,
+    "killedElectricMage": true,
+    "killsElectricMage": 0,
+    "newDataElectricMage": true,
+    "killedMage": true,
+    "killsMage": 3,
     "newDataMage": false,
-    "killedMageKnight": false,
-    "killsMageKnight": 2,
-    "newDataMageKnight": false,
-    "killedRoyalDandy": false,
-    "killsRoyalDandy": 25,
+    "killedMageKnight": true,
+    "killsMageKnight": 0,
+    "newDataMageKnight": true,
+    "killedRoyalDandy": true,
+    "killsRoyalDandy": 0,
     "newDataRoyalDandy": false,
-    "killedRoyalCoward": false,
-    "killsRoyalCoward": 25,
-    "newDataRoyalCoward": false,
-    "killedRoyalPlumper": false,
-    "killsRoyalPlumper": 25,
-    "newDataRoyalPlumper": false,
-    "killedFlyingSentrySword": false,
-    "killsFlyingSentrySword": 30,
-    "newDataFlyingSentrySword": false,
-    "killedFlyingSentryJavelin": false,
-    "killsFlyingSentryJavelin": 25,
+    "killedRoyalCoward": true,
+    "killsRoyalCoward": 0,
+    "newDataRoyalCoward": true,
+    "killedRoyalPlumper": true,
+    "killsRoyalPlumper": 0,
+    "newDataRoyalPlumper": true,
+    "killedFlyingSentrySword": true,
+    "killsFlyingSentrySword": 0,
+    "newDataFlyingSentrySword": true,
+    "killedFlyingSentryJavelin": true,
+    "killsFlyingSentryJavelin": 0,
     "newDataFlyingSentryJavelin": false,
-    "killedSentry": false,
-    "killsSentry": 25,
+    "killedSentry": true,
+    "killsSentry": 0,
     "newDataSentry": false,
-    "killedSentryFat": false,
-    "killsSentryFat": 20,
-    "newDataSentryFat": false,
-    "killedMageBlob": false,
-    "killsMageBlob": 25,
-    "newDataMageBlob": false,
-    "killedGreatShieldZombie": false,
-    "killsGreatShieldZombie": 10,
-    "newDataGreatShieldZombie": false,
-    "killedJarCollector": false,
-    "killsJarCollector": 1,
-    "newDataJarCollector": false,
-    "killedMageBalloon": false,
-    "killsMageBalloon": 15,
-    "newDataMageBalloon": false,
-    "killedMageLord": false,
-    "killsMageLord": 1,
-    "newDataMageLord": false,
-    "killedGorgeousHusk": false,
-    "killsGorgeousHusk": 1,
+    "killedSentryFat": true,
+    "killsSentryFat": 4,
+    "newDataSentryFat": true,
+    "killedMageBlob": true,
+    "killsMageBlob": 0,
+    "newDataMageBlob": true,
+    "killedGreatShieldZombie": true,
+    "killsGreatShieldZombie": 0,
+    "newDataGreatShieldZombie": true,
+    "killedJarCollector": true,
+    "killsJarCollector": 0,
+    "newDataJarCollector": true,
+    "killedMageBalloon": true,
+    "killsMageBalloon": 0,
+    "newDataMageBalloon": true,
+    "killedMageLord": true,
+    "killsMageLord": 0,
+    "newDataMageLord": true,
+    "killedGorgeousHusk": true,
+    "killsGorgeousHusk": 0,
     "newDataGorgeousHusk": false,
-    "killedFlipHopper": false,
-    "killsFlipHopper": 20,
-    "newDataFlipHopper": false,
-    "killedFlukeman": false,
-    "killsFlukeman": 20,
+    "killedFlipHopper": true,
+    "killsFlipHopper": 0,
+    "newDataFlipHopper": true,
+    "killedFlukeman": true,
+    "killsFlukeman": 0,
     "newDataFlukeman": false,
-    "killedInflater": false,
-    "killsInflater": 20,
-    "newDataInflater": false,
-    "killedFlukefly": false,
-    "killsFlukefly": 15,
-    "newDataFlukefly": false,
-    "killedFlukeMother": false,
-    "killsFlukeMother": 1,
-    "newDataFlukeMother": false,
-    "killedDungDefender": false,
-    "killsDungDefender": 1,
-    "newDataDungDefender": false,
-    "killedCrystalCrawler": false,
-    "killsCrystalCrawler": 15,
-    "newDataCrystalCrawler": false,
-    "killedCrystalFlyer": false,
-    "killsCrystalFlyer": 20,
+    "killedInflater": true,
+    "killsInflater": 0,
+    "newDataInflater": true,
+    "killedFlukefly": true,
+    "killsFlukefly": 0,
+    "newDataFlukefly": true,
+    "killedFlukeMother": true,
+    "killsFlukeMother": 0,
+    "newDataFlukeMother": true,
+    "killedDungDefender": true,
+    "killsDungDefender": 0,
+    "newDataDungDefender": true,
+    "killedCrystalCrawler": true,
+    "killsCrystalCrawler": 0,
+    "newDataCrystalCrawler": true,
+    "killedCrystalFlyer": true,
+    "killsCrystalFlyer": 10,
     "newDataCrystalFlyer": false,
-    "killedLaserBug": false,
-    "killsLaserBug": 15,
-    "newDataLaserBug": false,
-    "killedBeamMiner": false,
-    "killsBeamMiner": 15,
+    "killedLaserBug": true,
+    "killsLaserBug": 11,
+    "newDataLaserBug": true,
+    "killedBeamMiner": true,
+    "killsBeamMiner": 5,
     "newDataBeamMiner": false,
-    "killedZombieMiner": false,
-    "killsZombieMiner": 20,
-    "newDataZombieMiner": false,
-    "killedMegaBeamMiner": false,
-    "killsMegaBeamMiner": 2,
-    "newDataMegaBeamMiner": false,
-    "killedMinesCrawler": false,
-    "killsMinesCrawler": 15,
-    "newDataMinesCrawler": false,
-    "killedAngryBuzzer": false,
-    "killsAngryBuzzer": 15,
-    "newDataAngryBuzzer": false,
-    "killedBurstingBouncer": false,
-    "killsBurstingBouncer": 15,
+    "killedZombieMiner": true,
+    "killsZombieMiner": 0,
+    "newDataZombieMiner": true,
+    "killedMegaBeamMiner": true,
+    "killsMegaBeamMiner": 0,
+    "newDataMegaBeamMiner": true,
+    "killedMinesCrawler": true,
+    "killsMinesCrawler": 0,
+    "newDataMinesCrawler": true,
+    "killedAngryBuzzer": true,
+    "killsAngryBuzzer": 0,
+    "newDataAngryBuzzer": true,
+    "killedBurstingBouncer": true,
+    "killsBurstingBouncer": 0,
     "newDataBurstingBouncer": false,
-    "killedBurstingZombie": false,
-    "killsBurstingZombie": 15,
-    "newDataBurstingZombie": false,
-    "killedSpittingZombie": false,
-    "killsSpittingZombie": 15,
-    "newDataSpittingZombie": false,
-    "killedBabyCentipede": false,
-    "killsBabyCentipede": 35,
+    "killedBurstingZombie": true,
+    "killsBurstingZombie": 4,
+    "newDataBurstingZombie": true,
+    "killedSpittingZombie": true,
+    "killsSpittingZombie": 9,
+    "newDataSpittingZombie": true,
+    "killedBabyCentipede": true,
+    "killsBabyCentipede": 0,
     "newDataBabyCentipede": false,
     "killedBigCentipede": false,
     "killsBigCentipede": 10,
     "newDataBigCentipede": false,
-    "killedCentipedeHatcher": false,
-    "killsCentipedeHatcher": 15,
-    "newDataCentipedeHatcher": false,
-    "killedLesserMawlek": false,
-    "killsLesserMawlek": 10,
+    "killedCentipedeHatcher": true,
+    "killsCentipedeHatcher": 0,
+    "newDataCentipedeHatcher": true,
+    "killedLesserMawlek": true,
+    "killsLesserMawlek": 0,
     "newDataLesserMawlek": false,
-    "killedSlashSpider": false,
-    "killsSlashSpider": 15,
+    "killedSlashSpider": true,
+    "killsSlashSpider": 5,
     "newDataSlashSpider": false,
-    "killedSpiderCorpse": false,
-    "killsSpiderCorpse": 15,
-    "newDataSpiderCorpse": false,
-    "killedShootSpider": false,
-    "killsShootSpider": 20,
-    "newDataShootSpider": false,
-    "killedMiniSpider": false,
-    "killsMiniSpider": 25,
+    "killedSpiderCorpse": true,
+    "killsSpiderCorpse": 0,
+    "newDataSpiderCorpse": true,
+    "killedShootSpider": true,
+    "killsShootSpider": 0,
+    "newDataShootSpider": true,
+    "killedMiniSpider": true,
+    "killsMiniSpider": 7,
     "newDataMiniSpider": false,
-    "killedSpiderFlyer": false,
-    "killsSpiderFlyer": 20,
-    "newDataSpiderFlyer": false,
-    "killedMimicSpider": false,
-    "killsMimicSpider": 1,
-    "newDataMimicSpider": false,
-    "killedBeeHatchling": false,
-    "killsBeeHatchling": 30,
-    "newDataBeeHatchling": false,
-    "killedBeeStinger": false,
-    "killsBeeStinger": 15,
+    "killedSpiderFlyer": true,
+    "killsSpiderFlyer": 0,
+    "newDataSpiderFlyer": true,
+    "killedMimicSpider": true,
+    "killsMimicSpider": 0,
+    "newDataMimicSpider": true,
+    "killedBeeHatchling": true,
+    "killsBeeHatchling": 0,
+    "newDataBeeHatchling": true,
+    "killedBeeStinger": true,
+    "killsBeeStinger": 0,
     "newDataBeeStinger": false,
-    "killedBigBee": false,
-    "killsBigBee": 12,
-    "newDataBigBee": false,
-    "killedHiveKnight": false,
-    "killsHiveKnight": 1,
+    "killedBigBee": true,
+    "killsBigBee": 7,
+    "newDataBigBee": true,
+    "killedHiveKnight": true,
+    "killsHiveKnight": 0,
     "newDataHiveKnight": false,
-    "killedBlowFly": false,
-    "killsBlowFly": 20,
+    "killedBlowFly": true,
+    "killsBlowFly": 0,
     "newDataBlowFly": false,
-    "killedCeilingDropper": false,
-    "killsCeilingDropper": 15,
+    "killedCeilingDropper": true,
+    "killsCeilingDropper": 0,
     "newDataCeilingDropper": false,
-    "killedGiantHopper": false,
-    "killsGiantHopper": 10,
+    "killedGiantHopper": true,
+    "killsGiantHopper": 0,
     "newDataGiantHopper": false,
-    "killedGrubMimic": false,
-    "killsGrubMimic": 5,
-    "newDataGrubMimic": false,
-    "killedMawlekTurret": false,
-    "killsMawlekTurret": 10,
-    "newDataMawlekTurret": false,
-    "killedOrangeScuttler": false,
-    "killsOrangeScuttler": 20,
+    "killedGrubMimic": true,
+    "killsGrubMimic": 0,
+    "newDataGrubMimic": true,
+    "killedMawlekTurret": true,
+    "killsMawlekTurret": 6,
+    "newDataMawlekTurret": true,
+    "killedOrangeScuttler": true,
+    "killsOrangeScuttler": 15,
     "newDataOrangeScuttler": false,
-    "killedHealthScuttler": false,
-    "killsHealthScuttler": 10,
+    "killedHealthScuttler": true,
+    "killsHealthScuttler": 0,
     "newDataHealthScuttler": false,
-    "killedPigeon": false,
-    "killsPigeon": 15,
+    "killedPigeon": true,
+    "killsPigeon": 12,
     "newDataPigeon": false,
-    "killedZombieHive": false,
-    "killsZombieHive": 10,
-    "newDataZombieHive": false,
+    "killedZombieHive": true,
+    "killsZombieHive": 0,
+    "newDataZombieHive": true,
     "killedDreamGuard": false,
     "killsDreamGuard": 20,
     "newDataDreamGuard": false,
-    "killedHornet": false,
-    "killsHornet": 2,
+    "killedHornet": true,
+    "killsHornet": 0,
     "newDataHornet": false,
-    "killedAbyssCrawler": false,
-    "killsAbyssCrawler": 20,
-    "newDataAbyssCrawler": false,
-    "killedSuperSpitter": false,
-    "killsSuperSpitter": 25,
-    "newDataSuperSpitter": false,
-    "killedSibling": false,
-    "killsSibling": 25,
-    "newDataSibling": false,
-    "killedPalaceFly": false,
-    "killsPalaceFly": 10,
-    "newDataPalaceFly": false,
-    "killedEggSac": false,
-    "killsEggSac": 5,
+    "killedAbyssCrawler": true,
+    "killsAbyssCrawler": 0,
+    "newDataAbyssCrawler": true,
+    "killedSuperSpitter": true,
+    "killsSuperSpitter": 0,
+    "newDataSuperSpitter": true,
+    "killedSibling": true,
+    "killsSibling": 12,
+    "newDataSibling": true,
+    "killedPalaceFly": true,
+    "killsPalaceFly": 0,
+    "newDataPalaceFly": true,
+    "killedEggSac": true,
+    "killsEggSac": 0,
     "newDataEggSac": false,
-    "killedMummy": false,
-    "killsMummy": 10,
+    "killedMummy": true,
+    "killsMummy": 0,
     "newDataMummy": false,
-    "killedOrangeBalloon": false,
-    "killsOrangeBalloon": 10,
-    "newDataOrangeBalloon": false,
-    "killedAbyssTendril": false,
-    "killsAbyssTendril": 10,
+    "killedOrangeBalloon": true,
+    "killsOrangeBalloon": 2,
+    "newDataOrangeBalloon": true,
+    "killedAbyssTendril": true,
+    "killsAbyssTendril": 0,
     "newDataAbyssTendril": false,
-    "killedHeavyMantis": false,
-    "killsHeavyMantis": 15,
-    "newDataHeavyMantis": false,
-    "killedTraitorLord": false,
-    "killsTraitorLord": 1,
-    "newDataTraitorLord": false,
-    "killedMantisHeavyFlyer": false,
-    "killsMantisHeavyFlyer": 16,
+    "killedHeavyMantis": true,
+    "killsHeavyMantis": 0,
+    "newDataHeavyMantis": true,
+    "killedTraitorLord": true,
+    "killsTraitorLord": 0,
+    "newDataTraitorLord": true,
+    "killedMantisHeavyFlyer": true,
+    "killsMantisHeavyFlyer": 0,
     "newDataMantisHeavyFlyer": false,
-    "killedGardenZombie": false,
-    "killsGardenZombie": 20,
-    "newDataGardenZombie": false,
-    "killedRoyalGuard": false,
-    "killsRoyalGuard": 2,
+    "killedGardenZombie": true,
+    "killsGardenZombie": 0,
+    "newDataGardenZombie": true,
+    "killedRoyalGuard": true,
+    "killsRoyalGuard": 0,
     "newDataRoyalGuard": false,
-    "killedWhiteRoyal": false,
-    "killsWhiteRoyal": 10,
+    "killedWhiteRoyal": true,
+    "killsWhiteRoyal": 0,
     "newDataWhiteRoyal": false,
     "openedPalaceGrounds": false,
-    "killedOblobble": false,
-    "killsOblobble": 3,
-    "newDataOblobble": false,
-    "killedZote": false,
-    "killsZote": 1,
-    "newDataZote": false,
-    "killedBlobble": false,
-    "killsBlobble": 15,
-    "newDataBlobble": false,
-    "killedColMosquito": false,
-    "killsColMosquito": 15,
-    "newDataColMosquito": false,
-    "killedColRoller": false,
-    "killsColRoller": 20,
+    "killedOblobble": true,
+    "killsOblobble": 0,
+    "newDataOblobble": true,
+    "killedZote": true,
+    "killsZote": 0,
+    "newDataZote": true,
+    "killedBlobble": true,
+    "killsBlobble": 0,
+    "newDataBlobble": true,
+    "killedColMosquito": true,
+    "killsColMosquito": 0,
+    "newDataColMosquito": true,
+    "killedColRoller": true,
+    "killsColRoller": 0,
     "newDataColRoller": false,
-    "killedColFlyingSentry": false,
-    "killsColFlyingSentry": 25,
-    "newDataColFlyingSentry": false,
-    "killedColMiner": false,
-    "killsColMiner": 25,
-    "newDataColMiner": false,
-    "killedColShield": false,
-    "killsColShield": 25,
-    "newDataColShield": false,
-    "killedColWorm": false,
-    "killsColWorm": 20,
-    "newDataColWorm": false,
-    "killedColHopper": false,
-    "killsColHopper": 15,
-    "newDataColHopper": false,
+    "killedColFlyingSentry": true,
+    "killsColFlyingSentry": 0,
+    "newDataColFlyingSentry": true,
+    "killedColMiner": true,
+    "killsColMiner": 0,
+    "newDataColMiner": true,
+    "killedColShield": true,
+    "killsColShield": 0,
+    "newDataColShield": true,
+    "killedColWorm": true,
+    "killsColWorm": 0,
+    "newDataColWorm": true,
+    "killedColHopper": true,
+    "killsColHopper": 0,
+    "newDataColHopper": true,
     "killedLobsterLancer": false,
     "killsLobsterLancer": 1,
     "newDataLobsterLancer": false,
-    "killedGhostAladar": false,
-    "killsGhostAladar": 1,
-    "newDataGhostAladar": false,
-    "killedGhostXero": false,
-    "killsGhostXero": 1,
-    "newDataGhostXero": false,
-    "killedGhostHu": false,
-    "killsGhostHu": 1,
+    "killedGhostAladar": true,
+    "killsGhostAladar": 0,
+    "newDataGhostAladar": true,
+    "killedGhostXero": true,
+    "killsGhostXero": 0,
+    "newDataGhostXero": true,
+    "killedGhostHu": true,
+    "killsGhostHu": 0,
     "newDataGhostHu": false,
-    "killedGhostMarmu": false,
-    "killsGhostMarmu": 1,
-    "newDataGhostMarmu": false,
-    "killedGhostNoEyes": false,
-    "killsGhostNoEyes": 1,
-    "newDataGhostNoEyes": false,
-    "killedGhostMarkoth": false,
-    "killsGhostMarkoth": 1,
+    "killedGhostMarmu": true,
+    "killsGhostMarmu": 0,
+    "newDataGhostMarmu": true,
+    "killedGhostNoEyes": true,
+    "killsGhostNoEyes": 0,
+    "newDataGhostNoEyes": true,
+    "killedGhostMarkoth": true,
+    "killsGhostMarkoth": 0,
     "newDataGhostMarkoth": false,
-    "killedGhostGalien": false,
-    "killsGhostGalien": 1,
-    "newDataGhostGalien": false,
+    "killedGhostGalien": true,
+    "killsGhostGalien": 0,
+    "newDataGhostGalien": true,
     "killedWhiteDefender": false,
     "killsWhiteDefender": 1,
     "newDataWhiteDefender": false,
@@ -1116,29 +1122,29 @@
     "killedHunterMark": false,
     "killsHunterMark": 1,
     "newDataHunterMark": false,
-    "killedFlameBearerSmall": false,
-    "killsFlameBearerSmall": 3,
-    "newDataFlameBearerSmall": false,
-    "killedFlameBearerMed": false,
-    "killsFlameBearerMed": 4,
-    "newDataFlameBearerMed": false,
-    "killedFlameBearerLarge": false,
-    "killsFlameBearerLarge": 5,
-    "newDataFlameBearerLarge": false,
-    "killedGrimm": false,
-    "killsGrimm": 1,
-    "newDataGrimm": false,
+    "killedFlameBearerSmall": true,
+    "killsFlameBearerSmall": 0,
+    "newDataFlameBearerSmall": true,
+    "killedFlameBearerMed": true,
+    "killsFlameBearerMed": 0,
+    "newDataFlameBearerMed": true,
+    "killedFlameBearerLarge": true,
+    "killsFlameBearerLarge": 0,
+    "newDataFlameBearerLarge": true,
+    "killedGrimm": true,
+    "killsGrimm": 0,
+    "newDataGrimm": true,
     "killedNightmareGrimm": false,
     "killsNightmareGrimm": 1,
     "newDataNightmareGrimm": false,
     "killedBindingSeal": false,
     "killsBindingSeal": 1,
     "newDataBindingSeal": false,
-    "killedFatFluke": false,
-    "killsFatFluke": 8,
-    "newDataFatFluke": false,
-    "killedPaleLurker": false,
-    "killsPaleLurker": 1,
+    "killedFatFluke": true,
+    "killsFatFluke": 7,
+    "newDataFatFluke": true,
+    "killedPaleLurker": true,
+    "killsPaleLurker": 0,
     "newDataPaleLurker": false,
     "killedNailBros": false,
     "killsNailBros": 1,
@@ -1164,86 +1170,481 @@
     "killedVoidIdol_3": false,
     "killsVoidIdol_3": 1,
     "newDataVoidIdol_3": false,
-    "grubsCollected": 0,
-    "grubRewards": 0,
-    "finalGrubRewardCollected": false,
-    "fatGrubKing": false,
-    "falseKnightDefeated": false,
-    "falseKnightDreamDefeated": false,
-    "falseKnightOrbsCollected": false,
+    "grubsCollected": 46,
+    "grubRewards": 46,
+    "finalGrubRewardCollected": true,
+    "fatGrubKing": true,
+    "falseKnightDefeated": true,
+    "falseKnightDreamDefeated": true,
+    "falseKnightOrbsCollected": true,
     "mawlekDefeated": false,
     "giantBuzzerDefeated": false,
     "giantFlyDefeated": false,
     "blocker1Defeated": false,
     "blocker2Defeated": false,
-    "hornet1Defeated": false,
-    "collectorDefeated": false,
-    "hornetOutskirtsDefeated": false,
-    "mageLordDreamDefeated": false,
-    "mageLordOrbsCollected": false,
-    "infectedKnightDreamDefeated": false,
-    "infectedKnightOrbsCollected": false,
+    "hornet1Defeated": true,
+    "collectorDefeated": true,
+    "hornetOutskirtsDefeated": true,
+    "mageLordDreamDefeated": true,
+    "mageLordOrbsCollected": true,
+    "infectedKnightDreamDefeated": true,
+    "infectedKnightOrbsCollected": true,
     "whiteDefenderDefeated": false,
     "whiteDefenderOrbsCollected": false,
     "whiteDefenderDefeats": 0,
     "greyPrinceDefeats": 0,
     "greyPrinceDefeated": false,
     "greyPrinceOrbsCollected": false,
-    "aladarSlugDefeated": 0,
-    "xeroDefeated": 0,
-    "elderHuDefeated": 0,
-    "mumCaterpillarDefeated": 0,
-    "noEyesDefeated": 0,
-    "markothDefeated": 0,
-    "galienDefeated": 0,
+    "aladarSlugDefeated": 2,
+    "xeroDefeated": 2,
+    "elderHuDefeated": 2,
+    "mumCaterpillarDefeated": 2,
+    "noEyesDefeated": 2,
+    "markothDefeated": 2,
+    "galienDefeated": 2,
     "XERO_encountered": false,
     "ALADAR_encountered": false,
-    "HU_encountered": false,
-    "MUMCAT_encountered": false,
-    "NOEYES_encountered": false,
+    "HU_encountered": true,
+    "MUMCAT_encountered": true,
+    "NOEYES_encountered": true,
     "MARKOTH_encountered": false,
     "GALIEN_encountered": false,
-    "xeroPinned": false,
-    "aladarPinned": false,
-    "huPinned": false,
-    "mumCaterpillarPinned": false,
-    "noEyesPinned": false,
-    "markothPinned": false,
-    "galienPinned": false,
+    "xeroPinned": true,
+    "aladarPinned": true,
+    "huPinned": true,
+    "mumCaterpillarPinned": true,
+    "noEyesPinned": true,
+    "markothPinned": true,
+    "galienPinned": true,
     "currentInvPane": 0,
     "showGeoUI": false,
     "showHealthUI": false,
-    "promptFocus": false,
-    "seenFocusTablet": false,
-    "seenDreamNailPrompt": false,
-    "isFirstGame": true,
+    "promptFocus": true,
+    "seenFocusTablet": true,
+    "seenDreamNailPrompt": true,
+    "isFirstGame": false,
     "enteredTutorialFirstTime": true,
     "isInvincible": false,
     "infiniteAirJump": false,
     "invinciTest": false,
-    "currentArea": 0,
-    "visitedDirtmouth": false,
-    "visitedCrossroads": false,
-    "visitedGreenpath": false,
-    "visitedFungus": false,
-    "visitedHive": false,
+    "currentArea": 1,
+    "visitedDirtmouth": true,
+    "visitedCrossroads": true,
+    "visitedGreenpath": true,
+    "visitedFungus": true,
+    "visitedHive": true,
     "visitedCrossroadsInfected": false,
-    "visitedRuins": false,
-    "visitedMines": false,
-    "visitedRoyalGardens": false,
-    "visitedFogCanyon": false,
-    "visitedDeepnest": false,
-    "visitedRestingGrounds": false,
-    "visitedWaterways": false,
-    "visitedAbyss": false,
-    "visitedOutskirts": false,
-    "visitedWhitePalace": false,
-    "visitedCliffs": false,
-    "visitedAbyssLower": false,
-    "visitedGodhome": false,
-    "visitedMines10": false,
+    "visitedRuins": true,
+    "visitedMines": true,
+    "visitedRoyalGardens": true,
+    "visitedFogCanyon": true,
+    "visitedDeepnest": true,
+    "visitedRestingGrounds": true,
+    "visitedWaterways": true,
+    "visitedAbyss": true,
+    "visitedOutskirts": true,
+    "visitedWhitePalace": true,
+    "visitedCliffs": true,
+    "visitedAbyssLower": true,
+    "visitedGodhome": true,
+    "visitedMines10": true,
     "scenesVisited": [
-      "Tutorial_01"
+      "Tutorial_01",
+      "Town",
+      "Crossroads_01",
+      "Crossroads_07",
+      "Crossroads_33",
+      "Crossroads_08",
+      "Crossroads_13",
+      "Crossroads_42",
+      "Crossroads_19",
+      "Crossroads_03",
+      "Crossroads_47",
+      "Crossroads_21",
+      "Crossroads_10",
+      "Crossroads_06",
+      "Crossroads_ShamanTemple",
+      "Room_Town_Stag_Station",
+      "Room_mapper",
+      "Crossroads_16",
+      "Crossroads_14",
+      "Crossroads_48",
+      "Crossroads_15",
+      "Crossroads_27",
+      "Crossroads_31",
+      "Crossroads_46",
+      "Crossroads_04",
+      "Crossroads_40",
+      "Crossroads_05",
+      "Crossroads_12",
+      "Crossroads_35",
+      "Crossroads_18",
+      "Room_ruinhouse",
+      "Crossroads_43",
+      "Crossroads_04_b",
+      "Crossroads_38",
+      "Crossroads_11_alt",
+      "Fungus1_01",
+      "Fungus1_01b",
+      "Fungus1_02",
+      "Fungus1_17",
+      "Fungus1_03",
+      "Fungus1_31",
+      "Fungus1_32",
+      "Fungus1_20_v02",
+      "Fungus1_21",
+      "Fungus1_22",
+      "Fungus1_16_alt",
+      "Fungus1_04",
+      "Crossroads_18_b",
+      "Fungus2_06",
+      "Fungus2_26",
+      "Fungus2_07",
+      "Fungus2_08",
+      "Fungus2_09",
+      "Fungus2_10",
+      "Fungus2_11",
+      "Fungus2_12",
+      "Fungus2_13",
+      "Fungus2_14",
+      "Fungus2_14_b",
+      "Fungus2_14_c",
+      "Fungus2_15",
+      "Fungus2_18",
+      "Fungus2_03",
+      "Fungus2_01",
+      "Fungus2_02",
+      "Room_Charm_Shop",
+      "Crossroads_50",
+      "RestingGrounds_06",
+      "RestingGrounds_02",
+      "RestingGrounds_04",
+      "Dream_Nailcollection",
+      "RestingGrounds_07",
+      "RestingGrounds_05",
+      "RestingGrounds_09",
+      "RestingGrounds_17",
+      "Crossroads_46b",
+      "Ruins2_10",
+      "Ruins2_10b",
+      "Ruins2_05",
+      "Ruins2_09",
+      "Ruins2_06",
+      "Ruins2_08",
+      "Ruins2_04",
+      "Ruins_House_02",
+      "Ruins2_01_b",
+      "Ruins1_27",
+      "Ruins2_01",
+      "Ruins1_18_b",
+      "Ruins1_18",
+      "Ruins1_05b",
+      "Ruins1_03",
+      "Ruins1_04",
+      "Room_nailsmith",
+      "Ruins1_02",
+      "Ruins1_01",
+      "Ruins1_05c",
+      "Ruins1_05",
+      "Ruins1_31",
+      "Ruins1_06",
+      "Ruins1_17",
+      "Ruins1_28",
+      "Ruins1_29",
+      "Crossroads_49b",
+      "Ruins1_09",
+      "Ruins1_23",
+      "Ruins1_31_top",
+      "Ruins1_25",
+      "Ruins1_30",
+      "Ruins1_24",
+      "Ruins1_32",
+      "Dream_02_Mage_Lord",
+      "Crossroads_02",
+      "Crossroads_39",
+      "Crossroads_45",
+      "Mines_01",
+      "Mines_02",
+      "Mines_29",
+      "Mines_03",
+      "Mines_17",
+      "Mines_04",
+      "Mines_05",
+      "Mines_19",
+      "Mines_20",
+      "Mines_37",
+      "Mines_30",
+      "Mines_11",
+      "Mines_18",
+      "Mines_13",
+      "Mines_20_b",
+      "Mines_23",
+      "Mines_24",
+      "Mines_06",
+      "Mines_07",
+      "Mines_31",
+      "Mines_25",
+      "Mines_10",
+      "Mines_16",
+      "Mines_36",
+      "Waterways_01",
+      "Waterways_04",
+      "Waterways_04_part_b",
+      "Waterways_02",
+      "Waterways_02_b",
+      "Room_shop",
+      "Waterways_04b",
+      "Waterways_09",
+      "Fungus2_23",
+      "Waterways_08",
+      "Waterways_05",
+      "Waterways_15",
+      "Abyss_01",
+      "Room_Bretta",
+      "Abyss_02",
+      "Abyss_03",
+      "Abyss_04",
+      "Abyss_18",
+      "Abyss_17",
+      "Waterways_06",
+      "Waterways_07",
+      "Ruins_House_03",
+      "Waterways_13",
+      "GG_Pipeway",
+      "GG_Waterways",
+      "Room_GG_Shortcut",
+      "Fungus2_04",
+      "Fungus2_28",
+      "Fungus2_05",
+      "Crossroads_52",
+      "Crossroads_25",
+      "Crossroads_36",
+      "Crossroads_09",
+      "Fungus1_25",
+      "Fungus1_26",
+      "Room_Slug_Shrine",
+      "Fungus1_Slug",
+      "Fungus1_30",
+      "Fungus1_09",
+      "Fungus1_09_b",
+      "Fungus1_15",
+      "Room_nailmaster_02",
+      "Fungus1_10",
+      "Fungus1_05",
+      "Fungus1_14",
+      "Fungus1_14_b",
+      "Fungus1_06",
+      "Fungus1_07",
+      "Fungus1_08",
+      "Fungus1_19",
+      "Fungus1_11",
+      "Fungus1_37",
+      "Fungus1_29",
+      "Fungus1_12",
+      "Fungus1_13",
+      "Fungus3_01",
+      "Fungus3_02",
+      "Fungus3_24",
+      "Fungus3_30",
+      "Fungus3_44",
+      "Room_Fungus_Shaman",
+      "Fungus3_03",
+      "Fungus3_34",
+      "Fungus3_04",
+      "Fungus3_05",
+      "Fungus1_24",
+      "Fungus3_11",
+      "Fungus3_39",
+      "Deepnest_01",
+      "Deepnest_01b",
+      "Deepnest_02",
+      "Fungus3_08",
+      "Deepnest_43",
+      "Fungus3_50",
+      "Fungus3_10",
+      "Fungus3_13",
+      "Fungus3_21",
+      "Fungus1_23",
+      "Fungus3_48_bot",
+      "Fungus3_48",
+      "Fungus3_40",
+      "RestingGrounds_10",
+      "RestingGrounds_10_b",
+      "RestingGrounds_10_d",
+      "RestingGrounds_10_c",
+      "RestingGrounds_12",
+      "Room_Mansion",
+      "Fungus2_33",
+      "Fungus2_21",
+      "Fungus2_19",
+      "Fungus2_20",
+      "Fungus3_49",
+      "Mines_28",
+      "Mines_28_b",
+      "Mines_35",
+      "Mines_33",
+      "Ruins1_31b",
+      "Ruins1_31_top_2",
+      "Abyss_18_b",
+      "Abyss_19",
+      "Abyss_20",
+      "Abyss_21",
+      "Ruins2_07_left",
+      "Ruins2_07",
+      "Ruins2_07_right",
+      "Deepnest_East_03",
+      "Deepnest_East_07",
+      "Deepnest_East_06",
+      "Deepnest_East_18",
+      "Deepnest_East_11",
+      "Deepnest_East_13",
+      "Deepnest_East_04",
+      "Deepnest_East_15",
+      "Room_nailmaster_03",
+      "Deepnest_East_16",
+      "Deepnest_East_14",
+      "Deepnest_East_14b",
+      "Deepnest_East_14a",
+      "Deepnest_East_12",
+      "Deepnest_East_Hornet",
+      "Fungus2_31",
+      "Fungus2_17",
+      "Fungus2_29",
+      "Fungus2_29_b",
+      "Fungus2_30",
+      "Fungus2_25",
+      "Fungus2_34",
+      "Cliffs_02",
+      "Room_nailmaster",
+      "Cliffs_01",
+      "Cliffs_02_b",
+      "Cliffs_03",
+      "Cliffs_04",
+      "Cliffs_05",
+      "Cliffs_01_b",
+      "Fungus1_28",
+      "Cliffs_06",
+      "Cliffs_06_b",
+      "Fungus1_28_b",
+      "Grimm_Divine",
+      "Grimm_Main_Tent",
+      "Room_Sly_Storeroom",
+      "Ruins2_11_b",
+      "Ruins2_11",
+      "Deepnest_East_08",
+      "Deepnest_East_09_b",
+      "Deepnest_East_09",
+      "Room_Colosseum_01",
+      "Room_Colosseum_02",
+      "Room_Colosseum_Spectate",
+      "GG_Lurker",
+      "Room_Colosseum_Bronze",
+      "Mines_32",
+      "Mines_34",
+      "Crossroads_49",
+      "Crossroads_37",
+      "Crossroads_21_b",
+      "Crossroads_22",
+      "Fungus3_48_left",
+      "Ruins_Elevator",
+      "Ruins_Bathhouse",
+      "Ruins2_03b",
+      "Ruins2_03",
+      "Waterways_03",
+      "Ruins_House_01",
+      "Fungus1_34",
+      "Fungus1_35",
+      "Fungus1_36",
+      "Fungus3_25",
+      "Fungus3_26",
+      "Fungus3_28",
+      "Fungus3_25b",
+      "Fungus3_27",
+      "Fungus3_47",
+      "Deepnest_East_Hornet_b",
+      "Room_Wyrm",
+      "Abyss_05",
+      "Abyss_22",
+      "Abyss_06_Core",
+      "Abyss_06_Core_b",
+      "Abyss_12",
+      "Abyss_16",
+      "Abyss_09",
+      "Abyss_Lighthouse_room",
+      "Abyss_10",
+      "Fungus3_35",
+      "Fungus3_22",
+      "Fungus3_23",
+      "Fungus3_22_b",
+      "Fungus3_23_b",
+      "Fungus3_48_top",
+      "Room_Queen",
+      "Fungus2_32",
+      "Deepnest_16",
+      "Deepnest_17",
+      "Deepnest_14",
+      "Deepnest_30",
+      "Deepnest_30_b",
+      "Deepnest_37",
+      "Deepnest_44",
+      "Deepnest_44_b",
+      "Deepnest_38",
+      "Deepnest_03",
+      "Deepnest_31",
+      "Deepnest_32",
+      "Deepnest_34",
+      "Deepnest_35",
+      "Deepnest_26",
+      "Deepnest_26b",
+      "Deepnest_26_b",
+      "Deepnest_33",
+      "Deepnest_40",
+      "Deepnest_39",
+      "Deepnest_42",
+      "Room_Mask_Maker",
+      "Deepnest_41",
+      "Deepnest_10",
+      "Deepnest_09",
+      "Deepnest_Spider_Town",
+      "Dream_Guardian_Hegemol",
+      "Dream_01_False_Knight",
+      "Deepnest_East_10",
+      "Dream_03_Infected_Knight",
+      "RestingGrounds_08",
+      "Room_Tram",
+      "Abyss_03_c",
+      "Hive_01",
+      "Hive_02",
+      "Hive_01_b",
+      "Hive_03_c",
+      "Deepnest_East_01",
+      "Hive_03",
+      "Hive_04",
+      "Hive_04_b",
+      "Hive_05",
+      "Deepnest_East_02",
+      "Waterways_14",
+      "Deepnest_East_02_b",
+      "Hive_03_b",
+      "Deepnest_36",
+      "Fungus3_archive",
+      "Fungus3_archive_02",
+      "Dream_Guardian_Monomon",
+      "Crossroads_35_b",
+      "Ruins2_Watcher_Room",
+      "Dream_Guardian_Lurien",
+      "Room_Colosseum_Silver",
+      "Waterways_12",
+      "Room_spider_small",
+      "Grimm_Nightmare",
+      "Abyss_08",
+      "Room_temple",
+      "Room_Final_Boss_Atrium",
+      "Room_Final_Boss_Core",
+      "Deepnest_43_b",
+      "Deepnest_45_v02",
+      "Room_Colosseum_Gold",
+      "Room_Ouiji"
     ],
     "scenesMapped": [
       "Cinematic_Stag_travel",
@@ -1328,48 +1729,468 @@
       "End_Game_Completion",
       "PermaDeath",
       "PermaDeath_Unlock",
-      "Deepnest_East_17"
+      "Deepnest_East_17",
+      "Tutorial_01",
+      "Town",
+      "Crossroads_01",
+      "Crossroads_07",
+      "Crossroads_33",
+      "Crossroads_08",
+      "Crossroads_13",
+      "Crossroads_42",
+      "Crossroads_19",
+      "Crossroads_03",
+      "Crossroads_47",
+      "Crossroads_21",
+      "Crossroads_10",
+      "Crossroads_06",
+      "Crossroads_16",
+      "Crossroads_14",
+      "Crossroads_48",
+      "Crossroads_15",
+      "Crossroads_27",
+      "Crossroads_31",
+      "Crossroads_46",
+      "Crossroads_04",
+      "Crossroads_40",
+      "Crossroads_05",
+      "Crossroads_12",
+      "Crossroads_35",
+      "Crossroads_18",
+      "Crossroads_43",
+      "Crossroads_04_b",
+      "Crossroads_38",
+      "Crossroads_11_alt",
+      "Crossroads_18_b",
+      "Fungus1_01",
+      "Fungus1_01b",
+      "Fungus1_02",
+      "Fungus1_17",
+      "Fungus1_03",
+      "Fungus1_31",
+      "Fungus1_32",
+      "Fungus1_20_v02",
+      "Fungus1_21",
+      "Fungus1_22",
+      "Fungus1_16_alt",
+      "Fungus1_04",
+      "Fungus2_06",
+      "Fungus2_26",
+      "Fungus2_07",
+      "Fungus2_08",
+      "Fungus2_09",
+      "Fungus2_10",
+      "Fungus2_11",
+      "Fungus2_12",
+      "Fungus2_13",
+      "Fungus2_14",
+      "Fungus2_14_b",
+      "Fungus2_14_c",
+      "Fungus2_15",
+      "Fungus2_18",
+      "Fungus2_03",
+      "Fungus2_01",
+      "Fungus2_02",
+      "Ruins2_10b",
+      "Ruins2_05",
+      "Ruins2_09",
+      "Ruins2_06",
+      "Ruins2_08",
+      "Ruins2_04",
+      "Ruins2_01_b",
+      "Ruins1_27",
+      "Ruins2_01",
+      "Ruins1_18_b",
+      "Ruins1_18",
+      "Ruins1_05b",
+      "Ruins1_03",
+      "Ruins1_04",
+      "Ruins1_02",
+      "Ruins1_01",
+      "Ruins1_05c",
+      "Ruins1_05",
+      "Ruins1_31",
+      "Ruins1_06",
+      "Ruins1_17",
+      "Ruins1_28",
+      "Ruins1_29",
+      "Crossroads_49b",
+      "Ruins1_09",
+      "Ruins1_23",
+      "Ruins1_31_top",
+      "Ruins1_25",
+      "Ruins1_30",
+      "Ruins1_24",
+      "Ruins1_32",
+      "Crossroads_02",
+      "Crossroads_39",
+      "Crossroads_45",
+      "Mines_01",
+      "Mines_02",
+      "Mines_29",
+      "Mines_03",
+      "Mines_17",
+      "Mines_04",
+      "Mines_05",
+      "Mines_19",
+      "Mines_20",
+      "Mines_37",
+      "Mines_30",
+      "Mines_11",
+      "Mines_18",
+      "Mines_13",
+      "Mines_20_b",
+      "Mines_23",
+      "Mines_24",
+      "Mines_06",
+      "Mines_07",
+      "Mines_31",
+      "Mines_25",
+      "Mines_10",
+      "Mines_16",
+      "Mines_36",
+      "Waterways_02_b",
+      "Waterways_01",
+      "Waterways_04",
+      "Waterways_04_part_b",
+      "Waterways_02",
+      "Waterways_04b",
+      "Waterways_09",
+      "Fungus2_23",
+      "Waterways_08",
+      "Waterways_05",
+      "Waterways_15",
+      "Abyss_01",
+      "Abyss_02",
+      "Abyss_03",
+      "Abyss_04",
+      "Abyss_18",
+      "Abyss_17",
+      "Waterways_06",
+      "Waterways_07",
+      "Waterways_13",
+      "GG_Pipeway",
+      "GG_Waterways",
+      "Room_GG_Shortcut",
+      "Fungus2_04",
+      "Fungus2_28",
+      "Fungus2_05",
+      "Crossroads_52",
+      "Crossroads_25",
+      "Crossroads_36",
+      "Crossroads_09",
+      "Fungus1_25",
+      "Fungus1_26",
+      "Fungus1_Slug",
+      "Fungus1_30",
+      "Fungus1_09",
+      "Fungus1_09_b",
+      "Fungus1_15",
+      "Fungus1_10",
+      "Fungus1_05",
+      "Fungus1_14",
+      "Fungus1_14_b",
+      "Fungus1_06",
+      "Fungus1_07",
+      "Fungus1_08",
+      "Fungus1_19",
+      "Fungus1_11",
+      "Fungus1_37",
+      "Fungus1_29",
+      "Fungus1_12",
+      "Fungus1_13",
+      "Fungus3_34",
+      "Fungus3_04",
+      "Fungus3_05",
+      "Fungus1_24",
+      "Fungus3_11",
+      "Fungus3_39",
+      "Deepnest_01",
+      "Fungus3_08",
+      "Deepnest_43",
+      "Fungus3_50",
+      "Fungus3_10",
+      "Fungus3_13",
+      "Fungus3_21",
+      "Fungus1_23",
+      "Fungus3_48_bot",
+      "Fungus3_48",
+      "Fungus3_40",
+      "Crossroads_50",
+      "RestingGrounds_06",
+      "RestingGrounds_02",
+      "RestingGrounds_04",
+      "RestingGrounds_05",
+      "RestingGrounds_09",
+      "RestingGrounds_17",
+      "Crossroads_46b",
+      "Ruins2_10",
+      "RestingGrounds_10",
+      "RestingGrounds_10_b",
+      "RestingGrounds_10_d",
+      "RestingGrounds_10_c",
+      "RestingGrounds_12",
+      "Fungus2_33",
+      "Fungus2_21",
+      "Fungus2_19",
+      "Fungus2_20",
+      "Fungus3_49",
+      "Mines_28",
+      "Mines_28_b",
+      "Mines_35",
+      "Mines_33",
+      "Ruins1_31b",
+      "Ruins1_31_top_2",
+      "Abyss_18_b",
+      "Abyss_19",
+      "Abyss_20",
+      "Abyss_21",
+      "Ruins2_07_left",
+      "Ruins2_07",
+      "Ruins2_07_right",
+      "Deepnest_East_03",
+      "Deepnest_East_07",
+      "Deepnest_East_06",
+      "Deepnest_East_18",
+      "Deepnest_East_11",
+      "Deepnest_East_13",
+      "Deepnest_East_04",
+      "Deepnest_East_15",
+      "Deepnest_East_16",
+      "Deepnest_East_14",
+      "Deepnest_East_14b",
+      "Deepnest_East_14a",
+      "Deepnest_East_12",
+      "Deepnest_East_Hornet",
+      "Fungus2_31",
+      "Fungus2_17",
+      "Fungus2_29",
+      "Fungus2_29_b",
+      "Fungus2_30",
+      "Fungus2_34",
+      "Cliffs_02",
+      "Cliffs_01",
+      "Cliffs_02_b",
+      "Cliffs_04",
+      "Cliffs_05",
+      "Cliffs_01_b",
+      "Fungus1_28",
+      "Cliffs_06",
+      "Cliffs_06_b",
+      "Fungus1_28_b",
+      "Grimm_Divine",
+      "Grimm_Main_Tent",
+      "Room_Sly_Storeroom",
+      "Ruins2_11_b",
+      "Ruins2_11",
+      "Deepnest_East_08",
+      "Deepnest_East_09_b",
+      "Deepnest_East_09",
+      "Room_Colosseum_Spectate",
+      "GG_Lurker",
+      "Mines_32",
+      "Mines_34",
+      "Crossroads_49",
+      "Crossroads_37",
+      "Crossroads_21_b",
+      "Crossroads_22",
+      "Fungus3_48_left",
+      "Ruins_Elevator",
+      "Ruins_Bathhouse",
+      "Ruins2_03b",
+      "Ruins2_03",
+      "Waterways_03",
+      "Fungus1_34",
+      "Fungus3_01",
+      "Fungus3_02",
+      "Fungus3_24",
+      "Fungus3_30",
+      "Fungus3_44",
+      "Fungus3_03",
+      "Fungus3_25",
+      "Fungus3_26",
+      "Fungus3_28",
+      "Fungus3_25b",
+      "Fungus3_27",
+      "Fungus3_47",
+      "Deepnest_East_Hornet_b",
+      "Abyss_05",
+      "Abyss_22",
+      "Abyss_06_Core",
+      "Abyss_06_Core_b",
+      "Abyss_12",
+      "Abyss_16",
+      "Abyss_09",
+      "Abyss_10",
+      "Fungus3_35",
+      "Fungus3_22",
+      "Fungus3_23",
+      "Fungus3_22_b",
+      "Fungus3_23_b",
+      "Fungus3_48_top",
+      "Fungus2_32",
+      "Deepnest_01b",
+      "Deepnest_02",
+      "Fungus2_25",
+      "Deepnest_16",
+      "Deepnest_17",
+      "Deepnest_14",
+      "Deepnest_30",
+      "Deepnest_30_b",
+      "Deepnest_37",
+      "Deepnest_44",
+      "Deepnest_44_b",
+      "Deepnest_38",
+      "Deepnest_03",
+      "Deepnest_31",
+      "Deepnest_32",
+      "Deepnest_34",
+      "Deepnest_35",
+      "Deepnest_26",
+      "Deepnest_26b",
+      "Deepnest_26_b",
+      "Deepnest_33",
+      "Deepnest_40",
+      "Deepnest_39",
+      "Deepnest_42",
+      "Room_Mask_Maker",
+      "Deepnest_41",
+      "Deepnest_10",
+      "Deepnest_09",
+      "Deepnest_East_10",
+      "RestingGrounds_08",
+      "Abyss_03_c",
+      "Hive_01",
+      "Hive_02",
+      "Hive_01_b",
+      "Hive_03_c",
+      "Deepnest_East_01",
+      "Hive_03",
+      "Hive_04",
+      "Hive_04_b",
+      "Hive_05",
+      "Deepnest_East_02",
+      "Waterways_14",
+      "Deepnest_East_02_b",
+      "Hive_03_b",
+      "Deepnest_36",
+      "Crossroads_35_b",
+      "Ruins2_Watcher_Room",
+      "Waterways_12",
+      "Grimm_Nightmare",
+      "Abyss_08",
+      "Deepnest_43_b"
     ],
     "scenesEncounteredBench": [],
-    "scenesGrubRescued": [],
-    "scenesFlameCollected": [],
-    "scenesEncounteredCocoon": [],
-    "scenesEncounteredDreamPlant": [],
+    "scenesGrubRescued": [
+      "Crossroads_03",
+      "Crossroads_48",
+      "Crossroads_31",
+      "Crossroads_05",
+      "Crossroads_35",
+      "Ruins1_05",
+      "Ruins1_32",
+      "Mines_24",
+      "Mines_03",
+      "Mines_19",
+      "Mines_04",
+      "Mines_31",
+      "Mines_16",
+      "Abyss_17",
+      "Waterways_13",
+      "Fungus1_06",
+      "Fungus1_07",
+      "Fungus1_13",
+      "Fungus3_10",
+      "RestingGrounds_10",
+      "Mines_35",
+      "Abyss_19",
+      "Ruins2_07",
+      "Deepnest_East_11",
+      "Deepnest_East_14",
+      "Fungus1_28",
+      "Fungus1_21",
+      "Fungus3_48",
+      "Fungus2_20",
+      "Fungus2_18",
+      "Ruins2_03",
+      "Waterways_04",
+      "Ruins_House_01",
+      "Ruins2_11",
+      "Fungus3_47",
+      "Fungus3_22",
+      "Deepnest_31",
+      "Deepnest_03",
+      "Deepnest_39",
+      "Hive_04",
+      "Waterways_14",
+      "Hive_03",
+      "Deepnest_Spider_Town",
+      "Deepnest_36"
+    ],
+    "scenesFlameCollected": [
+      "Mines_10",
+      "Ruins1_28",
+      "Fungus1_10",
+      "RestingGrounds_06",
+      "Tutorial_01",
+      "Deepnest_East_03",
+      "Abyss_02",
+      "Hive_03"
+    ],
+    "scenesEncounteredCocoon": [
+      "Tutorial_01",
+      "Fungus3_30",
+      "Deepnest_East_15",
+      "Deepnest_26"
+    ],
+    "scenesEncounteredDreamPlant": [
+      "RestingGrounds_05",
+      "Ruins1_17",
+      "Mines_23",
+      "Fungus3_11",
+      "Fungus2_17",
+      "Cliffs_01",
+      "Fungus2_33",
+      "Fungus1_13",
+      "Deepnest_39",
+      "Hive_02"
+    ],
     "scenesEncounteredDreamPlantC": [],
-    "hasMap": false,
+    "hasMap": true,
     "mapAllRooms": false,
     "atMapPrompt": false,
     "mapDirtmouth": true,
-    "mapCrossroads": false,
-    "mapGreenpath": false,
-    "mapFogCanyon": false,
-    "mapRoyalGardens": false,
-    "mapFungalWastes": false,
-    "mapCity": false,
-    "mapWaterways": false,
-    "mapMines": false,
-    "mapDeepnest": false,
-    "mapCliffs": false,
-    "mapOutskirts": false,
-    "mapRestingGrounds": false,
-    "mapAbyss": false,
-    "hasPin": false,
-    "hasPinBench": false,
-    "hasPinCocoon": false,
-    "hasPinDreamPlant": false,
-    "hasPinGuardian": false,
+    "mapCrossroads": true,
+    "mapGreenpath": true,
+    "mapFogCanyon": true,
+    "mapRoyalGardens": true,
+    "mapFungalWastes": true,
+    "mapCity": true,
+    "mapWaterways": true,
+    "mapMines": true,
+    "mapDeepnest": true,
+    "mapCliffs": true,
+    "mapOutskirts": true,
+    "mapRestingGrounds": true,
+    "mapAbyss": true,
+    "hasPin": true,
+    "hasPinBench": true,
+    "hasPinCocoon": true,
+    "hasPinDreamPlant": true,
+    "hasPinGuardian": true,
     "hasPinBlackEgg": false,
-    "hasPinShop": false,
-    "hasPinSpa": false,
-    "hasPinStag": false,
-    "hasPinTram": false,
-    "hasPinGhost": false,
-    "hasPinGrub": false,
-    "hasMarker": false,
-    "hasMarker_r": false,
-    "hasMarker_b": false,
-    "hasMarker_y": false,
-    "hasMarker_w": false,
+    "hasPinShop": true,
+    "hasPinSpa": true,
+    "hasPinStag": true,
+    "hasPinTram": true,
+    "hasPinGhost": true,
+    "hasPinGrub": true,
+    "hasMarker": true,
+    "hasMarker_r": true,
+    "hasMarker_b": true,
+    "hasMarker_y": true,
+    "hasMarker_w": true,
     "spareMarkers_r": 6,
     "spareMarkers_b": 6,
     "spareMarkers_y": 6,
@@ -1380,132 +2201,132 @@
     "placedMarkers_w": [],
     "environmentType": 0,
     "environmentTypeDefault": 0,
-    "previousDarkness": 0,
-    "openedTramLower": false,
+    "previousDarkness": 1,
+    "openedTramLower": true,
     "openedTramRestingGrounds": false,
-    "tramLowerPosition": 0,
+    "tramLowerPosition": 1,
     "tramRestingGroundsPosition": 0,
-    "mineLiftOpened": false,
+    "mineLiftOpened": true,
     "menderDoorOpened": false,
-    "vesselFragStagNest": false,
-    "shamanPillar": false,
-    "crossroadsMawlekWall": false,
-    "eggTempleVisited": false,
-    "crossroadsInfected": false,
-    "falseKnightFirstPlop": false,
+    "vesselFragStagNest": true,
+    "shamanPillar": true,
+    "crossroadsMawlekWall": true,
+    "eggTempleVisited": true,
+    "crossroadsInfected": true,
+    "falseKnightFirstPlop": true,
     "falseKnightWallRepaired": false,
     "falseKnightWallBroken": false,
     "falseKnightGhostDeparted": false,
     "spaBugsEncountered": false,
     "hornheadVinePlat": false,
-    "infectedKnightEncountered": false,
-    "megaMossChargerEncountered": false,
-    "megaMossChargerDefeated": false,
+    "infectedKnightEncountered": true,
+    "megaMossChargerEncountered": true,
+    "megaMossChargerDefeated": true,
     "dreamerScene1": false,
-    "slugEncounterComplete": false,
-    "defeatedDoubleBlockers": false,
-    "oneWayArchive": false,
-    "defeatedMegaJelly": false,
-    "summonedMonomon": false,
-    "sawWoundedQuirrel": false,
-    "encounteredMegaJelly": false,
-    "defeatedMantisLords": false,
+    "slugEncounterComplete": true,
+    "defeatedDoubleBlockers": true,
+    "oneWayArchive": true,
+    "defeatedMegaJelly": true,
+    "summonedMonomon": true,
+    "sawWoundedQuirrel": true,
+    "encounteredMegaJelly": true,
+    "defeatedMantisLords": true,
     "encounteredGatekeeper": false,
-    "deepnestWall": false,
+    "deepnestWall": true,
     "queensStationNonDisplay": false,
-    "cityBridge1": false,
-    "cityBridge2": false,
-    "cityLift1": false,
+    "cityBridge1": true,
+    "cityBridge2": true,
+    "cityLift1": true,
     "cityLift1_isUp": false,
     "liftArrival": false,
     "openedMageDoor": false,
-    "openedMageDoor_v2": false,
-    "brokenMageWindow": false,
-    "brokenMageWindowGlass": false,
-    "mageLordEncountered": false,
-    "mageLordEncountered_2": false,
-    "mageLordDefeated": false,
-    "ruins1_5_tripleDoor": false,
+    "openedMageDoor_v2": true,
+    "brokenMageWindow": true,
+    "brokenMageWindowGlass": true,
+    "mageLordEncountered": true,
+    "mageLordEncountered_2": true,
+    "mageLordDefeated": true,
+    "ruins1_5_tripleDoor": true,
     "openedCityGate": false,
     "cityGateClosed": false,
-    "bathHouseOpened": false,
-    "bathHouseWall": false,
+    "bathHouseOpened": true,
+    "bathHouseWall": true,
     "cityLift2": true,
     "cityLift2_isUp": false,
     "city2_sewerDoor": false,
-    "openedLoveDoor": false,
-    "watcherChandelier": false,
-    "completedQuakeArea": false,
-    "kingsStationNonDisplay": false,
-    "tollBenchCity": false,
-    "waterwaysGate": false,
-    "defeatedDungDefender": false,
-    "dungDefenderEncounterReady": false,
-    "flukeMotherEncountered": false,
-    "flukeMotherDefeated": false,
-    "openedWaterwaysManhole": false,
-    "waterwaysAcidDrained": false,
-    "dungDefenderWallBroken": false,
-    "dungDefenderSleeping": false,
-    "defeatedMegaBeamMiner": false,
+    "openedLoveDoor": true,
+    "watcherChandelier": true,
+    "completedQuakeArea": true,
+    "kingsStationNonDisplay": true,
+    "tollBenchCity": true,
+    "waterwaysGate": true,
+    "defeatedDungDefender": true,
+    "dungDefenderEncounterReady": true,
+    "flukeMotherEncountered": true,
+    "flukeMotherDefeated": true,
+    "openedWaterwaysManhole": true,
+    "waterwaysAcidDrained": true,
+    "dungDefenderWallBroken": true,
+    "dungDefenderSleeping": true,
+    "defeatedMegaBeamMiner": true,
     "defeatedMegaBeamMiner2": false,
-    "brokeMinersWall": false,
-    "encounteredMimicSpider": false,
-    "steppedBeyondBridge": false,
-    "deepnestBridgeCollapsed": false,
-    "spiderCapture": false,
-    "deepnest26b_switch": false,
-    "openedRestingGrounds02": false,
-    "restingGroundsCryptWall": false,
-    "dreamNailConvo": false,
+    "brokeMinersWall": true,
+    "encounteredMimicSpider": true,
+    "steppedBeyondBridge": true,
+    "deepnestBridgeCollapsed": true,
+    "spiderCapture": true,
+    "deepnest26b_switch": true,
+    "openedRestingGrounds02": true,
+    "restingGroundsCryptWall": true,
+    "dreamNailConvo": true,
     "gladeGhostsKilled": 0,
-    "openedGardensStagStation": false,
-    "extendedGramophone": false,
-    "tollBenchQueensGardens": false,
-    "blizzardEnded": false,
-    "encounteredHornet": false,
-    "savedByHornet": false,
-    "outskirtsWall": false,
-    "abyssGateOpened": false,
-    "abyssLighthouse": false,
-    "blueVineDoor": false,
-    "gotShadeCharm": false,
-    "tollBenchAbyss": false,
-    "fountainGeo": 0,
-    "fountainVesselSummoned": false,
-    "openedBlackEggPath": false,
-    "enteredDreamWorld": false,
-    "duskKnightDefeated": false,
-    "whitePalaceOrb_1": false,
-    "whitePalaceOrb_2": false,
-    "whitePalaceOrb_3": false,
-    "whitePalace05_lever": false,
-    "whitePalaceMidWarp": false,
+    "openedGardensStagStation": true,
+    "extendedGramophone": true,
+    "tollBenchQueensGardens": true,
+    "blizzardEnded": true,
+    "encounteredHornet": true,
+    "savedByHornet": true,
+    "outskirtsWall": true,
+    "abyssGateOpened": true,
+    "abyssLighthouse": true,
+    "blueVineDoor": true,
+    "gotShadeCharm": true,
+    "tollBenchAbyss": true,
+    "fountainGeo": 3000,
+    "fountainVesselSummoned": true,
+    "openedBlackEggPath": true,
+    "enteredDreamWorld": true,
+    "duskKnightDefeated": true,
+    "whitePalaceOrb_1": true,
+    "whitePalaceOrb_2": true,
+    "whitePalaceOrb_3": true,
+    "whitePalace05_lever": true,
+    "whitePalaceMidWarp": true,
     "whitePalaceSecretRoomVisited": false,
     "tramOpenedDeepnest": false,
     "tramOpenedCrossroads": false,
-    "openedBlackEggDoor": false,
-    "unchainedHollowKnight": false,
-    "flamesCollected": 0,
+    "openedBlackEggDoor": true,
+    "unchainedHollowKnight": true,
+    "flamesCollected": 3,
     "flamesRequired": 3,
-    "nightmareLanternAppeared": false,
-    "nightmareLanternLit": false,
-    "troupeInTown": false,
-    "divineInTown": false,
-    "grimmChildLevel": 1,
+    "nightmareLanternAppeared": true,
+    "nightmareLanternLit": true,
+    "troupeInTown": true,
+    "divineInTown": true,
+    "grimmChildLevel": 3,
     "elderbugConvoGrimm": false,
     "slyConvoGrimm": false,
     "iseldaConvoGrimm": false,
     "midwifeWeaverlingConvo": false,
-    "metGrimm": false,
-    "foughtGrimm": false,
-    "metBrum": false,
+    "metGrimm": true,
+    "foughtGrimm": true,
+    "metBrum": true,
     "defeatedNightmareGrimm": false,
     "grimmchildAwoken": false,
-    "gotBrummsFlame": false,
+    "gotBrummsFlame": true,
     "brummBrokeBrazier": false,
     "destroyedNightmareLantern": false,
-    "gotGrimmNotch": false,
+    "gotGrimmNotch": true,
     "nymmInTown": false,
     "nymmSpoken": false,
     "nymmCharmConvo": false,
@@ -1517,19 +2338,19 @@
     "elderbugTroupeLeftConvo": false,
     "elderbugBrettaLeft": false,
     "jijiGrimmConvo": false,
-    "metDivine": false,
+    "metDivine": true,
     "divineFinalConvo": false,
     "gaveFragileHeart": false,
-    "gaveFragileGreed": false,
+    "gaveFragileGreed": true,
     "gaveFragileStrength": false,
-    "divineEatenConvos": 0,
+    "divineEatenConvos": 4,
     "pooedFragileHeart": false,
     "pooedFragileGreed": false,
-    "pooedFragileStrength": false,
-    "completionPercentage": 0,
+    "pooedFragileStrength": true,
+    "completionPercentage": 104,
     "disablePause": false,
     "backerCredits": false,
-    "unlockedCompletionRate": false,
+    "unlockedCompletionRate": true,
     "mapKeyPref": 0,
     "playerStory": [],
     "playerStoryOutput": "",
@@ -1538,7 +2359,7 @@
     "bossReturnEntryGate": "",
     "bossDoorStateTier1": {
       "canUnlock": false,
-      "unlocked": false,
+      "unlocked": true,
       "completed": false,
       "allBindings": false,
       "noHits": false,
@@ -1546,11 +2367,20 @@
       "boundShell": false,
       "boundCharms": false,
       "boundSoul": false,
-      "viewedBossSceneCompletions": []
+      "viewedBossSceneCompletions": [
+        "Vengefly Boss Scene",
+        "Gruz Boss Scene",
+        "False Knight Boss Scene",
+        "Mega Moss Charger Boss Scene",
+        "Hornet 1 Boss Scene",
+        "Dung Defender Boss Scene",
+        "Mage Knight Boss Scene",
+        "Brooding Mawlek Boss Scene"
+      ]
     },
     "bossDoorStateTier2": {
       "canUnlock": false,
-      "unlocked": false,
+      "unlocked": true,
       "completed": false,
       "allBindings": false,
       "noHits": false,
@@ -1558,11 +2388,15 @@
       "boundShell": false,
       "boundCharms": false,
       "boundSoul": false,
-      "viewedBossSceneCompletions": []
+      "viewedBossSceneCompletions": [
+        "Crystal Guardian Boss Scene",
+        "Soul Master Boss Scene",
+        "Broken Vessel Boss Scene"
+      ]
     },
     "bossDoorStateTier3": {
       "canUnlock": false,
-      "unlocked": false,
+      "unlocked": true,
       "completed": false,
       "allBindings": false,
       "noHits": false,
@@ -1570,7 +2404,15 @@
       "boundShell": false,
       "boundCharms": false,
       "boundSoul": false,
-      "viewedBossSceneCompletions": []
+      "viewedBossSceneCompletions": [
+        "God Tamer Boss Scene",
+        "Hive Knight Boss Scene",
+        "Elder Hu Boss Scene",
+        "Collector Boss Scene",
+        "Galien Boss Scene",
+        "Uumuu Boss Scene",
+        "Hornet 2 Boss Scene"
+      ]
     },
     "bossDoorStateTier4": {
       "canUnlock": false,
@@ -1599,62 +2441,62 @@
     "bossStatueTargetLevel": -1,
     "currentBossStatueCompletionKey": "",
     "statueStateGruzMother": {
-      "hasBeenSeen": false,
-      "isUnlocked": false,
-      "completedTier1": false,
+      "hasBeenSeen": true,
+      "isUnlocked": true,
+      "completedTier1": true,
       "completedTier2": false,
       "completedTier3": false,
       "seenTier3Unlock": false,
       "usingAltVersion": false
     },
     "statueStateVengefly": {
-      "hasBeenSeen": false,
-      "isUnlocked": false,
-      "completedTier1": false,
+      "hasBeenSeen": true,
+      "isUnlocked": true,
+      "completedTier1": true,
       "completedTier2": false,
       "completedTier3": false,
       "seenTier3Unlock": false,
       "usingAltVersion": false
     },
     "statueStateBroodingMawlek": {
-      "hasBeenSeen": false,
-      "isUnlocked": false,
-      "completedTier1": false,
+      "hasBeenSeen": true,
+      "isUnlocked": true,
+      "completedTier1": true,
       "completedTier2": false,
       "completedTier3": false,
       "seenTier3Unlock": false,
       "usingAltVersion": false
     },
     "statueStateFalseKnight": {
-      "hasBeenSeen": false,
-      "isUnlocked": false,
-      "completedTier1": false,
+      "hasBeenSeen": true,
+      "isUnlocked": true,
+      "completedTier1": true,
       "completedTier2": false,
       "completedTier3": false,
       "seenTier3Unlock": false,
       "usingAltVersion": false
     },
     "statueStateFailedChampion": {
-      "hasBeenSeen": false,
-      "isUnlocked": false,
-      "completedTier1": false,
+      "hasBeenSeen": true,
+      "isUnlocked": true,
+      "completedTier1": true,
       "completedTier2": false,
       "completedTier3": false,
       "seenTier3Unlock": false,
       "usingAltVersion": false
     },
     "statueStateHornet1": {
-      "hasBeenSeen": false,
-      "isUnlocked": false,
-      "completedTier1": false,
+      "hasBeenSeen": true,
+      "isUnlocked": true,
+      "completedTier1": true,
       "completedTier2": false,
       "completedTier3": false,
       "seenTier3Unlock": false,
       "usingAltVersion": false
     },
     "statueStateHornet2": {
-      "hasBeenSeen": false,
-      "isUnlocked": false,
+      "hasBeenSeen": true,
+      "isUnlocked": true,
       "completedTier1": false,
       "completedTier2": false,
       "completedTier3": false,
@@ -1662,17 +2504,17 @@
       "usingAltVersion": false
     },
     "statueStateMegaMossCharger": {
-      "hasBeenSeen": false,
-      "isUnlocked": false,
-      "completedTier1": false,
+      "hasBeenSeen": true,
+      "isUnlocked": true,
+      "completedTier1": true,
       "completedTier2": false,
       "completedTier3": false,
       "seenTier3Unlock": false,
       "usingAltVersion": false
     },
     "statueStateMantisLords": {
-      "hasBeenSeen": false,
-      "isUnlocked": false,
+      "hasBeenSeen": true,
+      "isUnlocked": true,
       "completedTier1": false,
       "completedTier2": false,
       "completedTier3": false,
@@ -1680,8 +2522,8 @@
       "usingAltVersion": false
     },
     "statueStateOblobbles": {
-      "hasBeenSeen": false,
-      "isUnlocked": false,
+      "hasBeenSeen": true,
+      "isUnlocked": true,
       "completedTier1": false,
       "completedTier2": false,
       "completedTier3": false,
@@ -1698,8 +2540,8 @@
       "usingAltVersion": false
     },
     "statueStateBrokenVessel": {
-      "hasBeenSeen": false,
-      "isUnlocked": false,
+      "hasBeenSeen": true,
+      "isUnlocked": true,
       "completedTier1": false,
       "completedTier2": false,
       "completedTier3": false,
@@ -1707,8 +2549,8 @@
       "usingAltVersion": false
     },
     "statueStateLostKin": {
-      "hasBeenSeen": false,
-      "isUnlocked": false,
+      "hasBeenSeen": true,
+      "isUnlocked": true,
       "completedTier1": false,
       "completedTier2": false,
       "completedTier3": false,
@@ -1716,8 +2558,8 @@
       "usingAltVersion": false
     },
     "statueStateNosk": {
-      "hasBeenSeen": false,
-      "isUnlocked": false,
+      "hasBeenSeen": true,
+      "isUnlocked": true,
       "completedTier1": false,
       "completedTier2": false,
       "completedTier3": false,
@@ -1725,8 +2567,8 @@
       "usingAltVersion": false
     },
     "statueStateFlukemarm": {
-      "hasBeenSeen": false,
-      "isUnlocked": false,
+      "hasBeenSeen": true,
+      "isUnlocked": true,
       "completedTier1": false,
       "completedTier2": false,
       "completedTier3": false,
@@ -1734,8 +2576,8 @@
       "usingAltVersion": false
     },
     "statueStateCollector": {
-      "hasBeenSeen": false,
-      "isUnlocked": false,
+      "hasBeenSeen": true,
+      "isUnlocked": true,
       "completedTier1": false,
       "completedTier2": false,
       "completedTier3": false,
@@ -1743,8 +2585,8 @@
       "usingAltVersion": false
     },
     "statueStateWatcherKnights": {
-      "hasBeenSeen": false,
-      "isUnlocked": false,
+      "hasBeenSeen": true,
+      "isUnlocked": true,
       "completedTier1": false,
       "completedTier2": false,
       "completedTier3": false,
@@ -1752,17 +2594,17 @@
       "usingAltVersion": false
     },
     "statueStateSoulMaster": {
-      "hasBeenSeen": false,
-      "isUnlocked": false,
-      "completedTier1": false,
+      "hasBeenSeen": true,
+      "isUnlocked": true,
+      "completedTier1": true,
       "completedTier2": false,
       "completedTier3": false,
       "seenTier3Unlock": false,
       "usingAltVersion": false
     },
     "statueStateSoulTyrant": {
-      "hasBeenSeen": false,
-      "isUnlocked": false,
+      "hasBeenSeen": true,
+      "isUnlocked": true,
       "completedTier1": false,
       "completedTier2": false,
       "completedTier3": false,
@@ -1779,17 +2621,17 @@
       "usingAltVersion": false
     },
     "statueStateCrystalGuardian1": {
-      "hasBeenSeen": false,
-      "isUnlocked": false,
-      "completedTier1": false,
+      "hasBeenSeen": true,
+      "isUnlocked": true,
+      "completedTier1": true,
       "completedTier2": false,
       "completedTier3": false,
       "seenTier3Unlock": false,
       "usingAltVersion": false
     },
     "statueStateCrystalGuardian2": {
-      "hasBeenSeen": false,
-      "isUnlocked": false,
+      "hasBeenSeen": true,
+      "isUnlocked": true,
       "completedTier1": false,
       "completedTier2": false,
       "completedTier3": false,
@@ -1797,8 +2639,8 @@
       "usingAltVersion": false
     },
     "statueStateUumuu": {
-      "hasBeenSeen": false,
-      "isUnlocked": false,
+      "hasBeenSeen": true,
+      "isUnlocked": true,
       "completedTier1": false,
       "completedTier2": false,
       "completedTier3": false,
@@ -1806,8 +2648,8 @@
       "usingAltVersion": false
     },
     "statueStateDungDefender": {
-      "hasBeenSeen": false,
-      "isUnlocked": false,
+      "hasBeenSeen": true,
+      "isUnlocked": true,
       "completedTier1": false,
       "completedTier2": false,
       "completedTier3": false,
@@ -1824,8 +2666,8 @@
       "usingAltVersion": false
     },
     "statueStateHiveKnight": {
-      "hasBeenSeen": false,
-      "isUnlocked": false,
+      "hasBeenSeen": true,
+      "isUnlocked": true,
       "completedTier1": false,
       "completedTier2": false,
       "completedTier3": false,
@@ -1833,8 +2675,8 @@
       "usingAltVersion": false
     },
     "statueStateTraitorLord": {
-      "hasBeenSeen": false,
-      "isUnlocked": false,
+      "hasBeenSeen": true,
+      "isUnlocked": true,
       "completedTier1": false,
       "completedTier2": false,
       "completedTier3": false,
@@ -1842,8 +2684,8 @@
       "usingAltVersion": false
     },
     "statueStateGrimm": {
-      "hasBeenSeen": false,
-      "isUnlocked": false,
+      "hasBeenSeen": true,
+      "isUnlocked": true,
       "completedTier1": false,
       "completedTier2": false,
       "completedTier3": false,
@@ -1869,8 +2711,8 @@
       "usingAltVersion": false
     },
     "statueStateElderHu": {
-      "hasBeenSeen": false,
-      "isUnlocked": false,
+      "hasBeenSeen": true,
+      "isUnlocked": true,
       "completedTier1": false,
       "completedTier2": false,
       "completedTier3": false,
@@ -1878,8 +2720,8 @@
       "usingAltVersion": false
     },
     "statueStateGalien": {
-      "hasBeenSeen": false,
-      "isUnlocked": false,
+      "hasBeenSeen": true,
+      "isUnlocked": true,
       "completedTier1": false,
       "completedTier2": false,
       "completedTier3": false,
@@ -1887,8 +2729,8 @@
       "usingAltVersion": false
     },
     "statueStateMarkoth": {
-      "hasBeenSeen": false,
-      "isUnlocked": false,
+      "hasBeenSeen": true,
+      "isUnlocked": true,
       "completedTier1": false,
       "completedTier2": false,
       "completedTier3": false,
@@ -1896,8 +2738,8 @@
       "usingAltVersion": false
     },
     "statueStateMarmu": {
-      "hasBeenSeen": false,
-      "isUnlocked": false,
+      "hasBeenSeen": true,
+      "isUnlocked": true,
       "completedTier1": false,
       "completedTier2": false,
       "completedTier3": false,
@@ -1905,8 +2747,8 @@
       "usingAltVersion": false
     },
     "statueStateNoEyes": {
-      "hasBeenSeen": false,
-      "isUnlocked": false,
+      "hasBeenSeen": true,
+      "isUnlocked": true,
       "completedTier1": false,
       "completedTier2": false,
       "completedTier3": false,
@@ -1914,8 +2756,8 @@
       "usingAltVersion": false
     },
     "statueStateXero": {
-      "hasBeenSeen": false,
-      "isUnlocked": false,
+      "hasBeenSeen": true,
+      "isUnlocked": true,
       "completedTier1": false,
       "completedTier2": false,
       "completedTier3": false,
@@ -1923,8 +2765,8 @@
       "usingAltVersion": false
     },
     "statueStateGorb": {
-      "hasBeenSeen": false,
-      "isUnlocked": false,
+      "hasBeenSeen": true,
+      "isUnlocked": true,
       "completedTier1": false,
       "completedTier2": false,
       "completedTier3": false,
@@ -1959,8 +2801,8 @@
       "usingAltVersion": false
     },
     "statueStateMageKnight": {
-      "hasBeenSeen": false,
-      "isUnlocked": false,
+      "hasBeenSeen": true,
+      "isUnlocked": true,
       "completedTier1": false,
       "completedTier2": false,
       "completedTier3": false,
@@ -2003,7 +2845,7 @@
       "seenTier3Unlock": false,
       "usingAltVersion": false
     },
-    "godseekerUnlocked": false,
+    "godseekerUnlocked": true,
     "currentBossSequence": {
       "bindings": 0,
       "timer": 0,
@@ -2030,27 +2872,58 @@
     "blueRoomDoorUnlocked": false,
     "blueRoomActivated": false,
     "finalBossDoorUnlocked": false,
-    "hasGodfinder": false,
+    "hasGodfinder": true,
     "unlockedNewBossStatue": true,
     "scaredFlukeHermitEncountered": false,
     "scaredFlukeHermitReturned": false,
-    "enteredGGAtrium": false,
-    "extraFlowerAppear": false,
+    "enteredGGAtrium": true,
+    "extraFlowerAppear": true,
     "givenGodseekerFlower": false,
     "givenOroFlower": false,
     "givenWhiteLadyFlower": false,
     "givenEmilitiaFlower": false,
-    "unlockedBossScenes": [],
+    "unlockedBossScenes": [
+      "False Knight Boss Scene",
+      "Gruz Boss Scene",
+      "Hornet 1 Boss Scene",
+      "Soul Master Boss Scene",
+      "Crystal Guardian Boss Scene",
+      "Dung Defender Boss Scene",
+      "Brooding Mawlek Boss Scene",
+      "Mega Moss Charger Boss Scene",
+      "Broken Vessel Boss Scene",
+      "Mantis Lords Boss Scene",
+      "Gorb Boss Scene",
+      "Crystal Guardian 2 Boss Scene",
+      "Collector Boss Scene",
+      "Hornet 2 Boss Scene",
+      "Traitor Lord Boss Scene",
+      "Marmu Boss Scene",
+      "Xero Boss Scene",
+      "Elder Hu Boss Scene",
+      "Nosk Boss Scene",
+      "Galien Boss Scene",
+      "Failed Champion Boss Scene",
+      "Markoth Boss Scene",
+      "Lost Kin Boss Scene",
+      "Hive Knight Boss Scene",
+      "Uumuu Boss Scene",
+      "Watcher Knights Boss Scene",
+      "No Eyes Boss Scene",
+      "Oblobbles Boss Scene",
+      "Flukemarm Boss Scene",
+      "Grimm Boss Scene"
+    ],
     "queuedGodfinderIcon": false,
     "godseekerSpokenAwake": false,
     "nailsmithCorpseAppeared": false,
-    "godseekerWaterwaysSeenState": -1,
+    "godseekerWaterwaysSeenState": 0,
     "godseekerWaterwaysSpoken1": false,
     "godseekerWaterwaysSpoken2": false,
     "godseekerWaterwaysSpoken3": false,
     "bossDoorEntranceTextSeen": -1,
     "seenDoor4Finale": false,
-    "zoteStatueWallBroken": false,
+    "zoteStatueWallBroken": true,
     "seenGGWastes": false,
     "ordealAchieved": false
   },
@@ -2059,52 +2932,1042 @@
       {
         "id": "Geo Rock 4",
         "sceneName": "Tutorial_01",
-        "hitsLeft": 5
+        "hitsLeft": 0
       },
       {
         "id": "Geo Rock 1",
         "sceneName": "Tutorial_01",
-        "hitsLeft": 5
+        "hitsLeft": 0
       },
       {
         "id": "Geo Rock 3",
         "sceneName": "Tutorial_01",
-        "hitsLeft": 5
+        "hitsLeft": 0
       },
       {
         "id": "Geo Rock 2",
         "sceneName": "Tutorial_01",
-        "hitsLeft": 4
+        "hitsLeft": 0
       },
       {
         "id": "Geo Rock 5",
         "sceneName": "Tutorial_01",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock 2",
+        "sceneName": "Crossroads_01",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock 1 (1)",
+        "sceneName": "Crossroads_07",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock 1",
+        "sceneName": "Crossroads_07",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock 1 (2)",
+        "sceneName": "Crossroads_07",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock 1 (3)",
+        "sceneName": "Crossroads_08",
+        "hitsLeft": 6
+      },
+      {
+        "id": "Geo Rock 1 (1)",
+        "sceneName": "Crossroads_08",
+        "hitsLeft": 6
+      },
+      {
+        "id": "Geo Rock 1 (2)",
+        "sceneName": "Crossroads_08",
+        "hitsLeft": 6
+      },
+      {
+        "id": "Geo Rock 1",
+        "sceneName": "Crossroads_08",
         "hitsLeft": 5
+      },
+      {
+        "id": "Geo Rock 1",
+        "sceneName": "Crossroads_13",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock 2",
+        "sceneName": "Crossroads_13",
+        "hitsLeft": 5
+      },
+      {
+        "id": "Geo Rock 1",
+        "sceneName": "Crossroads_42",
+        "hitsLeft": 5
+      },
+      {
+        "id": "Geo Rock 2",
+        "sceneName": "Crossroads_42",
+        "hitsLeft": 5
+      },
+      {
+        "id": "Geo Rock 1",
+        "sceneName": "Crossroads_19",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock 1",
+        "sceneName": "Crossroads_21",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock 1",
+        "sceneName": "Crossroads_10",
+        "hitsLeft": 5
+      },
+      {
+        "id": "Geo Rock 2 (1)",
+        "sceneName": "Crossroads_ShamanTemple",
+        "hitsLeft": 5
+      },
+      {
+        "id": "Geo Rock 2",
+        "sceneName": "Crossroads_ShamanTemple",
+        "hitsLeft": 5
+      },
+      {
+        "id": "Geo Rock 1",
+        "sceneName": "Crossroads_ShamanTemple",
+        "hitsLeft": 5
+      },
+      {
+        "id": "Geo Rock 2",
+        "sceneName": "Crossroads_16",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock 1",
+        "sceneName": "Crossroads_27",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock 1",
+        "sceneName": "Crossroads_46",
+        "hitsLeft": 5
+      },
+      {
+        "id": "Geo Rock 1",
+        "sceneName": "Crossroads_05",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock 2",
+        "sceneName": "Crossroads_12",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock 1",
+        "sceneName": "Crossroads_18",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock 3",
+        "sceneName": "Crossroads_18",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock 2",
+        "sceneName": "Crossroads_18",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Green Path 01",
+        "sceneName": "Fungus1_01",
+        "hitsLeft": 5
+      },
+      {
+        "id": "Geo Rock Green Path 01",
+        "sceneName": "Fungus1_01b",
+        "hitsLeft": 5
+      },
+      {
+        "id": "Geo Rock Green Path 01",
+        "sceneName": "Fungus1_02",
+        "hitsLeft": 5
+      },
+      {
+        "id": "Geo Rock Green Path 01 (1)",
+        "sceneName": "Fungus1_02",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Green Path 01 (2)",
+        "sceneName": "Fungus1_03",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Green Path 01 (1)",
+        "sceneName": "Fungus1_03",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Green Path 01",
+        "sceneName": "Fungus1_03",
+        "hitsLeft": 5
+      },
+      {
+        "id": "Geo Rock 2 (1)",
+        "sceneName": "Fungus1_31",
+        "hitsLeft": 5
+      },
+      {
+        "id": "Geo Rock 1 (1)",
+        "sceneName": "Fungus1_31",
+        "hitsLeft": 5
+      },
+      {
+        "id": "Geo Rock Green Path 01",
+        "sceneName": "Fungus1_31",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Green Path 02 (2)",
+        "sceneName": "Fungus1_21",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Green Path 02",
+        "sceneName": "Fungus1_21",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Green Path 02 (1)",
+        "sceneName": "Fungus1_21",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Green Path 01 (1)",
+        "sceneName": "Fungus1_22",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Green Path 01",
+        "sceneName": "Fungus1_22",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Green Path 01",
+        "sceneName": "Fungus1_04",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Fung 01",
+        "sceneName": "Fungus2_08",
+        "hitsLeft": 5
+      },
+      {
+        "id": "Geo Rock Fung 01",
+        "sceneName": "Fungus2_10",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Fung 01",
+        "sceneName": "Fungus2_11",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Fung 02",
+        "sceneName": "Fungus2_11",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Fung 01 (1)",
+        "sceneName": "Fungus2_13",
+        "hitsLeft": 5
+      },
+      {
+        "id": "Geo Rock Fung 01",
+        "sceneName": "Fungus2_13",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Fung 02",
+        "sceneName": "Fungus2_13",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock 1",
+        "sceneName": "Fungus2_14",
+        "hitsLeft": 5
+      },
+      {
+        "id": "Geo Rock 2 (2)",
+        "sceneName": "Fungus2_14",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock 2 (3)",
+        "sceneName": "Fungus2_14",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock 2 (1)",
+        "sceneName": "Fungus2_14",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock 2",
+        "sceneName": "Fungus2_14",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock 1 (1)",
+        "sceneName": "Fungus2_15",
+        "hitsLeft": 1
+      },
+      {
+        "id": "Geo Rock 1",
+        "sceneName": "Fungus2_15",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Fung 01",
+        "sceneName": "Fungus2_18",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Fung 02 (2)",
+        "sceneName": "Fungus2_18",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Fung 01 (1)",
+        "sceneName": "Fungus2_18",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Fung 02 (1)",
+        "sceneName": "Fungus2_18",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock City 1",
+        "sceneName": "Ruins2_05",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock City 1",
+        "sceneName": "Ruins2_06",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock City 1",
+        "sceneName": "Ruins2_01",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock City 1 (1)",
+        "sceneName": "Ruins1_05b",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock City 1",
+        "sceneName": "Ruins1_03",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock City 1",
+        "sceneName": "Ruins1_05c",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock City 1",
+        "sceneName": "Ruins1_32",
+        "hitsLeft": 5
+      },
+      {
+        "id": "Geo Rock Mine (1)",
+        "sceneName": "Mines_02",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Mine",
+        "sceneName": "Mines_02",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock 1",
+        "sceneName": "Mines_02",
+        "hitsLeft": 1
+      },
+      {
+        "id": "Geo Rock Mine (1)",
+        "sceneName": "Mines_04",
+        "hitsLeft": 3
+      },
+      {
+        "id": "Geo Rock Mine",
+        "sceneName": "Mines_04",
+        "hitsLeft": 3
+      },
+      {
+        "id": "Geo Rock Mine",
+        "sceneName": "Mines_05",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Mine (3)",
+        "sceneName": "Mines_20",
+        "hitsLeft": 3
+      },
+      {
+        "id": "Geo Rock Mine (4)",
+        "sceneName": "Mines_20",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Mine (2)",
+        "sceneName": "Mines_20",
+        "hitsLeft": 2
+      },
+      {
+        "id": "Geo Rock Mine",
+        "sceneName": "Mines_37",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Mine (1)",
+        "sceneName": "Mines_37",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Mine",
+        "sceneName": "Mines_31",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Mine (3)",
+        "sceneName": "Mines_25",
+        "hitsLeft": 4
+      },
+      {
+        "id": "Geo Rock Mine (1)",
+        "sceneName": "Mines_25",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Mine (2)",
+        "sceneName": "Mines_25",
+        "hitsLeft": 4
+      },
+      {
+        "id": "Geo Rock Mine",
+        "sceneName": "Mines_25",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Mine (4)",
+        "sceneName": "Mines_25",
+        "hitsLeft": 4
+      },
+      {
+        "id": "Geo Rock Mine",
+        "sceneName": "Mines_16",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock City 1 (1)",
+        "sceneName": "Waterways_01",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock City 1",
+        "sceneName": "Waterways_01",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock City 1",
+        "sceneName": "Waterways_04b",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock City 1",
+        "sceneName": "Waterways_08",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock 2 (1)",
+        "sceneName": "Abyss_01",
+        "hitsLeft": 5
+      },
+      {
+        "id": "Geo Rock 1",
+        "sceneName": "Abyss_01",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock 2",
+        "sceneName": "Abyss_01",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Deepnest (2)",
+        "sceneName": "Abyss_02",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Deepnest (1)",
+        "sceneName": "Abyss_02",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Deepnest",
+        "sceneName": "Abyss_02",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Abyss",
+        "sceneName": "Abyss_18",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock City 1",
+        "sceneName": "Waterways_07",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock City 1",
+        "sceneName": "GG_Pipeway",
+        "hitsLeft": 5
+      },
+      {
+        "id": "Geo Rock Fung 01",
+        "sceneName": "Room_GG_Shortcut",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Fung 02 (1)",
+        "sceneName": "Room_GG_Shortcut",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Fung 01",
+        "sceneName": "Fungus2_04",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock 1",
+        "sceneName": "Crossroads_52",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock 2",
+        "sceneName": "Crossroads_52",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock 1",
+        "sceneName": "Crossroads_36",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Green Path 01",
+        "sceneName": "Fungus1_10",
+        "hitsLeft": 5
+      },
+      {
+        "id": "Geo Rock 2",
+        "sceneName": "Fungus1_05",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Green Path 01",
+        "sceneName": "Fungus1_07",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Green Path 01",
+        "sceneName": "Fungus1_19",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Green Path 01",
+        "sceneName": "Fungus1_29",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Green Path 01",
+        "sceneName": "Fungus1_12",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Green Path 02",
+        "sceneName": "Fungus1_12",
+        "hitsLeft": 5
+      },
+      {
+        "id": "Geo Rock Green Path 01 (1)",
+        "sceneName": "Fungus1_12",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Green Path 02",
+        "sceneName": "Room_Fungus_Shaman",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Green Path 01",
+        "sceneName": "Fungus3_03",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Green Path 01 (1)",
+        "sceneName": "Fungus3_39",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Green Path 01",
+        "sceneName": "Fungus3_39",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock 2",
+        "sceneName": "Deepnest_01",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock 1",
+        "sceneName": "Deepnest_01",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Deepnest (1)",
+        "sceneName": "Deepnest_02",
+        "hitsLeft": 3
+      },
+      {
+        "id": "Geo Rock Deepnest",
+        "sceneName": "Deepnest_02",
+        "hitsLeft": 3
+      },
+      {
+        "id": "Geo Rock Green Path 01",
+        "sceneName": "Deepnest_43",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Green Path 01 (1)",
+        "sceneName": "Deepnest_43",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Green Path 01",
+        "sceneName": "Fungus3_10",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Green Path 02",
+        "sceneName": "Fungus3_48",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Grave 01",
+        "sceneName": "RestingGrounds_10",
+        "hitsLeft": 3
+      },
+      {
+        "id": "Geo Rock Grave 02 (1)",
+        "sceneName": "RestingGrounds_10",
+        "hitsLeft": 3
+      },
+      {
+        "id": "Geo Rock Grave 02",
+        "sceneName": "RestingGrounds_10",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock 1",
+        "sceneName": "Fungus2_21",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock 2",
+        "sceneName": "Mines_33",
+        "hitsLeft": 5
+      },
+      {
+        "id": "Geo Rock 2 (2)",
+        "sceneName": "Mines_33",
+        "hitsLeft": 5
+      },
+      {
+        "id": "Geo Rock 2 (1)",
+        "sceneName": "Mines_33",
+        "hitsLeft": 5
+      },
+      {
+        "id": "Geo Rock Abyss",
+        "sceneName": "Abyss_19",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Abyss (1)",
+        "sceneName": "Abyss_19",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Outskirts (1)",
+        "sceneName": "Deepnest_East_07",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Outskirts",
+        "sceneName": "Deepnest_East_07",
+        "hitsLeft": 5
+      },
+      {
+        "id": "Geo Rock Outskirts",
+        "sceneName": "Deepnest_East_06",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Outskirts (1)",
+        "sceneName": "Deepnest_East_06",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Outskirts",
+        "sceneName": "Deepnest_East_04",
+        "hitsLeft": 4
+      },
+      {
+        "id": "Geo Rock Fung 01",
+        "sceneName": "Fungus2_29",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Fung 01 (1)",
+        "sceneName": "Fungus2_30",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Fung 01",
+        "sceneName": "Fungus2_30",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Deepnest (2)",
+        "sceneName": "Fungus2_25",
+        "hitsLeft": 3
+      },
+      {
+        "id": "Geo Rock Deepnest (1)",
+        "sceneName": "Fungus2_25",
+        "hitsLeft": 3
+      },
+      {
+        "id": "Geo Rock Deepnest",
+        "sceneName": "Fungus2_25",
+        "hitsLeft": 3
+      },
+      {
+        "id": "Geo Rock 1 (1)",
+        "sceneName": "Cliffs_02",
+        "hitsLeft": 5
+      },
+      {
+        "id": "Geo Rock 1",
+        "sceneName": "Cliffs_02",
+        "hitsLeft": 5
+      },
+      {
+        "id": "Geo Rock 2 (1)",
+        "sceneName": "Cliffs_01",
+        "hitsLeft": 5
+      },
+      {
+        "id": "Geo Rock 2 (2)",
+        "sceneName": "Cliffs_01",
+        "hitsLeft": 5
+      },
+      {
+        "id": "Geo Rock 2 (3)",
+        "sceneName": "Cliffs_01",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock 2 (4)",
+        "sceneName": "Cliffs_01",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock 1 (2)",
+        "sceneName": "Fungus1_28",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock 2",
+        "sceneName": "Fungus1_28",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Outskirts",
+        "sceneName": "Deepnest_East_08",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Outskirts",
+        "sceneName": "GG_Lurker",
+        "hitsLeft": 5
+      },
+      {
+        "id": "Geo Rock 2",
+        "sceneName": "Crossroads_37",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock City 1",
+        "sceneName": "Ruins_Elevator",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Green Path 01",
+        "sceneName": "Fungus3_26",
+        "hitsLeft": 5
+      },
+      {
+        "id": "Geo Rock Abyss (1)",
+        "sceneName": "Abyss_06_Core",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Abyss",
+        "sceneName": "Abyss_06_Core",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Deepnest (2)",
+        "sceneName": "Deepnest_16",
+        "hitsLeft": 3
+      },
+      {
+        "id": "Geo Rock Deepnest",
+        "sceneName": "Deepnest_16",
+        "hitsLeft": 3
+      },
+      {
+        "id": "Geo Rock Deepnest (3)",
+        "sceneName": "Deepnest_16",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Deepnest (4)",
+        "sceneName": "Deepnest_16",
+        "hitsLeft": 3
+      },
+      {
+        "id": "Geo Rock Deepnest (1)",
+        "sceneName": "Deepnest_16",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Deepnest",
+        "sceneName": "Deepnest_37",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Deepnest (1)",
+        "sceneName": "Deepnest_37",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Deepnest (2)",
+        "sceneName": "Deepnest_03",
+        "hitsLeft": 3
+      },
+      {
+        "id": "Geo Rock Deepnest (1)",
+        "sceneName": "Deepnest_03",
+        "hitsLeft": 3
+      },
+      {
+        "id": "Geo Rock Deepnest",
+        "sceneName": "Deepnest_03",
+        "hitsLeft": 3
+      },
+      {
+        "id": "Geo Rock Deepnest",
+        "sceneName": "Deepnest_31",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Deepnest (1)",
+        "sceneName": "Deepnest_31",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Deepnest (2)",
+        "sceneName": "Deepnest_31",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Deepnest",
+        "sceneName": "Deepnest_35",
+        "hitsLeft": 3
+      },
+      {
+        "id": "Geo Rock Deepnest (1)",
+        "sceneName": "Deepnest_35",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Deepnest (1)",
+        "sceneName": "Deepnest_39",
+        "hitsLeft": 3
+      },
+      {
+        "id": "Geo Rock Deepnest (2)",
+        "sceneName": "Deepnest_39",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Deepnest",
+        "sceneName": "Deepnest_39",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Deepnest (4)",
+        "sceneName": "Deepnest_Spider_Town",
+        "hitsLeft": 3
+      },
+      {
+        "id": "Geo Rock Deepnest (1)",
+        "sceneName": "Deepnest_Spider_Town",
+        "hitsLeft": 3
+      },
+      {
+        "id": "Geo Rock Deepnest (2)",
+        "sceneName": "Deepnest_Spider_Town",
+        "hitsLeft": 3
+      },
+      {
+        "id": "Geo Rock Deepnest (6)",
+        "sceneName": "Deepnest_Spider_Town",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Deepnest",
+        "sceneName": "Deepnest_Spider_Town",
+        "hitsLeft": 3
+      },
+      {
+        "id": "Geo Rock Deepnest (7)",
+        "sceneName": "Deepnest_Spider_Town",
+        "hitsLeft": 3
+      },
+      {
+        "id": "Geo Rock Deepnest (5)",
+        "sceneName": "Deepnest_Spider_Town",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Deepnest (3)",
+        "sceneName": "Deepnest_Spider_Town",
+        "hitsLeft": 3
+      },
+      {
+        "id": "Geo Rock Hive",
+        "sceneName": "Hive_01",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Hive",
+        "sceneName": "Hive_02",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Hive (1)",
+        "sceneName": "Hive_02",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Hive (2)",
+        "sceneName": "Hive_02",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Deepnest",
+        "sceneName": "Deepnest_East_01",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Deepnest (1)",
+        "sceneName": "Deepnest_East_01",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Hive (2)",
+        "sceneName": "Hive_03",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Hive",
+        "sceneName": "Hive_03",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Hive (1)",
+        "sceneName": "Hive_03",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Hive",
+        "sceneName": "Hive_04",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Hive (1)",
+        "sceneName": "Hive_04",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Deepnest (1)",
+        "sceneName": "Deepnest_East_02",
+        "hitsLeft": 0
+      },
+      {
+        "id": "Geo Rock Deepnest",
+        "sceneName": "Deepnest_East_02",
+        "hitsLeft": 0
       }
     ],
     "persistentBoolItems": [
       {
         "id": "fury charm_remask",
         "sceneName": "Tutorial_01",
-        "activated": false,
+        "activated": true,
         "semiPersistent": false
       },
       {
         "id": "inverse_remask_right",
         "sceneName": "Tutorial_01",
-        "activated": false,
+        "activated": true,
         "semiPersistent": false
       },
       {
         "id": "Collapser Tute 01",
         "sceneName": "Tutorial_01",
-        "activated": false,
+        "activated": true,
         "semiPersistent": false
       },
       {
         "id": "Secret Mask",
         "sceneName": "Tutorial_01",
-        "activated": false,
+        "activated": true,
         "semiPersistent": false
       },
       {
@@ -2116,85 +3979,85 @@
       {
         "id": "Tute Door 2",
         "sceneName": "Tutorial_01",
-        "activated": false,
+        "activated": true,
         "semiPersistent": false
       },
       {
         "id": "Tute Door 4",
         "sceneName": "Tutorial_01",
-        "activated": false,
+        "activated": true,
         "semiPersistent": false
       },
       {
         "id": "Tute Door 3",
         "sceneName": "Tutorial_01",
-        "activated": false,
+        "activated": true,
         "semiPersistent": false
       },
       {
         "id": "Interact Reminder",
         "sceneName": "Tutorial_01",
-        "activated": false,
+        "activated": true,
         "semiPersistent": false
       },
       {
         "id": "Tute Door 6",
         "sceneName": "Tutorial_01",
-        "activated": false,
+        "activated": true,
         "semiPersistent": false
       },
       {
         "id": "Chest",
         "sceneName": "Tutorial_01",
-        "activated": false,
+        "activated": true,
         "semiPersistent": false
       },
       {
         "id": "Door",
         "sceneName": "Tutorial_01",
-        "activated": false,
+        "activated": true,
         "semiPersistent": false
       },
       {
         "id": "Secret Sound Region",
         "sceneName": "Tutorial_01",
-        "activated": false,
+        "activated": true,
         "semiPersistent": false
       },
       {
         "id": "Tute Door 1",
         "sceneName": "Tutorial_01",
-        "activated": false,
+        "activated": true,
         "semiPersistent": false
       },
       {
         "id": "Inverse Remasker",
         "sceneName": "Tutorial_01",
-        "activated": false,
+        "activated": true,
         "semiPersistent": false
       },
       {
         "id": "Tute Door 7",
         "sceneName": "Tutorial_01",
-        "activated": false,
+        "activated": true,
         "semiPersistent": false
       },
       {
         "id": "Break Floor 1",
         "sceneName": "Tutorial_01",
-        "activated": false,
+        "activated": true,
         "semiPersistent": false
       },
       {
         "id": "Secret Sound Region (1)",
         "sceneName": "Tutorial_01",
-        "activated": false,
+        "activated": true,
         "semiPersistent": false
       },
       {
         "id": "Tute Door 5",
         "sceneName": "Tutorial_01",
-        "activated": false,
+        "activated": true,
         "semiPersistent": false
       },
       {
@@ -2202,8 +4065,13299 @@
         "sceneName": "Tutorial_01",
         "activated": true,
         "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item (1)",
+        "sceneName": "Tutorial_01",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Death Respawn Trigger",
+        "sceneName": "Town",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Mines Lever",
+        "sceneName": "Town",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Interact Reminder",
+        "sceneName": "Town",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Death Respawn Trigger 1",
+        "sceneName": "Town",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Door Destroyer",
+        "sceneName": "Town",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Gravedigger NPC",
+        "sceneName": "Town",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Zombie Runner",
+        "sceneName": "Crossroads_01",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Crossroads_01",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item",
+        "sceneName": "Crossroads_01",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Zombie Runner 1",
+        "sceneName": "Crossroads_01",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Remasker",
+        "sceneName": "Crossroads_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (14)",
+        "sceneName": "Crossroads_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (11)",
+        "sceneName": "Crossroads_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (18)",
+        "sceneName": "Crossroads_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Breakable Wall_Silhouette",
+        "sceneName": "Crossroads_07",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (26)",
+        "sceneName": "Crossroads_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (2)",
+        "sceneName": "Crossroads_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (21)",
+        "sceneName": "Crossroads_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (5)",
+        "sceneName": "Crossroads_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (19)",
+        "sceneName": "Crossroads_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (28)",
+        "sceneName": "Crossroads_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (1)",
+        "sceneName": "Crossroads_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (23)",
+        "sceneName": "Crossroads_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (22)",
+        "sceneName": "Crossroads_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (25)",
+        "sceneName": "Crossroads_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (12)",
+        "sceneName": "Crossroads_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb",
+        "sceneName": "Crossroads_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant",
+        "sceneName": "Crossroads_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (9)",
+        "sceneName": "Crossroads_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (27)",
+        "sceneName": "Crossroads_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (15)",
+        "sceneName": "Crossroads_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (16)",
+        "sceneName": "Crossroads_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (4)",
+        "sceneName": "Crossroads_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (13)",
+        "sceneName": "Crossroads_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (24)",
+        "sceneName": "Crossroads_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (17)",
+        "sceneName": "Crossroads_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (7)",
+        "sceneName": "Crossroads_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (20)",
+        "sceneName": "Crossroads_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Tute Door 1",
+        "sceneName": "Crossroads_07",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (8)",
+        "sceneName": "Crossroads_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (6)",
+        "sceneName": "Crossroads_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (3)",
+        "sceneName": "Crossroads_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (10)",
+        "sceneName": "Crossroads_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Break Wall 2",
+        "sceneName": "Crossroads_08",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Battle Scene",
+        "sceneName": "Crossroads_08",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "break_wall_masks",
+        "sceneName": "Crossroads_08",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Heart Piece",
+        "sceneName": "Crossroads_13",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Break Floor 1",
+        "sceneName": "Crossroads_13",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Zombie Barger",
+        "sceneName": "Crossroads_13",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Hatcher",
+        "sceneName": "Crossroads_19",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Leaper",
+        "sceneName": "Crossroads_19",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Grub Bottle",
+        "sceneName": "Crossroads_03",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Break Wall 2",
+        "sceneName": "Crossroads_03",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Toll Gate Switch",
+        "sceneName": "Crossroads_03",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Zombie Guard",
+        "sceneName": "Crossroads_21",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Leaper",
+        "sceneName": "Crossroads_21",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Barger",
+        "sceneName": "Crossroads_21",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Runner",
+        "sceneName": "Crossroads_21",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Collapser Small",
+        "sceneName": "Crossroads_21",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Crossroads_21",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask (1)",
+        "sceneName": "Crossroads_21",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Breakable Wall",
+        "sceneName": "Crossroads_21",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Zombie Barger (1)",
+        "sceneName": "Crossroads_21",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Hornhead",
+        "sceneName": "Crossroads_10",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Runner",
+        "sceneName": "Crossroads_10",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Barger",
+        "sceneName": "Crossroads_10",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Chest",
+        "sceneName": "Crossroads_10",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Breakable Wall",
+        "sceneName": "Crossroads_10",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Battle Scene",
+        "sceneName": "Crossroads_10",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item",
+        "sceneName": "Crossroads_10",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Gate Switch",
+        "sceneName": "Crossroads_06",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Raising Pillar",
+        "sceneName": "Crossroads_06",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (33)",
+        "sceneName": "Crossroads_ShamanTemple",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (34)",
+        "sceneName": "Crossroads_ShamanTemple",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (18)",
+        "sceneName": "Crossroads_ShamanTemple",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (23)",
+        "sceneName": "Crossroads_ShamanTemple",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (14)",
+        "sceneName": "Crossroads_ShamanTemple",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (4)",
+        "sceneName": "Crossroads_ShamanTemple",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (26)",
+        "sceneName": "Crossroads_ShamanTemple",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (1)",
+        "sceneName": "Crossroads_ShamanTemple",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (36)",
+        "sceneName": "Crossroads_ShamanTemple",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (5)",
+        "sceneName": "Crossroads_ShamanTemple",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Health Cocoon",
+        "sceneName": "Crossroads_ShamanTemple",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Dream Plant Orb (9)",
+        "sceneName": "Crossroads_ShamanTemple",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (30)",
+        "sceneName": "Crossroads_ShamanTemple",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (31)",
+        "sceneName": "Crossroads_ShamanTemple",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (10)",
+        "sceneName": "Crossroads_ShamanTemple",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb",
+        "sceneName": "Crossroads_ShamanTemple",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (20)",
+        "sceneName": "Crossroads_ShamanTemple",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (11)",
+        "sceneName": "Crossroads_ShamanTemple",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (27)",
+        "sceneName": "Crossroads_ShamanTemple",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (22)",
+        "sceneName": "Crossroads_ShamanTemple",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (29)",
+        "sceneName": "Crossroads_ShamanTemple",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (21)",
+        "sceneName": "Crossroads_ShamanTemple",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (15)",
+        "sceneName": "Crossroads_ShamanTemple",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (32)",
+        "sceneName": "Crossroads_ShamanTemple",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item",
+        "sceneName": "Crossroads_ShamanTemple",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Death Respawn Trigger 1",
+        "sceneName": "Crossroads_ShamanTemple",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (24)",
+        "sceneName": "Crossroads_ShamanTemple",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (25)",
+        "sceneName": "Crossroads_ShamanTemple",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (28)",
+        "sceneName": "Crossroads_ShamanTemple",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Bone Gate",
+        "sceneName": "Crossroads_ShamanTemple",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Crossroads_ShamanTemple",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Blocker",
+        "sceneName": "Crossroads_ShamanTemple",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (37)",
+        "sceneName": "Crossroads_ShamanTemple",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (35)",
+        "sceneName": "Crossroads_ShamanTemple",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (17)",
+        "sceneName": "Crossroads_ShamanTemple",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (38)",
+        "sceneName": "Crossroads_ShamanTemple",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (16)",
+        "sceneName": "Crossroads_ShamanTemple",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (13)",
+        "sceneName": "Crossroads_ShamanTemple",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (41)",
+        "sceneName": "Crossroads_ShamanTemple",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (6)",
+        "sceneName": "Crossroads_ShamanTemple",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant",
+        "sceneName": "Crossroads_ShamanTemple",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (40)",
+        "sceneName": "Crossroads_ShamanTemple",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (12)",
+        "sceneName": "Crossroads_ShamanTemple",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (3)",
+        "sceneName": "Crossroads_ShamanTemple",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Battle Scene",
+        "sceneName": "Crossroads_ShamanTemple",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (39)",
+        "sceneName": "Crossroads_ShamanTemple",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (19)",
+        "sceneName": "Crossroads_ShamanTemple",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Remasker",
+        "sceneName": "Crossroads_ShamanTemple",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (8)",
+        "sceneName": "Crossroads_ShamanTemple",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (2)",
+        "sceneName": "Crossroads_ShamanTemple",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (7)",
+        "sceneName": "Crossroads_ShamanTemple",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Reminder Cast (1)",
+        "sceneName": "Crossroads_ShamanTemple",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Zombie Runner",
+        "sceneName": "Crossroads_ShamanTemple",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Prayer Slug",
+        "sceneName": "Crossroads_10",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Prayer Slug (1)",
+        "sceneName": "Crossroads_10",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Gate Switch",
+        "sceneName": "Room_Town_Stag_Station",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Zombie Hornhead",
+        "sceneName": "Crossroads_16",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Guard",
+        "sceneName": "Crossroads_48",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Grub Bottle",
+        "sceneName": "Crossroads_48",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Zombie Shield 1",
+        "sceneName": "Crossroads_15",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Shield",
+        "sceneName": "Crossroads_15",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Hatcher 1",
+        "sceneName": "Crossroads_27",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Hatcher",
+        "sceneName": "Crossroads_27",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Hatcher 2",
+        "sceneName": "Crossroads_27",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Grub Bottle",
+        "sceneName": "Crossroads_31",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "CamLock Destroyer",
+        "sceneName": "Crossroads_04",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Break Floor 1",
+        "sceneName": "Crossroads_04",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Crossroads_04",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Battle Scene",
+        "sceneName": "Crossroads_04",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask (1)",
+        "sceneName": "Crossroads_04",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Zombie Hornhead",
+        "sceneName": "Crossroads_04",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Runner",
+        "sceneName": "Crossroads_04",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Barger",
+        "sceneName": "Crossroads_04",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Leaper",
+        "sceneName": "Crossroads_40",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Hornhead",
+        "sceneName": "Crossroads_40",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Leaper 1",
+        "sceneName": "Crossroads_40",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Runner 2",
+        "sceneName": "Crossroads_40",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Runner",
+        "sceneName": "Crossroads_05",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Grub Bottle",
+        "sceneName": "Crossroads_05",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny",
+        "sceneName": "Crossroads_33",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Hatcher",
+        "sceneName": "Crossroads_35",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Grub Bottle",
+        "sceneName": "Crossroads_35",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Remasker",
+        "sceneName": "Crossroads_35",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Breakable Wall Waterways",
+        "sceneName": "Crossroads_18",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Inverse Remasker",
+        "sceneName": "Crossroads_18",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Reward 16",
+        "sceneName": "Crossroads_38",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Reward 31",
+        "sceneName": "Crossroads_38",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Reward 46",
+        "sceneName": "Crossroads_38",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Reward 10",
+        "sceneName": "Crossroads_38",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Reward 38",
+        "sceneName": "Crossroads_38",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Reward 5",
+        "sceneName": "Crossroads_38",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Reward 23",
+        "sceneName": "Crossroads_38",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Heart Piece",
+        "sceneName": "Crossroads_38",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Blocker",
+        "sceneName": "Crossroads_11_alt",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Battle Scene",
+        "sceneName": "Crossroads_11_alt",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Fungus1_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Mossman_Runner",
+        "sceneName": "Fungus1_01",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Plant Trap",
+        "sceneName": "Fungus1_01",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mossman_Shaker",
+        "sceneName": "Fungus1_01",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mossman_Shaker (1)",
+        "sceneName": "Fungus1_01",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mossman_Shaker",
+        "sceneName": "Fungus1_02",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Fungus1_17",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask (1)",
+        "sceneName": "Fungus1_17",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Moss Charger",
+        "sceneName": "Fungus1_17",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Hornhead",
+        "sceneName": "Fungus1_03",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Runner",
+        "sceneName": "Fungus1_03",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Runner (1)",
+        "sceneName": "Fungus1_03",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Plant Trap",
+        "sceneName": "Fungus1_03",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Barger",
+        "sceneName": "Fungus1_03",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mossman_Shaker (1)",
+        "sceneName": "Fungus1_31",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mossman_Runner",
+        "sceneName": "Fungus1_31",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Breakable Wall",
+        "sceneName": "Fungus1_31",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Toll Gate Machine",
+        "sceneName": "Fungus1_31",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Toll Gate Machine (1)",
+        "sceneName": "Fungus1_31",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Mossman_Shaker",
+        "sceneName": "Fungus1_31",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Moss Knight B",
+        "sceneName": "Fungus1_32",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Health Cocoon",
+        "sceneName": "Fungus1_32",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Breakable Wall",
+        "sceneName": "Fungus1_32",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Battle Scene v2",
+        "sceneName": "Fungus1_32",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Grub Bottle",
+        "sceneName": "Fungus1_21",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Moss Knight",
+        "sceneName": "Fungus1_21",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Battle Scene",
+        "sceneName": "Fungus1_21",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Fungus1_21",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Vine Platform (2)",
+        "sceneName": "Fungus1_21",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Moss Knight (1)",
+        "sceneName": "Fungus1_21",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Moss Charger",
+        "sceneName": "Fungus1_21",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Moss Charger (1)",
+        "sceneName": "Fungus1_21",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Moss Charger (2)",
+        "sceneName": "Fungus1_21",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Gate Switch",
+        "sceneName": "Fungus1_22",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Vine Platform",
+        "sceneName": "Fungus1_22",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item",
+        "sceneName": "Fungus1_22",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Breakable Wall",
+        "sceneName": "Fungus1_22",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Vine Platform (1)",
+        "sceneName": "Fungus1_22",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Plant Trap (3)",
+        "sceneName": "Fungus1_22",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Plant Trap (5)",
+        "sceneName": "Fungus1_22",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Plant Trap (1)",
+        "sceneName": "Fungus1_22",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Plant Trap",
+        "sceneName": "Fungus1_22",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Plant Trap (4)",
+        "sceneName": "Fungus1_22",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Plant Trap (2)",
+        "sceneName": "Fungus1_22",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mossman_Shaker (1)",
+        "sceneName": "Fungus1_22",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mossman_Shaker (2)",
+        "sceneName": "Fungus1_22",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mossman_Shaker",
+        "sceneName": "Fungus1_22",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "secret mask 2",
+        "sceneName": "Fungus1_04",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Break Floor 1",
+        "sceneName": "Fungus1_04",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Camera Locks Boss",
+        "sceneName": "Fungus1_04",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Reminder Look Down",
+        "sceneName": "Fungus1_04",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item",
+        "sceneName": "Fungus1_04",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Fungus Flyer (1)",
+        "sceneName": "Fungus2_06",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Fungus Flyer",
+        "sceneName": "Fungus2_06",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Fungus Flyer (2)",
+        "sceneName": "Fungus2_06",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Fungus Flyer (3)",
+        "sceneName": "Fungus2_06",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mushroom Roller",
+        "sceneName": "Fungus2_07",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Secret Mask (1)",
+        "sceneName": "Fungus2_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Fungus2_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Mushroom Roller (1)",
+        "sceneName": "Fungus2_07",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Fungus Flyer",
+        "sceneName": "Fungus2_08",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Fungus2_10",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "One Way Wall",
+        "sceneName": "Fungus2_10",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Zombie Fungus B",
+        "sceneName": "Fungus2_10",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Fungus A",
+        "sceneName": "Fungus2_10",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Fungus Flyer",
+        "sceneName": "Fungus2_11",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mantis",
+        "sceneName": "Fungus2_12",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mantis (1)",
+        "sceneName": "Fungus2_12",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mantis (2)",
+        "sceneName": "Fungus2_12",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mantis (1)",
+        "sceneName": "Fungus2_13",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mantis (2)",
+        "sceneName": "Fungus2_13",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mantis (4)",
+        "sceneName": "Fungus2_13",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mantis (3)",
+        "sceneName": "Fungus2_13",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mantis",
+        "sceneName": "Fungus2_13",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Gate Mantis",
+        "sceneName": "Fungus2_14",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mantis (2)",
+        "sceneName": "Fungus2_14",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mantis (1)",
+        "sceneName": "Fungus2_14",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mantis Lever",
+        "sceneName": "Fungus2_14",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item Stand",
+        "sceneName": "Fungus2_14",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Mantis Lever (1)",
+        "sceneName": "Fungus2_14",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Mantis Lever",
+        "sceneName": "Fungus2_15",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Mantis (2)",
+        "sceneName": "Fungus2_15",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mantis Lever (4)",
+        "sceneName": "Fungus2_15",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Mantis Lever (3)",
+        "sceneName": "Fungus2_15",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Breakable Wall",
+        "sceneName": "Fungus2_15",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Mantis",
+        "sceneName": "Fungus2_15",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Health Cocoon",
+        "sceneName": "Fungus2_15",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mantis Lever (1)",
+        "sceneName": "Fungus2_15",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Mantis Lever (2)",
+        "sceneName": "Fungus2_15",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Mantis (1)",
+        "sceneName": "Fungus2_15",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Fungus A",
+        "sceneName": "Fungus2_18",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mantis Lever",
+        "sceneName": "Fungus2_18",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Grub Bottle",
+        "sceneName": "Fungus2_18",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Fungus Flyer",
+        "sceneName": "Fungus2_18",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Shiny",
+        "sceneName": "Fungus2_18",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item",
+        "sceneName": "Fungus2_03",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Fungus Flyer",
+        "sceneName": "Fungus2_03",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Fungus Flyer (1)",
+        "sceneName": "Fungus2_03",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Fungus Flyer (2)",
+        "sceneName": "Fungus2_03",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Hornhead",
+        "sceneName": "Fungus2_03",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Fungus B",
+        "sceneName": "Fungus2_03",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ruins Lever",
+        "sceneName": "Fungus2_01",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Remasker",
+        "sceneName": "Fungus2_01",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Heart Piece",
+        "sceneName": "Fungus2_01",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Egg Sac",
+        "sceneName": "Crossroads_50",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Gate Switch",
+        "sceneName": "RestingGrounds_06",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Breakable Wall",
+        "sceneName": "RestingGrounds_06",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Resting Grounds Slide Floor",
+        "sceneName": "RestingGrounds_06",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Great Shield Zombie",
+        "sceneName": "RestingGrounds_06",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ruins Flying Sentry",
+        "sceneName": "RestingGrounds_06",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Remasker",
+        "sceneName": "RestingGrounds_07",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (18)",
+        "sceneName": "RestingGrounds_05",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (11)",
+        "sceneName": "RestingGrounds_05",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Quake Floor",
+        "sceneName": "RestingGrounds_05",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (9)",
+        "sceneName": "RestingGrounds_05",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (3)",
+        "sceneName": "RestingGrounds_05",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (10)",
+        "sceneName": "RestingGrounds_05",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (13)",
+        "sceneName": "RestingGrounds_05",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (2)",
+        "sceneName": "RestingGrounds_05",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (12)",
+        "sceneName": "RestingGrounds_05",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant",
+        "sceneName": "RestingGrounds_05",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (8)",
+        "sceneName": "RestingGrounds_05",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (19)",
+        "sceneName": "RestingGrounds_05",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (17)",
+        "sceneName": "RestingGrounds_05",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (16)",
+        "sceneName": "RestingGrounds_05",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (4)",
+        "sceneName": "RestingGrounds_05",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (5)",
+        "sceneName": "RestingGrounds_05",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (1)",
+        "sceneName": "RestingGrounds_05",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb",
+        "sceneName": "RestingGrounds_05",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (14)",
+        "sceneName": "RestingGrounds_05",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (15)",
+        "sceneName": "RestingGrounds_05",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (7)",
+        "sceneName": "RestingGrounds_05",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (6)",
+        "sceneName": "RestingGrounds_05",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ruins Lever",
+        "sceneName": "RestingGrounds_09",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny",
+        "sceneName": "RestingGrounds_09",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item Stand",
+        "sceneName": "RestingGrounds_17",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item",
+        "sceneName": "Ruins2_05",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Royal Zombie Coward (3)",
+        "sceneName": "Ruins2_05",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Royal Zombie Coward (2)",
+        "sceneName": "Ruins2_05",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Royal Zombie Coward (1)",
+        "sceneName": "Ruins2_05",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ruins Sentry 1 (2)",
+        "sceneName": "Ruins2_05",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Royal Zombie 1 (1)",
+        "sceneName": "Ruins2_05",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ruins Sentry 1",
+        "sceneName": "Ruins2_05",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ruins Sentry 1 (3)",
+        "sceneName": "Ruins2_05",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Royal Zombie 1",
+        "sceneName": "Ruins2_05",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ruins Flying Sentry",
+        "sceneName": "Ruins2_05",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Royal Zombie 1 (2)",
+        "sceneName": "Ruins2_05",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Royal Zombie Fat",
+        "sceneName": "Ruins2_05",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Royal Zombie Fat (1)",
+        "sceneName": "Ruins2_05",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Royal Zombie Fat (2)",
+        "sceneName": "Ruins2_05",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ruins Sentry Fat",
+        "sceneName": "Ruins2_05",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Battle Scene",
+        "sceneName": "Ruins2_09",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Vessel Fragment",
+        "sceneName": "Ruins2_09",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Royal Zombie Coward",
+        "sceneName": "Ruins2_09",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Royal Zombie 1",
+        "sceneName": "Ruins2_09",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Royal Zombie Fat",
+        "sceneName": "Ruins2_09",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ruins Sentry Fat (1)",
+        "sceneName": "Ruins2_05",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ruins Sentry 1 (1)",
+        "sceneName": "Ruins2_05",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "remask",
+        "sceneName": "Ruins2_06",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Ruins2_06",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ruins Flying Sentry Javelin",
+        "sceneName": "Ruins2_06",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Royal Zombie 1 (1)",
+        "sceneName": "Ruins2_06",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Hornhead",
+        "sceneName": "Ruins2_06",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Royal Zombie Fat",
+        "sceneName": "Ruins2_06",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Shiny Item",
+        "sceneName": "Ruins2_08",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Royal Zombie Coward (1)",
+        "sceneName": "Ruins2_04",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Great Shield Zombie (2)",
+        "sceneName": "Ruins2_04",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Royal Zombie Coward",
+        "sceneName": "Ruins2_04",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Great Shield Zombie",
+        "sceneName": "Ruins2_04",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Great Shield Zombie (1)",
+        "sceneName": "Ruins2_04",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Great Shield Zombie (3)",
+        "sceneName": "Ruins2_04",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Royal Zombie 1 (1)",
+        "sceneName": "Ruins2_04",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Royal Zombie 1",
+        "sceneName": "Ruins2_04",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Royal Zombie Fat",
+        "sceneName": "Ruins2_04",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Royal Zombie Fat (1)",
+        "sceneName": "Ruins2_04",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Royal Zombie Fat",
+        "sceneName": "Ruins_House_02",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Royal Zombie 1 (1)",
+        "sceneName": "Ruins_House_02",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Royal Zombie Coward (1)",
+        "sceneName": "Ruins_House_02",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Royal Zombie Coward",
+        "sceneName": "Ruins_House_02",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Gorgeous Husk",
+        "sceneName": "Ruins_House_02",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Inverse Remasker",
+        "sceneName": "Ruins_House_02",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Inverse Remasker (2)",
+        "sceneName": "Ruins_House_02",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Inverse Remasker (1)",
+        "sceneName": "Ruins_House_02",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Sound Region",
+        "sceneName": "Ruins_House_02",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Royal Zombie 1",
+        "sceneName": "Ruins2_01_b",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Royal Zombie Fat",
+        "sceneName": "Ruins2_01_b",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Quake Floor Glass",
+        "sceneName": "Ruins2_01_b",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Battle Scene",
+        "sceneName": "Ruins2_01_b",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Royal Zombie Coward",
+        "sceneName": "Ruins2_01_b",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Royal Zombie Fat (1)",
+        "sceneName": "Ruins2_01_b",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Royal Zombie 1 (1)",
+        "sceneName": "Ruins1_27",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Royal Zombie Coward",
+        "sceneName": "Ruins1_27",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ruins Lever",
+        "sceneName": "Ruins1_27",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Remasker",
+        "sceneName": "Ruins1_27",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Royal Zombie Coward (1)",
+        "sceneName": "Ruins1_27",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Royal Zombie 1",
+        "sceneName": "Ruins1_27",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Royal Zombie 1 (4)",
+        "sceneName": "Ruins2_01",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Royal Zombie Coward (2)",
+        "sceneName": "Ruins2_01",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ruins Flying Sentry",
+        "sceneName": "Ruins2_01",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ruins Flying Sentry Javelin",
+        "sceneName": "Ruins2_01",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Remasker",
+        "sceneName": "Ruins2_01",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ruins Lever (1)",
+        "sceneName": "Ruins2_01",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Ruins2_01",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ruins Lever",
+        "sceneName": "Ruins2_01",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Battle Scene",
+        "sceneName": "Ruins2_01",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ruins Flying Sentry Javelin (1)",
+        "sceneName": "Ruins2_01",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Royal Zombie Coward (1)",
+        "sceneName": "Ruins2_01",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Great Shield Zombie",
+        "sceneName": "Ruins2_01",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Royal Zombie Coward (3)",
+        "sceneName": "Ruins2_01",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Royal Zombie 1 (1)",
+        "sceneName": "Ruins2_01",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ruins Sentry 1",
+        "sceneName": "Ruins2_01",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Royal Zombie Fat (3)",
+        "sceneName": "Ruins2_01",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ruins Sentry Fat",
+        "sceneName": "Ruins2_01",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Royal Zombie Fat (2)",
+        "sceneName": "Ruins2_01",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ruins Lever",
+        "sceneName": "Ruins1_18",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ruins Lever 1",
+        "sceneName": "Ruins1_05b",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Zombie Hornhead (1)",
+        "sceneName": "Ruins1_03",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ruins Sentry 1",
+        "sceneName": "Ruins1_03",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Shiny Item",
+        "sceneName": "Ruins1_03",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ruins Sentry 1 (3)",
+        "sceneName": "Ruins1_03",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ruins Flying Sentry",
+        "sceneName": "Ruins1_03",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ruins Flying Sentry (3)",
+        "sceneName": "Ruins1_03",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ruins Sentry 1 (2)",
+        "sceneName": "Ruins1_03",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Hornhead",
+        "sceneName": "Ruins1_03",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ruins Sentry 1 (1)",
+        "sceneName": "Ruins1_03",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ruins Flying Sentry (2)",
+        "sceneName": "Ruins1_03",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Leaper",
+        "sceneName": "Ruins1_03",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "One Way Wall",
+        "sceneName": "Ruins1_04",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Ruins1_04",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Inverse Remasker",
+        "sceneName": "Ruins1_04",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask (1)",
+        "sceneName": "Ruins1_04",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ruins Sentry 1",
+        "sceneName": "Ruins1_02",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ruins Sentry 1 (1)",
+        "sceneName": "Ruins1_02",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Ruins1_02",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Zombie Hornhead",
+        "sceneName": "Ruins1_01",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ceiling Dropper (1)",
+        "sceneName": "Ruins1_01",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ruins Sentry 1",
+        "sceneName": "Ruins1_01",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ceiling Dropper",
+        "sceneName": "Ruins1_01",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Leaper",
+        "sceneName": "Ruins1_01",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Barger",
+        "sceneName": "Ruins1_01",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Remasker",
+        "sceneName": "Ruins1_05c",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item",
+        "sceneName": "Ruins1_05",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ruins Lever 3",
+        "sceneName": "Ruins1_05",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Remasker (1)",
+        "sceneName": "Ruins1_05c",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ruins Lever 2",
+        "sceneName": "Ruins1_05",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ruins Flying Sentry Javelin (2)",
+        "sceneName": "Ruins1_05c",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ruins Sentry 1 (7)",
+        "sceneName": "Ruins1_05c",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ruins Sentry 1 (9)",
+        "sceneName": "Ruins1_05c",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ceiling Dropper (5)",
+        "sceneName": "Ruins1_05c",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ceiling Dropper (4)",
+        "sceneName": "Ruins1_05c",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ruins Sentry Fat",
+        "sceneName": "Ruins1_05c",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Barger",
+        "sceneName": "Ruins1_05c",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ceiling Dropper (6)",
+        "sceneName": "Ruins1_05c",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ruins Sentry Fat (5)",
+        "sceneName": "Ruins1_05c",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ruins Flying Sentry",
+        "sceneName": "Ruins1_05",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Hornhead",
+        "sceneName": "Ruins1_05",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ceiling Dropper",
+        "sceneName": "Ruins1_05",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ruins Flying Sentry Javelin (3)",
+        "sceneName": "Ruins1_05",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Battle Scene v2",
+        "sceneName": "Ruins1_05",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ruins Lever",
+        "sceneName": "Ruins1_05",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Grub Bottle (1)",
+        "sceneName": "Ruins1_05",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ruins Flying Sentry (1)",
+        "sceneName": "Ruins1_05",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ruins Sentry FatB",
+        "sceneName": "Ruins1_05",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ruins Lever",
+        "sceneName": "Ruins1_31",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Breakable Wall Ruin Lift",
+        "sceneName": "Ruins1_31",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ruins Vial Empty",
+        "sceneName": "Ruins1_31",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Toll Machine Bench",
+        "sceneName": "Ruins1_31",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ruins Flying Sentry Javelin",
+        "sceneName": "Ruins1_17",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ruins Flying Sentry",
+        "sceneName": "Ruins1_17",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ruins Flying Sentry Javelin (1)",
+        "sceneName": "Ruins1_17",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Dream Plant Orb (27)",
+        "sceneName": "Ruins1_17",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (17)",
+        "sceneName": "Ruins1_17",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (9)",
+        "sceneName": "Ruins1_17",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (26)",
+        "sceneName": "Ruins1_17",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item",
+        "sceneName": "Ruins1_17",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (1)",
+        "sceneName": "Ruins1_17",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (20)",
+        "sceneName": "Ruins1_17",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (10)",
+        "sceneName": "Ruins1_17",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (24)",
+        "sceneName": "Ruins1_17",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (14)",
+        "sceneName": "Ruins1_17",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (19)",
+        "sceneName": "Ruins1_17",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (8)",
+        "sceneName": "Ruins1_17",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Remasker full bot",
+        "sceneName": "Ruins1_17",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (15)",
+        "sceneName": "Ruins1_17",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (7)",
+        "sceneName": "Ruins1_17",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (11)",
+        "sceneName": "Ruins1_17",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (6)",
+        "sceneName": "Ruins1_17",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "remask_half_mid",
+        "sceneName": "Ruins1_17",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (13)",
+        "sceneName": "Ruins1_17",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (5)",
+        "sceneName": "Ruins1_17",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Remasker full mid",
+        "sceneName": "Ruins1_17",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Remasker full top",
+        "sceneName": "Ruins1_17",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "remask_half_bot",
+        "sceneName": "Ruins1_17",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (12)",
+        "sceneName": "Ruins1_17",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant",
+        "sceneName": "Ruins1_17",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (21)",
+        "sceneName": "Ruins1_17",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (25)",
+        "sceneName": "Ruins1_17",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ruins Lever",
+        "sceneName": "Ruins1_17",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (16)",
+        "sceneName": "Ruins1_17",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (2)",
+        "sceneName": "Ruins1_17",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (23)",
+        "sceneName": "Ruins1_17",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb",
+        "sceneName": "Ruins1_17",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (18)",
+        "sceneName": "Ruins1_17",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (4)",
+        "sceneName": "Ruins1_17",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "remask_half_bot (2)",
+        "sceneName": "Ruins1_17",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (22)",
+        "sceneName": "Ruins1_17",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (3)",
+        "sceneName": "Ruins1_17",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Zombie Hornhead",
+        "sceneName": "Ruins1_17",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ruins Flying Sentry (1)",
+        "sceneName": "Ruins1_17",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ruins Sentry 1",
+        "sceneName": "Ruins1_17",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Leaper",
+        "sceneName": "Ruins1_17",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Barger",
+        "sceneName": "Ruins1_28",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Runner (1)",
+        "sceneName": "Ruins1_28",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Runner",
+        "sceneName": "Ruins1_28",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ruins Flying Sentry",
+        "sceneName": "Ruins1_28",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Shiny Item",
+        "sceneName": "Ruins1_28",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Chain Platform",
+        "sceneName": "Ruins1_28",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ruins Sentry Fat B",
+        "sceneName": "Ruins1_05",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mage",
+        "sceneName": "Ruins1_09",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Battle Scene",
+        "sceneName": "Ruins1_09",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ruins Lever (1)",
+        "sceneName": "Ruins1_23",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ruins Lever",
+        "sceneName": "Ruins1_23",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Mage (1)",
+        "sceneName": "Ruins1_23",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mage",
+        "sceneName": "Ruins1_23",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ruins Vial Empty (1)",
+        "sceneName": "Ruins1_23",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ruins Vial Empty",
+        "sceneName": "Ruins1_23",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Battle Scene v2",
+        "sceneName": "Ruins1_23",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ruins Vial Empty (2)",
+        "sceneName": "Ruins1_23",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ruins Vial Empty",
+        "sceneName": "Ruins1_25",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ruins Vial Empty (1)",
+        "sceneName": "Ruins1_25",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ruins Lever",
+        "sceneName": "Ruins1_25",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Mage",
+        "sceneName": "Ruins1_25",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mage (1)",
+        "sceneName": "Ruins1_25",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Quake Floor Glass",
+        "sceneName": "Ruins1_30",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Sound Region",
+        "sceneName": "Ruins1_30",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Mage (1)",
+        "sceneName": "Ruins1_30",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Inverse Remasker",
+        "sceneName": "Ruins1_30",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask (3)",
+        "sceneName": "Ruins1_30",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Quake Floor Glass (1)",
+        "sceneName": "Ruins1_30",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Ruins1_30",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Sounder",
+        "sceneName": "Ruins1_30",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Quake Floor Glass (2)",
+        "sceneName": "Ruins1_30",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ruins Lever",
+        "sceneName": "Ruins1_30",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item Stand",
+        "sceneName": "Ruins1_30",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Remasker",
+        "sceneName": "Ruins1_30",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ruins Vial Empty",
+        "sceneName": "Ruins1_30",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ruins Light Stand",
+        "sceneName": "Ruins1_30",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mage",
+        "sceneName": "Ruins1_30",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Secret Mask (1)",
+        "sceneName": "Ruins1_30",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Mage (2)",
+        "sceneName": "Ruins1_30",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ruins Vial Empty (1)",
+        "sceneName": "Ruins1_30",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Secret Mask (2)",
+        "sceneName": "Ruins1_30",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask (1)",
+        "sceneName": "Ruins1_24",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ruins Vial Empty",
+        "sceneName": "Ruins1_24",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ruins Vial Empty (1)",
+        "sceneName": "Ruins1_24",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ruins Soul Vial",
+        "sceneName": "Ruins1_24",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Quake Floor Glass (2)",
+        "sceneName": "Ruins1_32",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask (2)",
+        "sceneName": "Ruins1_32",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Quake Floor Glass (1)",
+        "sceneName": "Ruins1_32",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Quake Floor Glass (4)",
+        "sceneName": "Ruins1_32",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Ruins1_32",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Quake Floor Glass",
+        "sceneName": "Ruins1_32",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ruins Vial Empty (4)",
+        "sceneName": "Ruins1_32",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Quake Floor",
+        "sceneName": "Ruins1_32",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ruins Lever (1)",
+        "sceneName": "Ruins1_32",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Quake Floor (1)",
+        "sceneName": "Ruins1_32",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask (1)",
+        "sceneName": "Ruins1_32",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Chest",
+        "sceneName": "Ruins1_32",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Grub Bottle",
+        "sceneName": "Ruins1_32",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Quake Floor Glass (3)",
+        "sceneName": "Ruins1_32",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ruins Lever",
+        "sceneName": "Ruins1_32",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item",
+        "sceneName": "Ruins1_32",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny",
+        "sceneName": "Ruins1_31",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Zombie Runner",
+        "sceneName": "Crossroads_39",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Hornhead 1",
+        "sceneName": "Crossroads_39",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Runner 1",
+        "sceneName": "Crossroads_39",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "mine_1_quake_floor",
+        "sceneName": "Mines_01",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Egg Sac",
+        "sceneName": "Mines_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Zombie Miner 1",
+        "sceneName": "Mines_02",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Miner 1 (1)",
+        "sceneName": "Mines_02",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Shiny Item",
+        "sceneName": "Mines_29",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Grub Bottle",
+        "sceneName": "Mines_03",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Mines Lever",
+        "sceneName": "Mines_03",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Zombie Miner 1 (2)",
+        "sceneName": "Mines_03",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Miner 1 (1)",
+        "sceneName": "Mines_03",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Miner 1 (3)",
+        "sceneName": "Mines_03",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Miner 1",
+        "sceneName": "Mines_17",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Miner 1 (1)",
+        "sceneName": "Mines_17",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Grub Bottle",
+        "sceneName": "Mines_04",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Mines Lever",
+        "sceneName": "Mines_04",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Zombie Miner 1 (1)",
+        "sceneName": "Mines_04",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Miner 1",
+        "sceneName": "Mines_04",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Crystal Flyer (3)",
+        "sceneName": "Mines_04",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Crystal Flyer (2)",
+        "sceneName": "Mines_04",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Crystal Flyer",
+        "sceneName": "Mines_04",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Crystal Flyer (1)",
+        "sceneName": "Mines_04",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Breakable Wall",
+        "sceneName": "Mines_05",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Crystallised Lazer Bug (2)",
+        "sceneName": "Mines_05",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Crystallised Lazer Bug (11)",
+        "sceneName": "Mines_05",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Crystallised Lazer Bug",
+        "sceneName": "Mines_05",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Crystallised Lazer Bug (6)",
+        "sceneName": "Mines_05",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Crystallised Lazer Bug (12)",
+        "sceneName": "Mines_05",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Crystallised Lazer Bug (10)",
+        "sceneName": "Mines_05",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Crystallised Lazer Bug (3)",
+        "sceneName": "Mines_05",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Crystallised Lazer Bug (9)",
+        "sceneName": "Mines_05",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Crystallised Lazer Bug (5)",
+        "sceneName": "Mines_05",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Crystallised Lazer Bug (1)",
+        "sceneName": "Mines_05",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Miner 1",
+        "sceneName": "Mines_05",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mines Lever",
+        "sceneName": "Mines_19",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Grub Bottle",
+        "sceneName": "Mines_19",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Mines Lever New",
+        "sceneName": "Mines_19",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Egg Sac",
+        "sceneName": "Mines_20",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Quake Floor",
+        "sceneName": "Mines_20",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Mines Lever (2)",
+        "sceneName": "Mines_20",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item (1)",
+        "sceneName": "Mines_20",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Mines Lever (1)",
+        "sceneName": "Mines_20",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Mines Lever",
+        "sceneName": "Mines_20",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Crystallised Lazer Bug (7)",
+        "sceneName": "Mines_20",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Crystallised Lazer Bug (5)",
+        "sceneName": "Mines_20",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Crystallised Lazer Bug (3)",
+        "sceneName": "Mines_20",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Crystallised Lazer Bug (4)",
+        "sceneName": "Mines_20",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Crystallised Lazer Bug (8)",
+        "sceneName": "Mines_20",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Crystallised Lazer Bug (9)",
+        "sceneName": "Mines_20",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Crystallised Lazer Bug (6)",
+        "sceneName": "Mines_20",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Miner 1",
+        "sceneName": "Mines_20",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Miner 1 (9)",
+        "sceneName": "Mines_20",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Miner 1 (1)",
+        "sceneName": "Mines_20",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Crystal Flyer (3)",
+        "sceneName": "Mines_20",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Crystal Flyer",
+        "sceneName": "Mines_20",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Crystal Flyer (1)",
+        "sceneName": "Mines_20",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Crystal Flyer (2)",
+        "sceneName": "Mines_20",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mines Lever (3)",
+        "sceneName": "Mines_37",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Mines Lever (4)",
+        "sceneName": "Mines_37",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Mines Lever New",
+        "sceneName": "Mines_37",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Chest",
+        "sceneName": "Mines_37",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Crystallised Lazer Bug",
+        "sceneName": "Mines_37",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Crystallised Lazer Bug (1)",
+        "sceneName": "Mines_37",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Miner 1 (4)",
+        "sceneName": "Mines_37",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Miner 1 (3)",
+        "sceneName": "Mines_37",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Miner 1 (5)",
+        "sceneName": "Mines_37",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Miner 1 (2)",
+        "sceneName": "Mines_37",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Miner 1 (6)",
+        "sceneName": "Mines_37",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Shiny Item Stand",
+        "sceneName": "Mines_30",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item Stand",
+        "sceneName": "Mines_11",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Crystallised Lazer Bug (4)",
+        "sceneName": "Mines_11",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Crystallised Lazer Bug (2)",
+        "sceneName": "Mines_11",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Crystallised Lazer Bug (1)",
+        "sceneName": "Mines_11",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Crystallised Lazer Bug",
+        "sceneName": "Mines_11",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Crystallised Lazer Bug (3)",
+        "sceneName": "Mines_11",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Miner 1",
+        "sceneName": "Mines_11",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Battle Scene",
+        "sceneName": "Mines_18",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Mega Zombie Beam Miner (1)",
+        "sceneName": "Mines_18",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Zombie Beam Miner (3)",
+        "sceneName": "Mines_23",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Dream Plant Orb (7)",
+        "sceneName": "Mines_23",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (16)",
+        "sceneName": "Mines_23",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb",
+        "sceneName": "Mines_23",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (18)",
+        "sceneName": "Mines_23",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant",
+        "sceneName": "Mines_23",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (8)",
+        "sceneName": "Mines_23",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (11)",
+        "sceneName": "Mines_23",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (10)",
+        "sceneName": "Mines_23",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (1)",
+        "sceneName": "Mines_23",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (3)",
+        "sceneName": "Mines_23",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (13)",
+        "sceneName": "Mines_23",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (20)",
+        "sceneName": "Mines_23",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (4)",
+        "sceneName": "Mines_23",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (6)",
+        "sceneName": "Mines_23",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (2)",
+        "sceneName": "Mines_23",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (17)",
+        "sceneName": "Mines_23",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (12)",
+        "sceneName": "Mines_23",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (14)",
+        "sceneName": "Mines_23",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (5)",
+        "sceneName": "Mines_23",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (9)",
+        "sceneName": "Mines_23",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (15)",
+        "sceneName": "Mines_23",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (19)",
+        "sceneName": "Mines_23",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Crystal Flyer (2)",
+        "sceneName": "Mines_23",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Beam Miner (1)",
+        "sceneName": "Mines_23",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Beam Miner (2)",
+        "sceneName": "Mines_23",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Beam Miner (4)",
+        "sceneName": "Mines_23",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Crystal Flyer",
+        "sceneName": "Mines_23",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Crystal Flyer (1)",
+        "sceneName": "Mines_23",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Beam Miner",
+        "sceneName": "Mines_23",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Beam Miner",
+        "sceneName": "Mines_24",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Grub Bottle",
+        "sceneName": "Mines_24",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Collapser Small",
+        "sceneName": "Mines_06",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Remasker",
+        "sceneName": "Mines_06",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Crystal Flyer",
+        "sceneName": "Mines_07",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Crystal Flyer (2)",
+        "sceneName": "Mines_07",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Grub Bottle",
+        "sceneName": "Mines_31",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Reminder Superdash",
+        "sceneName": "Mines_31",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Remasker",
+        "sceneName": "Mines_31",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Mines_25",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Breakable Wall",
+        "sceneName": "Mines_25",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "One Way Wall",
+        "sceneName": "Mines_25",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Quake Floor",
+        "sceneName": "Mines_25",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Crystal Flyer",
+        "sceneName": "Mines_25",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Crystal Flyer (1)",
+        "sceneName": "Mines_25",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Crystal Flyer (2)",
+        "sceneName": "Mines_25",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Beam Miner (2)",
+        "sceneName": "Mines_25",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Beam Miner",
+        "sceneName": "Mines_25",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Beam Miner (3)",
+        "sceneName": "Mines_25",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Beam Miner (1)",
+        "sceneName": "Mines_25",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Shiny",
+        "sceneName": "Mines_30",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Crystal Flyer (1)",
+        "sceneName": "Mines_16",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Crystal Flyer",
+        "sceneName": "Mines_16",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Grub Mimic",
+        "sceneName": "Mines_16",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Grub Bottle",
+        "sceneName": "Mines_16",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Breakable Wall",
+        "sceneName": "Mines_16",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Grub Mimic Bottle",
+        "sceneName": "Mines_16",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item Stand",
+        "sceneName": "Mines_36",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Breakable Wall Waterways",
+        "sceneName": "Waterways_01",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ceiling Dropper (2)",
+        "sceneName": "Waterways_01",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ceiling Dropper (3)",
+        "sceneName": "Waterways_01",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ceiling Dropper",
+        "sceneName": "Waterways_01",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ceiling Dropper (4)",
+        "sceneName": "Waterways_01",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ceiling Dropper (1)",
+        "sceneName": "Waterways_01",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Quake Floor (1)",
+        "sceneName": "Waterways_04",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Quake Floor",
+        "sceneName": "Waterways_04",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Breakable Wall Waterways",
+        "sceneName": "Waterways_04",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Flukeman (1)",
+        "sceneName": "Waterways_04",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Waterways_04",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Egg Sac",
+        "sceneName": "Waterways_04",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Grub Bottle",
+        "sceneName": "Waterways_04",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Flukeman",
+        "sceneName": "Waterways_04",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ceiling Dropper",
+        "sceneName": "Waterways_04",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Flukeman",
+        "sceneName": "Waterways_02",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Remasker (1)",
+        "sceneName": "Waterways_02",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Flukeman (2)",
+        "sceneName": "Waterways_02",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Egg Sac",
+        "sceneName": "Waterways_02",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Quake Floor",
+        "sceneName": "Waterways_02",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "One Way Wall",
+        "sceneName": "Waterways_02",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Quake Floor (1)",
+        "sceneName": "Waterways_02",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask (1)",
+        "sceneName": "Waterways_02",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Remasker",
+        "sceneName": "Waterways_02",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Flukeman (3)",
+        "sceneName": "Waterways_02",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Secret Sound Region",
+        "sceneName": "Waterways_02",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Waterways_02",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Flukeman (1)",
+        "sceneName": "Waterways_02",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ceiling Dropper",
+        "sceneName": "Waterways_02",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Shiny Item(Clone)",
+        "sceneName": "Waterways_04",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item",
+        "sceneName": "Waterways_04b",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Flukeman (1)",
+        "sceneName": "Waterways_04b",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Secret Sound Region",
+        "sceneName": "Waterways_04b",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Flukeman",
+        "sceneName": "Waterways_04b",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Waterways_04b",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Heart Piece",
+        "sceneName": "Waterways_04b",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ceiling Dropper",
+        "sceneName": "Waterways_04b",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ceiling Dropper (1)",
+        "sceneName": "Waterways_04b",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Battle Scene",
+        "sceneName": "Waterways_09",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ruins Lever",
+        "sceneName": "Waterways_09",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Collapser Small",
+        "sceneName": "Waterways_09",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Mushroom Roller",
+        "sceneName": "Fungus2_23",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mushroom Roller (1)",
+        "sceneName": "Fungus2_23",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Fungus2_23",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Collapser Small",
+        "sceneName": "Fungus2_23",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item Stand",
+        "sceneName": "Fungus2_23",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Flukeman",
+        "sceneName": "Waterways_08",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ceiling Dropper",
+        "sceneName": "Waterways_08",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ceiling Dropper (1)",
+        "sceneName": "Waterways_08",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ceiling Dropper (2)",
+        "sceneName": "Waterways_08",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Flukeman (13)",
+        "sceneName": "Waterways_08",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Inverse Remasker",
+        "sceneName": "Waterways_08",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Breakable Wall Waterways",
+        "sceneName": "Waterways_08",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Flukeman (15)",
+        "sceneName": "Waterways_08",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Break Floor 1",
+        "sceneName": "Waterways_08",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Flukeman (16)",
+        "sceneName": "Waterways_08",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Flukeman (1)",
+        "sceneName": "Waterways_08",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Flukeman (2)",
+        "sceneName": "Waterways_08",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Flukeman (3)",
+        "sceneName": "Waterways_08",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Waterways_08",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Flukeman (4)",
+        "sceneName": "Waterways_08",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Flukeman (5)",
+        "sceneName": "Waterways_08",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ceiling Dropper (3)",
+        "sceneName": "Waterways_08",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ceiling Dropper (4)",
+        "sceneName": "Waterways_08",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Quake Floor",
+        "sceneName": "Waterways_05",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "One Way Wall",
+        "sceneName": "Waterways_05",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Waterways_Crank_Lever",
+        "sceneName": "Waterways_05",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item",
+        "sceneName": "Waterways_05",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Remasker (1)",
+        "sceneName": "Waterways_15",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Remasker",
+        "sceneName": "Waterways_15",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item Stand",
+        "sceneName": "Waterways_15",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Remasker (2)",
+        "sceneName": "Waterways_15",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Sound Region",
+        "sceneName": "Waterways_15",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (32)",
+        "sceneName": "Abyss_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (34)",
+        "sceneName": "Abyss_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (17)",
+        "sceneName": "Abyss_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (5)",
+        "sceneName": "Abyss_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (25)",
+        "sceneName": "Abyss_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (23)",
+        "sceneName": "Abyss_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Inverse Remasker",
+        "sceneName": "Abyss_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (11)",
+        "sceneName": "Abyss_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (10)",
+        "sceneName": "Abyss_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (9)",
+        "sceneName": "Abyss_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (7)",
+        "sceneName": "Abyss_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (27)",
+        "sceneName": "Abyss_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb",
+        "sceneName": "Abyss_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (21)",
+        "sceneName": "Abyss_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (18)",
+        "sceneName": "Abyss_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (31)",
+        "sceneName": "Abyss_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (8)",
+        "sceneName": "Abyss_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (1)",
+        "sceneName": "Abyss_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (33)",
+        "sceneName": "Abyss_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (20)",
+        "sceneName": "Abyss_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (22)",
+        "sceneName": "Abyss_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (16)",
+        "sceneName": "Abyss_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (3)",
+        "sceneName": "Abyss_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (24)",
+        "sceneName": "Abyss_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (12)",
+        "sceneName": "Abyss_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant",
+        "sceneName": "Abyss_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (26)",
+        "sceneName": "Abyss_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Sound Region",
+        "sceneName": "Abyss_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (6)",
+        "sceneName": "Abyss_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (30)",
+        "sceneName": "Abyss_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (13)",
+        "sceneName": "Abyss_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (19)",
+        "sceneName": "Abyss_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (4)",
+        "sceneName": "Abyss_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (28)",
+        "sceneName": "Abyss_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (29)",
+        "sceneName": "Abyss_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (2)",
+        "sceneName": "Abyss_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (14)",
+        "sceneName": "Abyss_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (15)",
+        "sceneName": "Abyss_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ruins Flying Sentry",
+        "sceneName": "Abyss_01",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ruins Flying Sentry (1)",
+        "sceneName": "Abyss_01",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Heart Piece",
+        "sceneName": "Room_Bretta",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item",
+        "sceneName": "Abyss_02",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ruins Flying Sentry Javelin (1)",
+        "sceneName": "Abyss_02",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ruins Flying Sentry Javelin",
+        "sceneName": "Abyss_02",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ruins Sentry 1",
+        "sceneName": "Abyss_02",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ruins Flying Sentry",
+        "sceneName": "Abyss_02",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ruins Flying Sentry (1)",
+        "sceneName": "Abyss_02",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Hornhead",
+        "sceneName": "Abyss_02",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Barger (1)",
+        "sceneName": "Abyss_02",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Barger",
+        "sceneName": "Abyss_02",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "wish_secret sound",
+        "sceneName": "Abyss_04",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "wish inverse remask",
+        "sceneName": "Abyss_04",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "wish_remask",
+        "sceneName": "Abyss_04",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Toll Machine Bench",
+        "sceneName": "Abyss_18",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Abyss_17",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask (1)",
+        "sceneName": "Abyss_17",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Grub Bottle",
+        "sceneName": "Abyss_17",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Battle Scene Ore",
+        "sceneName": "Abyss_17",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "One Way Wall",
+        "sceneName": "Abyss_17",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Quake Floor",
+        "sceneName": "Abyss_17",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item Stand",
+        "sceneName": "Abyss_17",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Lesser Mawlek",
+        "sceneName": "Abyss_17",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Lesser Mawlek (1)",
+        "sceneName": "Abyss_17",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Lesser Mawlek 2",
+        "sceneName": "Abyss_17",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Lesser Mawlek (2)",
+        "sceneName": "Abyss_17",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Lesser Mawlek (4)",
+        "sceneName": "Abyss_17",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Lesser Mawlek (3)",
+        "sceneName": "Abyss_17",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Lesser Mawlek (8)",
+        "sceneName": "Abyss_17",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Lesser Mawlek 1",
+        "sceneName": "Abyss_17",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ceiling Dropper (2)",
+        "sceneName": "Abyss_17",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ceiling Dropper (1)",
+        "sceneName": "Abyss_17",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ceiling Dropper (3)",
+        "sceneName": "Abyss_17",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ceiling Dropper",
+        "sceneName": "Abyss_17",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Shiny Item(Clone)",
+        "sceneName": "Waterways_02",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ceiling Dropper",
+        "sceneName": "Waterways_07",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Egg Sac",
+        "sceneName": "Waterways_07",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "One Way Wall",
+        "sceneName": "Waterways_07",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Inverse Remasker",
+        "sceneName": "Waterways_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Waterways_07",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ruins Sentry 1",
+        "sceneName": "Waterways_07",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ruins Sentry 1 (1)",
+        "sceneName": "Waterways_07",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Shiny Item(Clone)",
+        "sceneName": "Waterways_07",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ruins Lever",
+        "sceneName": "Ruins_House_03",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Inverse Remasker (1)",
+        "sceneName": "Ruins_House_03",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Inverse Remasker",
+        "sceneName": "Ruins_House_03",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ruins Sentry Fat",
+        "sceneName": "Waterways_07",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ceiling Dropper",
+        "sceneName": "Waterways_13",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ceiling Dropper (1)",
+        "sceneName": "Waterways_13",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ruins Flying Sentry (1)",
+        "sceneName": "Waterways_13",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ruins Flying Sentry",
+        "sceneName": "Waterways_13",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Grub Bottle",
+        "sceneName": "Waterways_13",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item Acid",
+        "sceneName": "Waterways_13",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Battle Scene",
+        "sceneName": "Waterways_13",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Flukeman",
+        "sceneName": "GG_Pipeway",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Flukeman (1)",
+        "sceneName": "GG_Pipeway",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Fat Fluke",
+        "sceneName": "GG_Pipeway",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Collapser Small",
+        "sceneName": "GG_Pipeway",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Fat Fluke (3)",
+        "sceneName": "GG_Pipeway",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Fat Fluke (2)",
+        "sceneName": "GG_Pipeway",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Quake Floor",
+        "sceneName": "GG_Pipeway",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Fat Fluke (1)",
+        "sceneName": "GG_Pipeway",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Remasker (1)",
+        "sceneName": "GG_Waterways",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Chest (1)",
+        "sceneName": "GG_Waterways",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Chest (3)",
+        "sceneName": "GG_Waterways",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Remasker",
+        "sceneName": "GG_Waterways",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Chest",
+        "sceneName": "GG_Waterways",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Chest (4)",
+        "sceneName": "GG_Waterways",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Chest (2)",
+        "sceneName": "GG_Waterways",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Remasker",
+        "sceneName": "Room_GG_Shortcut",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Sound Region",
+        "sceneName": "Room_GG_Shortcut",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Breakable Grate",
+        "sceneName": "Room_GG_Shortcut",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Mantis Lever",
+        "sceneName": "Fungus2_04",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Mantis Lever (1)",
+        "sceneName": "Fungus2_04",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item",
+        "sceneName": "Fungus2_04",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Mushroom Roller (1)",
+        "sceneName": "Fungus2_28",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mushroom Roller (3)",
+        "sceneName": "Fungus2_28",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mushroom Roller",
+        "sceneName": "Fungus2_28",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mushroom Roller (2)",
+        "sceneName": "Fungus2_28",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Battle Scene v2",
+        "sceneName": "Fungus2_05",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item",
+        "sceneName": "Fungus2_05",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Remasker",
+        "sceneName": "Crossroads_52",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Remasker (1)",
+        "sceneName": "Crossroads_52",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Quake Floor",
+        "sceneName": "Crossroads_52",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Reminder Look Down",
+        "sceneName": "Crossroads_36",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Crossroads_36",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Force Hard Landing",
+        "sceneName": "Crossroads_36",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Collapser Small 1",
+        "sceneName": "Crossroads_36",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Collapser Small",
+        "sceneName": "Crossroads_36",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Mask Bottom",
+        "sceneName": "Crossroads_36",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Break Floor 1",
+        "sceneName": "Crossroads_09",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Mawlek Body",
+        "sceneName": "Crossroads_09",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Battle Scene",
+        "sceneName": "Crossroads_09",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Heart Piece",
+        "sceneName": "Crossroads_09",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Moss Knight C",
+        "sceneName": "Fungus1_32",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Inverse Remasker",
+        "sceneName": "Fungus1_26",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Fungus1_26",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Moss Knight",
+        "sceneName": "Fungus1_26",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "secret sound",
+        "sceneName": "Fungus1_26",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "One Way Wall (1)",
+        "sceneName": "Fungus1_Slug",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Fungus1_Slug",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask (1)",
+        "sceneName": "Fungus1_Slug",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "One Way Wall",
+        "sceneName": "Fungus1_Slug",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask (2)",
+        "sceneName": "Fungus1_Slug",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item",
+        "sceneName": "Fungus1_Slug",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Vine Platform",
+        "sceneName": "Fungus1_09",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item",
+        "sceneName": "Fungus1_15",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item",
+        "sceneName": "Fungus1_10",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Moss Charger (1)",
+        "sceneName": "Fungus1_10",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Moss Charger 1 (1)",
+        "sceneName": "Fungus1_10",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Moss Charger 1 (2)",
+        "sceneName": "Fungus1_10",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Moss Charger",
+        "sceneName": "Fungus1_10",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mossman_Shaker",
+        "sceneName": "Fungus1_05",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mossman_Runner",
+        "sceneName": "Fungus1_05",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mossman_Shaker (1)",
+        "sceneName": "Fungus1_05",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Vine Platform",
+        "sceneName": "Fungus1_14",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item",
+        "sceneName": "Fungus1_14",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Mossman_Shaker",
+        "sceneName": "Fungus1_06",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mossman_Shaker (1)",
+        "sceneName": "Fungus1_06",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Vine Platform (1)",
+        "sceneName": "Fungus1_06",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Vine Platform (4)",
+        "sceneName": "Fungus1_06",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Vine Platform (3)",
+        "sceneName": "Fungus1_06",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret sounder",
+        "sceneName": "Fungus1_06",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Vine Platform (5)",
+        "sceneName": "Fungus1_06",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Vine Platform (2)",
+        "sceneName": "Fungus1_06",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Fungus1_06",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Vine Platform",
+        "sceneName": "Fungus1_06",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Vine Platform (6)",
+        "sceneName": "Fungus1_06",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Grub Bottle",
+        "sceneName": "Fungus1_06",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Mossman_Runner",
+        "sceneName": "Fungus1_06",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Shiny",
+        "sceneName": "Fungus1_06",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Mossman_Runner (1)",
+        "sceneName": "Fungus1_07",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Vine Platform (3)",
+        "sceneName": "Fungus1_07",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Remasker",
+        "sceneName": "Fungus1_07",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Vine Platform (2)",
+        "sceneName": "Fungus1_07",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Grub Bottle",
+        "sceneName": "Fungus1_07",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Vine Platform (1)",
+        "sceneName": "Fungus1_07",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Vine Platform",
+        "sceneName": "Fungus1_07",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Fungus1_08",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Break Floor 1",
+        "sceneName": "Fungus1_08",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Break Floor 1 (1)",
+        "sceneName": "Fungus1_08",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item",
+        "sceneName": "Fungus1_08",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Mossman_Runner",
+        "sceneName": "Fungus1_07",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Fungus1_19",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Plant Trap",
+        "sceneName": "Fungus1_19",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mossman_Shaker",
+        "sceneName": "Fungus1_19",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Shiny Item",
+        "sceneName": "Fungus1_11",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Fungus1_11",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Acid Walker",
+        "sceneName": "Fungus1_11",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Fungus1_12",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask sounder",
+        "sceneName": "Fungus1_12",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Acid Walker",
+        "sceneName": "Fungus1_12",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Dream Plant Orb (4)",
+        "sceneName": "Fungus1_13",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (15)",
+        "sceneName": "Fungus1_13",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (26)",
+        "sceneName": "Fungus1_13",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (5)",
+        "sceneName": "Fungus1_13",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (25)",
+        "sceneName": "Fungus1_13",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (36)",
+        "sceneName": "Fungus1_13",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (41)",
+        "sceneName": "Fungus1_13",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (16)",
+        "sceneName": "Fungus1_13",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (23)",
+        "sceneName": "Fungus1_13",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (42)",
+        "sceneName": "Fungus1_13",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (3)",
+        "sceneName": "Fungus1_13",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (38)",
+        "sceneName": "Fungus1_13",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Chest",
+        "sceneName": "Fungus1_13",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (20)",
+        "sceneName": "Fungus1_13",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (2)",
+        "sceneName": "Fungus1_13",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (35)",
+        "sceneName": "Fungus1_13",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (27)",
+        "sceneName": "Fungus1_13",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (43)",
+        "sceneName": "Fungus1_13",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (14)",
+        "sceneName": "Fungus1_13",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (22)",
+        "sceneName": "Fungus1_13",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant",
+        "sceneName": "Fungus1_13",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (34)",
+        "sceneName": "Fungus1_13",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (17)",
+        "sceneName": "Fungus1_13",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (8)",
+        "sceneName": "Fungus1_13",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb",
+        "sceneName": "Fungus1_13",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (21)",
+        "sceneName": "Fungus1_13",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (40)",
+        "sceneName": "Fungus1_13",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (6)",
+        "sceneName": "Fungus1_13",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (12)",
+        "sceneName": "Fungus1_13",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (11)",
+        "sceneName": "Fungus1_13",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (29)",
+        "sceneName": "Fungus1_13",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Grub Bottle",
+        "sceneName": "Fungus1_13",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (31)",
+        "sceneName": "Fungus1_13",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (24)",
+        "sceneName": "Fungus1_13",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (10)",
+        "sceneName": "Fungus1_13",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Vessel Fragment",
+        "sceneName": "Fungus1_13",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (9)",
+        "sceneName": "Fungus1_13",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (7)",
+        "sceneName": "Fungus1_13",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (28)",
+        "sceneName": "Fungus1_13",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Vine Platform",
+        "sceneName": "Fungus1_13",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (13)",
+        "sceneName": "Fungus1_13",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (1)",
+        "sceneName": "Fungus1_13",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (18)",
+        "sceneName": "Fungus1_13",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (39)",
+        "sceneName": "Fungus1_13",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Vine Platform (2)",
+        "sceneName": "Fungus1_13",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (32)",
+        "sceneName": "Fungus1_13",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (30)",
+        "sceneName": "Fungus1_13",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (19)",
+        "sceneName": "Fungus1_13",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (37)",
+        "sceneName": "Fungus1_13",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Vine Platform (1)",
+        "sceneName": "Fungus1_13",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (33)",
+        "sceneName": "Fungus1_13",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Acid Walker (4)",
+        "sceneName": "Fungus1_13",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Acid Walker",
+        "sceneName": "Fungus1_13",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Acid Walker (5)",
+        "sceneName": "Fungus1_13",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Acid Walker (2)",
+        "sceneName": "Fungus1_13",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Acid Walker (3)",
+        "sceneName": "Fungus1_13",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Acid Walker (1)",
+        "sceneName": "Fungus1_13",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Jellyfish 1",
+        "sceneName": "Fungus3_01",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Jellyfish 4",
+        "sceneName": "Fungus3_01",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Jellyfish 3",
+        "sceneName": "Fungus3_01",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Jellyfish",
+        "sceneName": "Fungus3_01",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Jellyfish 6",
+        "sceneName": "Fungus3_01",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Jellyfish 2",
+        "sceneName": "Fungus3_01",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Jellyfish (3)",
+        "sceneName": "Fungus3_02",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Jellyfish (4)",
+        "sceneName": "Fungus3_02",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Jellyfish (1)",
+        "sceneName": "Fungus3_02",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Jellyfish (2)",
+        "sceneName": "Fungus3_02",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Jellyfish",
+        "sceneName": "Fungus3_02",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Shiny Item",
+        "sceneName": "Fungus3_30",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Health Cocoon",
+        "sceneName": "Fungus3_30",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ruins Lever",
+        "sceneName": "Fungus3_44",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "One Way Wall",
+        "sceneName": "Fungus3_44",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Fungus3_44",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "One Way Wall",
+        "sceneName": "Room_Fungus_Shaman",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Battle Scene",
+        "sceneName": "Room_Fungus_Shaman",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Room_Fungus_Shaman",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Garden Zombie",
+        "sceneName": "Fungus3_34",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Egg Sac",
+        "sceneName": "Fungus3_34",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Garden Zombie (1)",
+        "sceneName": "Fungus3_34",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Garden Zombie (2)",
+        "sceneName": "Fungus3_34",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Shiny Item(Clone)",
+        "sceneName": "Fungus3_34",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Mantis Heavy Flyer",
+        "sceneName": "Fungus3_04",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ruins Lever",
+        "sceneName": "Fungus3_04",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Garden Slide Floor",
+        "sceneName": "Fungus3_04",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Mantis Heavy Flyer (1)",
+        "sceneName": "Fungus3_04",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Battle Scene",
+        "sceneName": "Fungus3_05",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "One Way Wall",
+        "sceneName": "Fungus3_05",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask (1)",
+        "sceneName": "Fungus3_05",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Gate Switch",
+        "sceneName": "Fungus3_05",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Plant Trap",
+        "sceneName": "Fungus3_05",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Plant Trap (2)",
+        "sceneName": "Fungus3_05",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mantis Heavy Flyer",
+        "sceneName": "Fungus3_05",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Plant Trap (1)",
+        "sceneName": "Fungus3_05",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Collapser Small",
+        "sceneName": "Fungus1_24",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ghost NPC",
+        "sceneName": "Fungus1_24",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (20)",
+        "sceneName": "Fungus3_11",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (25)",
+        "sceneName": "Fungus3_11",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (7)",
+        "sceneName": "Fungus3_11",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (4)",
+        "sceneName": "Fungus3_11",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (22)",
+        "sceneName": "Fungus3_11",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (17)",
+        "sceneName": "Fungus3_11",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (6)",
+        "sceneName": "Fungus3_11",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (16)",
+        "sceneName": "Fungus3_11",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant",
+        "sceneName": "Fungus3_11",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (12)",
+        "sceneName": "Fungus3_11",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (13)",
+        "sceneName": "Fungus3_11",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (15)",
+        "sceneName": "Fungus3_11",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (18)",
+        "sceneName": "Fungus3_11",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (27)",
+        "sceneName": "Fungus3_11",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (14)",
+        "sceneName": "Fungus3_11",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (21)",
+        "sceneName": "Fungus3_11",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (1)",
+        "sceneName": "Fungus3_11",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (3)",
+        "sceneName": "Fungus3_11",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (11)",
+        "sceneName": "Fungus3_11",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (28)",
+        "sceneName": "Fungus3_11",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (9)",
+        "sceneName": "Fungus3_11",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb",
+        "sceneName": "Fungus3_11",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (2)",
+        "sceneName": "Fungus3_11",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (8)",
+        "sceneName": "Fungus3_11",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (10)",
+        "sceneName": "Fungus3_11",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (24)",
+        "sceneName": "Fungus3_11",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (26)",
+        "sceneName": "Fungus3_11",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (19)",
+        "sceneName": "Fungus3_11",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (5)",
+        "sceneName": "Fungus3_11",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (23)",
+        "sceneName": "Fungus3_11",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Mantis Heavy",
+        "sceneName": "Fungus3_39",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mantis Heavy (1)",
+        "sceneName": "Fungus3_39",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Moss Knight Fat (2)",
+        "sceneName": "Fungus3_39",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Moss Knight Fat",
+        "sceneName": "Fungus3_39",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Moss Knight Fat (1)",
+        "sceneName": "Fungus3_39",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Battle Scene",
+        "sceneName": "Fungus3_39",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "One Way Wall",
+        "sceneName": "Fungus3_39",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item Stand",
+        "sceneName": "Fungus3_39",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Acid Walker",
+        "sceneName": "Fungus3_39",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mantis Heavy Spawn",
+        "sceneName": "Fungus3_39",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Fungus Break Floor",
+        "sceneName": "Deepnest_01",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Deepnest_01",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Breakable Wall",
+        "sceneName": "Deepnest_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "One Way Wall",
+        "sceneName": "Deepnest_01",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Deepnest_01b",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Inverse Remasker",
+        "sceneName": "Deepnest_01b",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Inverse Remasker (1)",
+        "sceneName": "Deepnest_01b",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "One Way Wall",
+        "sceneName": "Deepnest_01b",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Deepnest_02",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Breakable Wall",
+        "sceneName": "Deepnest_02",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Collapser Small",
+        "sceneName": "Deepnest_02",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Mantis Heavy Flyer (1)",
+        "sceneName": "Fungus3_08",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mantis Heavy Flyer (3)",
+        "sceneName": "Fungus3_08",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mantis Heavy Flyer",
+        "sceneName": "Fungus3_08",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mantis Heavy Flyer (2)",
+        "sceneName": "Fungus3_08",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Remasker",
+        "sceneName": "Deepnest_43",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Garden Zombie",
+        "sceneName": "Deepnest_43",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Garden Zombie (1)",
+        "sceneName": "Deepnest_43",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mantis Heavy Flyer",
+        "sceneName": "Deepnest_43",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Toll Machine Bench",
+        "sceneName": "Fungus3_50",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "gramaphone",
+        "sceneName": "Fungus3_50",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Battle Scene",
+        "sceneName": "Fungus3_10",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Grub Bottle",
+        "sceneName": "Fungus3_10",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Fungus3_10",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Garden Zombie (1)",
+        "sceneName": "Fungus3_10",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Garden Zombie",
+        "sceneName": "Fungus3_10",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mantis Heavy",
+        "sceneName": "Fungus3_10",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Plant Trap (3)",
+        "sceneName": "Fungus3_48",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Remasker",
+        "sceneName": "Fungus3_48",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item",
+        "sceneName": "Fungus3_48",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "secret sound",
+        "sceneName": "Fungus3_48",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Grub Bottle",
+        "sceneName": "Fungus3_48",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Plant Trap (8)",
+        "sceneName": "Fungus3_48",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mantis Heavy Flyer (1)",
+        "sceneName": "Fungus3_48",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Plant Trap (5)",
+        "sceneName": "Fungus3_48",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Plant Trap (7)",
+        "sceneName": "Fungus3_48",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Plant Trap (4)",
+        "sceneName": "Fungus3_48",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mantis Heavy Flyer",
+        "sceneName": "Fungus3_48",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Plant Trap (10)",
+        "sceneName": "Fungus3_48",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Plant Trap (9)",
+        "sceneName": "Fungus3_48",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Plant Trap (11)",
+        "sceneName": "Fungus3_48",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Plant Trap",
+        "sceneName": "Fungus3_48",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Plant Trap (2)",
+        "sceneName": "Fungus3_48",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Plant Trap (1)",
+        "sceneName": "Fungus3_48",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Plant Trap (6)",
+        "sceneName": "Fungus3_48",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "secret sound",
+        "sceneName": "Fungus3_40",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Sound Region",
+        "sceneName": "Fungus3_40",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Gate Switch",
+        "sceneName": "Fungus3_40",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Remasker",
+        "sceneName": "Fungus3_40",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Mantis Heavy Flyer",
+        "sceneName": "Fungus3_40",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mantis Heavy Flyer (1)",
+        "sceneName": "Fungus3_40",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Grave Zombie (2)",
+        "sceneName": "RestingGrounds_10",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "RestingGrounds_10",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Sound Region",
+        "sceneName": "RestingGrounds_10",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item Stand",
+        "sceneName": "RestingGrounds_10",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Breakable Wall (5)",
+        "sceneName": "RestingGrounds_10",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Collapser Small (6)",
+        "sceneName": "RestingGrounds_10",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Breakable Wall",
+        "sceneName": "RestingGrounds_10",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Chest",
+        "sceneName": "RestingGrounds_10",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "One Way Wall",
+        "sceneName": "RestingGrounds_10",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Breakable Wall (6)",
+        "sceneName": "RestingGrounds_10",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Collapser Small (3)",
+        "sceneName": "RestingGrounds_10",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Breakable Wall (4)",
+        "sceneName": "RestingGrounds_10",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Collapser Small (5)",
+        "sceneName": "RestingGrounds_10",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Collapser Small",
+        "sceneName": "RestingGrounds_10",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Collapser Small (7)",
+        "sceneName": "RestingGrounds_10",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Breakable Wall (3)",
+        "sceneName": "RestingGrounds_10",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Collapser Small (4)",
+        "sceneName": "RestingGrounds_10",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Breakable Wall (8)",
+        "sceneName": "RestingGrounds_10",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Collapser Small (1)",
+        "sceneName": "RestingGrounds_10",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Collapser Small (2)",
+        "sceneName": "RestingGrounds_10",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item",
+        "sceneName": "RestingGrounds_10",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Grub Bottle",
+        "sceneName": "RestingGrounds_10",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask (1)",
+        "sceneName": "RestingGrounds_10",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Breakable Wall (2)",
+        "sceneName": "RestingGrounds_10",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Inverse Remasker",
+        "sceneName": "RestingGrounds_10",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item (1)",
+        "sceneName": "RestingGrounds_10",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Breakable Wall (7)",
+        "sceneName": "RestingGrounds_10",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Grave Zombie (4)",
+        "sceneName": "RestingGrounds_10",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Grave Zombie",
+        "sceneName": "RestingGrounds_10",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Grave Zombie (1)",
+        "sceneName": "RestingGrounds_10",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ceiling Dropper",
+        "sceneName": "RestingGrounds_10",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ceiling Dropper (1)",
+        "sceneName": "RestingGrounds_10",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ceiling Dropper (3)",
+        "sceneName": "RestingGrounds_10",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ceiling Dropper (2)",
+        "sceneName": "RestingGrounds_10",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Death Respawn Trigger",
+        "sceneName": "RestingGrounds_12",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (12)",
+        "sceneName": "Fungus2_33",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (18)",
+        "sceneName": "Fungus2_33",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (3)",
+        "sceneName": "Fungus2_33",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (11)",
+        "sceneName": "Fungus2_33",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (6)",
+        "sceneName": "Fungus2_33",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (16)",
+        "sceneName": "Fungus2_33",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (4)",
+        "sceneName": "Fungus2_33",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (15)",
+        "sceneName": "Fungus2_33",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (14)",
+        "sceneName": "Fungus2_33",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb",
+        "sceneName": "Fungus2_33",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (1)",
+        "sceneName": "Fungus2_33",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (19)",
+        "sceneName": "Fungus2_33",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (2)",
+        "sceneName": "Fungus2_33",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (8)",
+        "sceneName": "Fungus2_33",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (13)",
+        "sceneName": "Fungus2_33",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (7)",
+        "sceneName": "Fungus2_33",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (5)",
+        "sceneName": "Fungus2_33",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant",
+        "sceneName": "Fungus2_33",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (9)",
+        "sceneName": "Fungus2_33",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (10)",
+        "sceneName": "Fungus2_33",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (17)",
+        "sceneName": "Fungus2_33",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Fungus Flyer (1)",
+        "sceneName": "Fungus2_33",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Fungus Flyer",
+        "sceneName": "Fungus2_33",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Remasker",
+        "sceneName": "Fungus2_21",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "secret sound",
+        "sceneName": "Fungus2_21",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Fungus2_21",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Quake Floor",
+        "sceneName": "Fungus2_21",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Grub Bottle",
+        "sceneName": "Fungus2_20",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Breakable Wall Waterways",
+        "sceneName": "Fungus2_20",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask (1)",
+        "sceneName": "Fungus2_20",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "One Way Wall",
+        "sceneName": "Fungus2_20",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Fungus2_20",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item Stand",
+        "sceneName": "Fungus2_20",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item Grubsong",
+        "sceneName": "Crossroads_38",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item Rancid Egg",
+        "sceneName": "Crossroads_38",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Mushroom Brawler",
+        "sceneName": "Fungus2_05",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Heart Piece",
+        "sceneName": "Room_Mansion",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Grub Bottle",
+        "sceneName": "Mines_35",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "One Way Wall",
+        "sceneName": "Mines_35",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "mine_1_quake_floor",
+        "sceneName": "Mines_35",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Mines_35",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Crystal Flyer (2)",
+        "sceneName": "Mines_35",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Crystal Flyer",
+        "sceneName": "Mines_35",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Crystal Flyer (1)",
+        "sceneName": "Mines_35",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Toll Gate Machine (1)",
+        "sceneName": "Mines_33",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "One Way Wall",
+        "sceneName": "Mines_33",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Toll Gate Machine",
+        "sceneName": "Mines_33",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Mines_33",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Battle Scene v2",
+        "sceneName": "Ruins1_31",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Grub Bottle",
+        "sceneName": "Abyss_19",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Abyss_19",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "One Way Wall",
+        "sceneName": "Abyss_19",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Camera Locks Boss",
+        "sceneName": "Abyss_19",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Mawlek Turret",
+        "sceneName": "Abyss_20",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Remasker",
+        "sceneName": "Abyss_20",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item Stand",
+        "sceneName": "Abyss_20",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Sound Region",
+        "sceneName": "Abyss_20",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Remasker (1)",
+        "sceneName": "Abyss_20",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Remasker (2)",
+        "sceneName": "Abyss_20",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Mawlek Turret Ceiling (1)",
+        "sceneName": "Abyss_20",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mawlek Turret Ceiling",
+        "sceneName": "Abyss_20",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mawlek Turret (1)",
+        "sceneName": "Abyss_20",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mawlek Turret (2)",
+        "sceneName": "Abyss_20",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mawlek Turret (3)",
+        "sceneName": "Abyss_20",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Shiny",
+        "sceneName": "Abyss_04",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item Godfinder",
+        "sceneName": "GG_Waterways",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Col_Glow_Remasker",
+        "sceneName": "GG_Atrium",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Zote_Break_wall",
+        "sceneName": "GG_Workshop",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Breakable Wall_Silhouette",
+        "sceneName": "GG_Workshop",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Col_Glow_Remasker",
+        "sceneName": "GG_Workshop",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Radiance Statue Cage",
+        "sceneName": "GG_Workshop",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Knight Statue Cage",
+        "sceneName": "GG_Workshop",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ceiling Dropper",
+        "sceneName": "Ruins2_07",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ceiling Dropper (1)",
+        "sceneName": "Ruins2_07",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ceiling Dropper (2)",
+        "sceneName": "Ruins2_07",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Grub Bottle",
+        "sceneName": "Ruins2_07",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Plank Solid 2",
+        "sceneName": "Deepnest_East_03",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Inverse Remasker",
+        "sceneName": "Deepnest_East_03",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Plank Solid 1",
+        "sceneName": "Deepnest_East_03",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Plank Solid 2 (1)",
+        "sceneName": "Deepnest_East_03",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Deepnest_East_03",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Blow Fly (5)",
+        "sceneName": "Deepnest_East_03",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Blow Fly (1)",
+        "sceneName": "Deepnest_East_03",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Blow Fly (4)",
+        "sceneName": "Deepnest_East_03",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Blow Fly (3)",
+        "sceneName": "Deepnest_East_03",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Blow Fly (2)",
+        "sceneName": "Deepnest_East_03",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Blow Fly",
+        "sceneName": "Deepnest_East_03",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Dream Plant Orb (34)",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item (1)",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (30)",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item",
+        "sceneName": "Deepnest_East_07",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (41)",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (33)",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (17)",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (13)",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (48)",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (42)",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (40)",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (29)",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (9)",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Deepnest_East_07",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (8)",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (14)",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (44)",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (47)",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (4)",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (18)",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (31)",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (46)",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (1)",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (23)",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (21)",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (6)",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (20)",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Remasker",
+        "sceneName": "Deepnest_East_07",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (10)",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (51)",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (19)",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (45)",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (12)",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (15)",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (50)",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (25)",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (5)",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (36)",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (2)",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (24)",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (26)",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (27)",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask (1)",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (49)",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (22)",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (37)",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (3)",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (32)",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (39)",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (43)",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (35)",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (28)",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (7)",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (16)",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (11)",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Super Spitter (1)",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Super Spitter (5)",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Super Spitter",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Super Spitter (2)",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Super Spitter (4)",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Blow Fly (1)",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ceiling Dropper (5)",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ceiling Dropper (7)",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Blow Fly (2)",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ceiling Dropper",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Blow Fly",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ceiling Dropper (6)",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ceiling Dropper (4)",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ceiling Dropper (2)",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ceiling Dropper (1)",
+        "sceneName": "Deepnest_East_07",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Super Spitter (1)",
+        "sceneName": "Deepnest_East_06",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Super Spitter (2)",
+        "sceneName": "Deepnest_East_06",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "One Way Wall",
+        "sceneName": "Deepnest_East_06",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Deepnest_East_06",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Super Spitter",
+        "sceneName": "Deepnest_East_06",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Giant Hopper (2)",
+        "sceneName": "Deepnest_East_06",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Giant Hopper (1)",
+        "sceneName": "Deepnest_East_06",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Shiny Item",
+        "sceneName": "Deepnest_East_18",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Quake Floor (2)",
+        "sceneName": "Deepnest_East_18",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Quake Floor (1)",
+        "sceneName": "Deepnest_East_18",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Deepnest_East_18",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Remasker",
+        "sceneName": "Deepnest_East_11",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Breakable Wall",
+        "sceneName": "Deepnest_East_11",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Breakable Wall top",
+        "sceneName": "Deepnest_East_11",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Grub Bottle",
+        "sceneName": "Deepnest_East_11",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Super Spitter (4)",
+        "sceneName": "Deepnest_East_11",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Super Spitter (1)",
+        "sceneName": "Deepnest_East_11",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Super Spitter",
+        "sceneName": "Deepnest_East_11",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Super Spitter (3)",
+        "sceneName": "Deepnest_East_11",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Super Spitter(Clone)",
+        "sceneName": "Deepnest_East_11",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Shiny Item",
+        "sceneName": "Deepnest_East_13",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Super Spitter",
+        "sceneName": "Deepnest_East_04",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Breakable Wall Waterways",
+        "sceneName": "Deepnest_East_04",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Remasker",
+        "sceneName": "Deepnest_East_04",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Sound Region",
+        "sceneName": "Deepnest_East_04",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Super Spitter (1)",
+        "sceneName": "Deepnest_East_04",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Super Spitter (2)",
+        "sceneName": "Deepnest_East_04",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Super Spitter (4)",
+        "sceneName": "Deepnest_East_04",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Super Spitter (3)",
+        "sceneName": "Deepnest_East_04",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Blow Fly (3)",
+        "sceneName": "Deepnest_East_04",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Blow Fly",
+        "sceneName": "Deepnest_East_04",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Blow Fly (2)",
+        "sceneName": "Deepnest_East_04",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Health Cocoon",
+        "sceneName": "Deepnest_East_15",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Super Spitter(Clone)",
+        "sceneName": "Deepnest_East_04",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Giant Hopper",
+        "sceneName": "Deepnest_East_06",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Deepnest_East_16",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Quake Floor",
+        "sceneName": "Deepnest_East_16",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Sound Region",
+        "sceneName": "Deepnest_East_16",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Super Spitter (1)",
+        "sceneName": "Deepnest_East_14",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Super Spitter",
+        "sceneName": "Deepnest_East_14",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Quake Floor (2)",
+        "sceneName": "Deepnest_East_14",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Egg Sac",
+        "sceneName": "Deepnest_East_14",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Quake Floor (1)",
+        "sceneName": "Deepnest_East_14",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Grub Bottle",
+        "sceneName": "Deepnest_East_14",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Breakable Wall",
+        "sceneName": "Deepnest_East_14",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Hopper Spawn",
+        "sceneName": "Deepnest_East_14",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Deepnest_East_14",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Giant Hopper",
+        "sceneName": "Deepnest_East_14",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "remask corridor",
+        "sceneName": "Deepnest_East_14b",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask (1)",
+        "sceneName": "Deepnest_East_14b",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Remasker",
+        "sceneName": "Deepnest_East_14b",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "secret  sound",
+        "sceneName": "Deepnest_East_14b",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Inverse Remasker",
+        "sceneName": "Deepnest_East_14b",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item",
+        "sceneName": "Deepnest_East_14b",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Super Spitter (5)",
+        "sceneName": "Deepnest_East_14b",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Super Spitter (4)",
+        "sceneName": "Deepnest_East_14b",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Super Spitter (3)",
+        "sceneName": "Deepnest_East_14b",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Super Spitter (2)",
+        "sceneName": "Deepnest_East_14b",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Giant Hopper",
+        "sceneName": "Deepnest_East_14b",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Hornet Encounter Outskirts",
+        "sceneName": "Deepnest_East_12",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Mantis",
+        "sceneName": "Fungus2_31",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mantis Chest (1)",
+        "sceneName": "Fungus2_31",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Mantis Chest (2)",
+        "sceneName": "Fungus2_31",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Remasker (2)",
+        "sceneName": "Fungus2_31",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Inverse Remasker",
+        "sceneName": "Fungus2_31",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Mantis Chest",
+        "sceneName": "Fungus2_31",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Remasker (1)",
+        "sceneName": "Fungus2_31",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item",
+        "sceneName": "Fungus2_31",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item Charm",
+        "sceneName": "Fungus2_31",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (7)",
+        "sceneName": "Fungus2_17",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (16)",
+        "sceneName": "Fungus2_17",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (1)",
+        "sceneName": "Fungus2_17",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (13)",
+        "sceneName": "Fungus2_17",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (17)",
+        "sceneName": "Fungus2_17",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (15)",
+        "sceneName": "Fungus2_17",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (6)",
+        "sceneName": "Fungus2_17",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (3)",
+        "sceneName": "Fungus2_17",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (5)",
+        "sceneName": "Fungus2_17",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (14)",
+        "sceneName": "Fungus2_17",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (12)",
+        "sceneName": "Fungus2_17",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item",
+        "sceneName": "Fungus2_17",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb",
+        "sceneName": "Fungus2_17",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (8)",
+        "sceneName": "Fungus2_17",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (10)",
+        "sceneName": "Fungus2_17",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (4)",
+        "sceneName": "Fungus2_17",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (9)",
+        "sceneName": "Fungus2_17",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (2)",
+        "sceneName": "Fungus2_17",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant",
+        "sceneName": "Fungus2_17",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (11)",
+        "sceneName": "Fungus2_17",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Mushroom Roller (2)",
+        "sceneName": "Fungus2_29",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Fungus Flyer",
+        "sceneName": "Fungus2_29",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Fungus Flyer (1)",
+        "sceneName": "Fungus2_29",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mushroom Brawler",
+        "sceneName": "Fungus2_29",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Secret Mask (2)",
+        "sceneName": "Fungus2_29",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Fungus2_29",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item",
+        "sceneName": "Fungus2_29",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Break Floor 1",
+        "sceneName": "Fungus2_29",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask (1)",
+        "sceneName": "Fungus2_29",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Mushroom Brawler (1)",
+        "sceneName": "Fungus2_29",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mushroom Roller",
+        "sceneName": "Fungus2_29",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mushroom Roller (3)",
+        "sceneName": "Fungus2_29",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mushroom Roller (1)",
+        "sceneName": "Fungus2_29",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Fungus Flyer (1)",
+        "sceneName": "Fungus2_30",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mushroom Brawler (1)",
+        "sceneName": "Fungus2_30",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mushroom Brawler",
+        "sceneName": "Fungus2_30",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mushroom Roller",
+        "sceneName": "Fungus2_30",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Fungus2_30",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Fungus Flyer",
+        "sceneName": "Fungus2_30",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mushroom Roller (3)",
+        "sceneName": "Fungus2_30",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mushroom Roller (1)",
+        "sceneName": "Fungus2_30",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mushroom Roller (2)",
+        "sceneName": "Fungus2_30",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Heart Piece",
+        "sceneName": "Fungus2_25",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Collapser Small (1)",
+        "sceneName": "Fungus2_25",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Collapser Small",
+        "sceneName": "Fungus2_25",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "secret sound",
+        "sceneName": "Fungus2_34",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Remasker",
+        "sceneName": "Fungus2_34",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item",
+        "sceneName": "Fungus2_34",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Remasker (1)",
+        "sceneName": "Fungus2_34",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Angry Buzzer",
+        "sceneName": "Crossroads_04",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Bursting Zombie (1)",
+        "sceneName": "Crossroads_04",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Spitting Zombie (1)",
+        "sceneName": "Crossroads_04",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Bursting Zombie",
+        "sceneName": "Crossroads_04",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Spitting Zombie",
+        "sceneName": "Crossroads_04",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Shiny Item(Clone)",
+        "sceneName": "Crossroads_50",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Remasker (1)",
+        "sceneName": "Cliffs_02",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Remasker",
+        "sceneName": "Cliffs_02",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "One Way Wall",
+        "sceneName": "Cliffs_02",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Remasker (2)",
+        "sceneName": "Cliffs_02",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask (2)",
+        "sceneName": "Cliffs_02",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Inverse Remasker",
+        "sceneName": "Cliffs_02",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Zombie Hornhead",
+        "sceneName": "Cliffs_02",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Barger",
+        "sceneName": "Cliffs_02",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Remasker (1)",
+        "sceneName": "Room_nailmaster",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Remasker (2)",
+        "sceneName": "Room_nailmaster",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Remasker",
+        "sceneName": "Room_nailmaster",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (56)",
+        "sceneName": "Cliffs_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (19)",
+        "sceneName": "Cliffs_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (22)",
+        "sceneName": "Cliffs_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (58)",
+        "sceneName": "Cliffs_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (48)",
+        "sceneName": "Cliffs_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (17)",
+        "sceneName": "Cliffs_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (27)",
+        "sceneName": "Cliffs_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (57)",
+        "sceneName": "Cliffs_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (33)",
+        "sceneName": "Cliffs_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (15)",
+        "sceneName": "Cliffs_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (24)",
+        "sceneName": "Cliffs_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (59)",
+        "sceneName": "Cliffs_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (14)",
+        "sceneName": "Cliffs_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Breakable Wall",
+        "sceneName": "Cliffs_01",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (31)",
+        "sceneName": "Cliffs_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (8)",
+        "sceneName": "Cliffs_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (9)",
+        "sceneName": "Cliffs_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "One Way Wall",
+        "sceneName": "Cliffs_01",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (66)",
+        "sceneName": "Cliffs_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (11)",
+        "sceneName": "Cliffs_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (38)",
+        "sceneName": "Cliffs_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (63)",
+        "sceneName": "Cliffs_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (28)",
+        "sceneName": "Cliffs_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (42)",
+        "sceneName": "Cliffs_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item",
+        "sceneName": "Cliffs_01",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (30)",
+        "sceneName": "Cliffs_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (13)",
+        "sceneName": "Cliffs_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (36)",
+        "sceneName": "Cliffs_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (41)",
+        "sceneName": "Cliffs_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (67)",
+        "sceneName": "Cliffs_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (18)",
+        "sceneName": "Cliffs_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (55)",
+        "sceneName": "Cliffs_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (29)",
+        "sceneName": "Cliffs_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (26)",
+        "sceneName": "Cliffs_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (2)",
+        "sceneName": "Cliffs_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (4)",
+        "sceneName": "Cliffs_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (25)",
+        "sceneName": "Cliffs_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (47)",
+        "sceneName": "Cliffs_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (61)",
+        "sceneName": "Cliffs_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (52)",
+        "sceneName": "Cliffs_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (53)",
+        "sceneName": "Cliffs_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant",
+        "sceneName": "Cliffs_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (6)",
+        "sceneName": "Cliffs_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Breakable Wall grimm",
+        "sceneName": "Cliffs_01",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (45)",
+        "sceneName": "Cliffs_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (16)",
+        "sceneName": "Cliffs_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (64)",
+        "sceneName": "Cliffs_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (39)",
+        "sceneName": "Cliffs_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (35)",
+        "sceneName": "Cliffs_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item (1)",
+        "sceneName": "Cliffs_01",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (3)",
+        "sceneName": "Cliffs_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (50)",
+        "sceneName": "Cliffs_01",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Quake Floor",
+        "sceneName": "Cliffs_04",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Cliffs_04",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Zombie Hornhead",
+        "sceneName": "Cliffs_04",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Leaper (1)",
+        "sceneName": "Cliffs_04",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Leaper (2)",
+        "sceneName": "Cliffs_04",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Leaper",
+        "sceneName": "Cliffs_04",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Barger",
+        "sceneName": "Cliffs_04",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Shiny Item Stand",
+        "sceneName": "Cliffs_05",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ghost Activator",
+        "sceneName": "Cliffs_05",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Remasker",
+        "sceneName": "Cliffs_05",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ghost NPC Joni",
+        "sceneName": "Cliffs_05",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "One Way Wall",
+        "sceneName": "Fungus1_28",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Grub Bottle",
+        "sceneName": "Fungus1_28",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Blocker 2",
+        "sceneName": "Fungus1_28",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Chest",
+        "sceneName": "Fungus1_28",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item",
+        "sceneName": "Fungus1_28",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "mask_01",
+        "sceneName": "Fungus1_28",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Fungus1_28",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Blocker 1",
+        "sceneName": "Fungus1_28",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "One Way Wall (1)",
+        "sceneName": "Fungus1_28",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Sound Region",
+        "sceneName": "Cliffs_06",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Inverse Remasker",
+        "sceneName": "Cliffs_06",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Angry Buzzer",
+        "sceneName": "Crossroads_01",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Bursting Zombie",
+        "sceneName": "Crossroads_01",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Bursting Bouncer (3)",
+        "sceneName": "Crossroads_07",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Bursting Bouncer (5)",
+        "sceneName": "Crossroads_07",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Bursting Bouncer",
+        "sceneName": "Crossroads_07",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Bursting Bouncer (2)",
+        "sceneName": "Crossroads_07",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Bursting Bouncer (4)",
+        "sceneName": "Crossroads_07",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Bursting Bouncer (1)",
+        "sceneName": "Crossroads_07",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Shiny Item Relic2",
+        "sceneName": "Crossroads_38",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Remasker",
+        "sceneName": "Grimm_Main_Tent",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Grimm_Main_Tent",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Flamebearer Spawn",
+        "sceneName": "Mines_10",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Remasker (2)",
+        "sceneName": "Ruins2_11_b",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Break Jar",
+        "sceneName": "Ruins2_11_b",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Remasker (1)",
+        "sceneName": "Ruins2_11_b",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Inverse Remasker",
+        "sceneName": "Ruins2_11_b",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ruins Lever",
+        "sceneName": "Ruins2_11_b",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Break Jar (1)",
+        "sceneName": "Ruins2_11_b",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Break Jar (4)",
+        "sceneName": "Ruins2_11",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "inver remask_below second corridor",
+        "sceneName": "Ruins2_11",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "inver remask_below second corridor (1)",
+        "sceneName": "Ruins2_11",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "secret sound_grub room",
+        "sceneName": "Ruins2_11",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Ruins2_11",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Break Jar (3)",
+        "sceneName": "Ruins2_11",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Grub Bottle",
+        "sceneName": "Ruins2_11",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Break Jar (5)",
+        "sceneName": "Ruins2_11",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Break Jar (7)",
+        "sceneName": "Ruins2_11",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "inver remask_above boss encounter",
+        "sceneName": "Ruins2_11",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Break Jar (2)",
+        "sceneName": "Ruins2_11",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Break Jar (8)",
+        "sceneName": "Ruins2_11",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item CollectorMap",
+        "sceneName": "Ruins2_11",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Break Jar (6)",
+        "sceneName": "Ruins2_11",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "inver remask_above first corridor",
+        "sceneName": "Ruins2_11",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "inver remask_below second corridor (2)",
+        "sceneName": "Ruins2_11",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Battle Scene",
+        "sceneName": "Ruins2_11",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ceiling Dropper (1)",
+        "sceneName": "Deepnest_East_08",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ceiling Dropper (2)",
+        "sceneName": "Deepnest_East_08",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Shiny Item",
+        "sceneName": "Deepnest_East_08",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Breakable Wall",
+        "sceneName": "Deepnest_East_08",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ceiling Dropper (3)",
+        "sceneName": "Deepnest_East_08",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ceiling Dropper",
+        "sceneName": "Deepnest_East_08",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ceiling Dropper (4)",
+        "sceneName": "Deepnest_East_09",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ceiling Dropper (5)",
+        "sceneName": "Deepnest_East_09",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ceiling Dropper (6)",
+        "sceneName": "Deepnest_East_09",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Deepnest_East_09",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "One Way Wall",
+        "sceneName": "Deepnest_East_09",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ceiling Dropper (3)",
+        "sceneName": "Deepnest_East_09",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ceiling Dropper",
+        "sceneName": "Deepnest_East_09",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ceiling Dropper (2)",
+        "sceneName": "Deepnest_East_09",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ceiling Dropper (1)",
+        "sceneName": "Deepnest_East_09",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Inverse Remasker",
+        "sceneName": "Room_Colosseum_02",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Breakable Wall_Silhouette",
+        "sceneName": "Room_Colosseum_02",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Remasker",
+        "sceneName": "Room_Colosseum_02",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Breakable Wall_Silhouette",
+        "sceneName": "Room_Colosseum_Spectate",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask (1)",
+        "sceneName": "GG_Lurker",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "GG_Lurker",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item",
+        "sceneName": "GG_Lurker",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Col_Glow_Remasker",
+        "sceneName": "Room_Colosseum_Bronze",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Zombie Beam Miner Rematch",
+        "sceneName": "Mines_32",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Battle Scene",
+        "sceneName": "Mines_32",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Heart Piece",
+        "sceneName": "Mines_32",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item Stand",
+        "sceneName": "Mines_34",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Remasker",
+        "sceneName": "Mines_34",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Crystal Flyer",
+        "sceneName": "Mines_34",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Leaper",
+        "sceneName": "Crossroads_37",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Barger 1",
+        "sceneName": "Crossroads_37",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Hornhead",
+        "sceneName": "Crossroads_37",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Hornhead 1",
+        "sceneName": "Crossroads_37",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Runner 1",
+        "sceneName": "Crossroads_37",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Barger (1)",
+        "sceneName": "Crossroads_37",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Barger",
+        "sceneName": "Crossroads_37",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Remasker",
+        "sceneName": "Crossroads_37",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Mask Bottom",
+        "sceneName": "Crossroads_37",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Break Floor 1",
+        "sceneName": "Crossroads_37",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Vessel Fragment",
+        "sceneName": "Crossroads_37",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Mask Bottom 2",
+        "sceneName": "Crossroads_37",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Zombie Runner (1)",
+        "sceneName": "Crossroads_37",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Hornhead 2",
+        "sceneName": "Crossroads_37",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Barger 3",
+        "sceneName": "Crossroads_37",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Angry Buzzer",
+        "sceneName": "Crossroads_42",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Angry Buzzer (1)",
+        "sceneName": "Crossroads_42",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Angry Buzzer (2)",
+        "sceneName": "Crossroads_42",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Bursting Zombie",
+        "sceneName": "Crossroads_13",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Angry Buzzer",
+        "sceneName": "Crossroads_13",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Angry Buzzer (1)",
+        "sceneName": "Crossroads_13",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Spitting Zombie",
+        "sceneName": "Crossroads_08",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Bursting Zombie",
+        "sceneName": "Crossroads_08",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Bursting Zombie",
+        "sceneName": "Crossroads_05",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Bursting Zombie (1)",
+        "sceneName": "Crossroads_05",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Angry Buzzer (1)",
+        "sceneName": "Crossroads_05",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Angry Buzzer",
+        "sceneName": "Crossroads_05",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Bursting Zombie",
+        "sceneName": "Crossroads_40",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Bursting Zombie (1)",
+        "sceneName": "Crossroads_40",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Spitting Zombie",
+        "sceneName": "Crossroads_40",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Spitting Zombie (1)",
+        "sceneName": "Crossroads_40",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Angry Buzzer",
+        "sceneName": "Crossroads_16",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Angry Buzzer (2)",
+        "sceneName": "Crossroads_16",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Angry Buzzer (1)",
+        "sceneName": "Crossroads_16",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Angry Buzzer (2)",
+        "sceneName": "Crossroads_03",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Angry Buzzer (1)",
+        "sceneName": "Crossroads_03",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Angry Buzzer",
+        "sceneName": "Crossroads_03",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Angry Buzzer (1)",
+        "sceneName": "Crossroads_21",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Angry Buzzer",
+        "sceneName": "Crossroads_21",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Spitting Zombie",
+        "sceneName": "Crossroads_21",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Bursting Zombie",
+        "sceneName": "Crossroads_21",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Hatcher",
+        "sceneName": "Crossroads_22",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Shiny Item",
+        "sceneName": "Crossroads_22",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Battle Scene",
+        "sceneName": "Crossroads_22",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Sound Region",
+        "sceneName": "Ruins_Elevator",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ghost NPC",
+        "sceneName": "Ruins_Elevator",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item",
+        "sceneName": "Ruins_Elevator",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Remasker (2)",
+        "sceneName": "Ruins_Elevator",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "One Way Wall",
+        "sceneName": "Ruins_Elevator",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Sound Region (1)",
+        "sceneName": "Ruins_Elevator",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Remasker",
+        "sceneName": "Ruins_Elevator",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Remasker (3)",
+        "sceneName": "Ruins_Elevator",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Remasker (1)",
+        "sceneName": "Ruins_Elevator",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item (1)",
+        "sceneName": "Ruins_Elevator",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ghost NPC",
+        "sceneName": "Ruins_Bathhouse",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Remasker",
+        "sceneName": "Ruins_Bathhouse",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Breakable Wall",
+        "sceneName": "Ruins_Bathhouse",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Grub Scene",
+        "sceneName": "Ruins2_03b",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Royal Zombie Coward",
+        "sceneName": "Ruins2_03b",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Great Shield Zombie bottom",
+        "sceneName": "Ruins2_03b",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ruins Flying Sentry (1)",
+        "sceneName": "Ruins2_03b",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ruins Flying Sentry",
+        "sceneName": "Ruins2_03b",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Royal Zombie 1",
+        "sceneName": "Ruins2_03b",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Royal Zombie 1 (1)",
+        "sceneName": "Ruins2_03b",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Royal Zombie Fat",
+        "sceneName": "Ruins2_03b",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ruins Flying Sentry Javelin",
+        "sceneName": "Ruins2_03",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Great Shield Zombie",
+        "sceneName": "Ruins2_03",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Shiny Item",
+        "sceneName": "Ruins2_03",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "boss_floor_remasker",
+        "sceneName": "Ruins2_03",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Chest",
+        "sceneName": "Ruins2_03",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Breakable Wall",
+        "sceneName": "Ruins2_03",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Grub Scene",
+        "sceneName": "Ruins2_03",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Grub Bottle",
+        "sceneName": "Ruins2_03",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Grub Bottle",
+        "sceneName": "Ruins_House_01",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Battle Scene",
+        "sceneName": "Ruins_House_01",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item Ore",
+        "sceneName": "Crossroads_38",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Zombie Leaper",
+        "sceneName": "Fungus1_34",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Runner",
+        "sceneName": "Fungus1_34",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Hornhead",
+        "sceneName": "Fungus1_34",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Plant Trap",
+        "sceneName": "Fungus1_34",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Remasker",
+        "sceneName": "Fungus1_36",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Heart Piece",
+        "sceneName": "Fungus1_36",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Jellyfish (4)",
+        "sceneName": "Fungus3_25",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Jellyfish",
+        "sceneName": "Fungus3_25",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Jellyfish (1)",
+        "sceneName": "Fungus3_25",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Jellyfish (5)",
+        "sceneName": "Fungus3_25",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Jellyfish (3)",
+        "sceneName": "Fungus3_25",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Jellyfish (2)",
+        "sceneName": "Fungus3_25",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Shiny Item",
+        "sceneName": "Fungus3_26",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Fungus3_26",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Jellyfish (2)",
+        "sceneName": "Fungus3_26",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Jellyfish (4)",
+        "sceneName": "Fungus3_26",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Jellyfish",
+        "sceneName": "Fungus3_26",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Jellyfish (3)",
+        "sceneName": "Fungus3_26",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Jellyfish (1)",
+        "sceneName": "Fungus3_26",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Jellyfish (3)",
+        "sceneName": "Fungus3_28",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Collapser Small",
+        "sceneName": "Fungus3_28",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Jellyfish (2)",
+        "sceneName": "Fungus3_28",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Jellyfish (5)",
+        "sceneName": "Fungus3_28",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Jellyfish (4)",
+        "sceneName": "Fungus3_28",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Jellyfish (1)",
+        "sceneName": "Fungus3_28",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Jellyfish (2)",
+        "sceneName": "Fungus3_25b",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Jellyfish (1)",
+        "sceneName": "Fungus3_25b",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Jellyfish",
+        "sceneName": "Fungus3_25b",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Jellyfish (2)",
+        "sceneName": "Fungus3_27",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Jellyfish (1)",
+        "sceneName": "Fungus3_27",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Jellyfish",
+        "sceneName": "Fungus3_27",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Jellyfish (3)",
+        "sceneName": "Fungus3_27",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "One Way Wall",
+        "sceneName": "Fungus3_47",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Fungus3_47",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Grub Bottle",
+        "sceneName": "Fungus3_47",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item Stand",
+        "sceneName": "Room_Wyrm",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Breakable Wall",
+        "sceneName": "Abyss_05",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Remasker",
+        "sceneName": "Abyss_06_Core",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Remasker (1)",
+        "sceneName": "Abyss_06_Core",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Remasker",
+        "sceneName": "Abyss_09",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ruins Soul Vial",
+        "sceneName": "Abyss_Lighthouse_room",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ruins Vial Empty",
+        "sceneName": "Abyss_Lighthouse_room",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ruins Lever",
+        "sceneName": "Abyss_Lighthouse_room",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Sound Region",
+        "sceneName": "Abyss_10",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item",
+        "sceneName": "Abyss_10",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Poo Strength",
+        "sceneName": "Grimm_Divine",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "ruind_dressing_light_01",
+        "sceneName": "Fungus3_22",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Grub Bottle",
+        "sceneName": "Fungus3_22",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Garden Zombie (2)",
+        "sceneName": "Fungus3_22",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Garden Zombie",
+        "sceneName": "Fungus3_22",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Garden Zombie (1)",
+        "sceneName": "Fungus3_22",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mantis Heavy Flyer (1)",
+        "sceneName": "Fungus3_22",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mantis Heavy Flyer",
+        "sceneName": "Fungus3_22",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Battle Scene",
+        "sceneName": "Fungus3_23",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Remasker",
+        "sceneName": "Room_Queen",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Inverse Remasker",
+        "sceneName": "Room_Queen",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item RoyalCharm",
+        "sceneName": "Room_Queen",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item Relic3",
+        "sceneName": "Crossroads_38",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Collapser Small (1)",
+        "sceneName": "Deepnest_16",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Collapser Small",
+        "sceneName": "Deepnest_16",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask bot left",
+        "sceneName": "Deepnest_16",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask (1)",
+        "sceneName": "Deepnest_16",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Deepnest_16",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask (3)",
+        "sceneName": "Deepnest_16",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Inverse Remasker",
+        "sceneName": "Deepnest_16",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item",
+        "sceneName": "Deepnest_16",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Inverse Remasker",
+        "sceneName": "Deepnest_14",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Collapser Small",
+        "sceneName": "Deepnest_14",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Inverse Remasker (1)",
+        "sceneName": "Deepnest_14",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Collapser Small top",
+        "sceneName": "Deepnest_30",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Mimic Spider Fake4",
+        "sceneName": "Deepnest_30",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Collapser Small (3)",
+        "sceneName": "Deepnest_30",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask (1)",
+        "sceneName": "Deepnest_30",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Collapser Small",
+        "sceneName": "Deepnest_30",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Collapser Small (2)",
+        "sceneName": "Deepnest_30",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Collapser Small (1)",
+        "sceneName": "Deepnest_30",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Deepnest_30",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask (3)",
+        "sceneName": "Deepnest_30",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "One Way Wall",
+        "sceneName": "Deepnest_44",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Inverse Remasker",
+        "sceneName": "Deepnest_44",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item Stand",
+        "sceneName": "Deepnest_44",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Sound Region",
+        "sceneName": "Deepnest_44",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Remasker",
+        "sceneName": "Deepnest_44",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Deepnest_44",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Collapser Small",
+        "sceneName": "Deepnest_38",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Vessel Fragment",
+        "sceneName": "Deepnest_38",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Deepnest_38",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Breakable Wall",
+        "sceneName": "Deepnest_38",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Zombie Runner Sp",
+        "sceneName": "Deepnest_03",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Hornhead Sp",
+        "sceneName": "Deepnest_03",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Collapser Small",
+        "sceneName": "Deepnest_03",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Breakable Wall",
+        "sceneName": "Deepnest_03",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask (1)",
+        "sceneName": "Deepnest_03",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Grub Bottle",
+        "sceneName": "Deepnest_03",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Zombie Hornhead Sp (4)",
+        "sceneName": "Deepnest_03",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Runner Sp (5)",
+        "sceneName": "Deepnest_03",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Hornhead Sp (3)",
+        "sceneName": "Deepnest_03",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Hornhead Sp (2)",
+        "sceneName": "Deepnest_03",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Runner Sp (2)",
+        "sceneName": "Deepnest_03",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Breakable Wall",
+        "sceneName": "Deepnest_31",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Deepnest_31",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Mimic Spider Fake1",
+        "sceneName": "Deepnest_31",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "One Way Wall",
+        "sceneName": "Deepnest_31",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask (1)",
+        "sceneName": "Deepnest_31",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Mimic Spider Fake3",
+        "sceneName": "Deepnest_31",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Grub Bottle",
+        "sceneName": "Deepnest_31",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask (2)",
+        "sceneName": "Deepnest_31",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Breakable Wall (1)",
+        "sceneName": "Deepnest_31",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Mimic Spider Fake2",
+        "sceneName": "Deepnest_31",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item Stand",
+        "sceneName": "Deepnest_32",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Battle Scene",
+        "sceneName": "Deepnest_32",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Deepnest_34",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Zombie Hornhead Sp",
+        "sceneName": "Deepnest_34",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Runner Sp",
+        "sceneName": "Deepnest_34",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Runner Sp (1)",
+        "sceneName": "Deepnest_34",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Slash Spider",
+        "sceneName": "Deepnest_34",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Hornhead Sp (2)",
+        "sceneName": "Deepnest_35",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Hornhead Sp",
+        "sceneName": "Deepnest_35",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Runner Sp",
+        "sceneName": "Deepnest_35",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Health Cocoon",
+        "sceneName": "Deepnest_26",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Secret Mask (2)",
+        "sceneName": "Deepnest_26",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask (1)",
+        "sceneName": "Deepnest_26",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ruins Lever",
+        "sceneName": "Deepnest_26",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Inverse Remasker",
+        "sceneName": "Deepnest_26",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Sound Region",
+        "sceneName": "Deepnest_26",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Centipede Hatcher",
+        "sceneName": "Deepnest_26",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Centipede Hatcher (2)",
+        "sceneName": "Deepnest_26",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Centipede Hatcher (9)",
+        "sceneName": "Deepnest_26b",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Centipede Hatcher (4)",
+        "sceneName": "Deepnest_26b",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Centipede Hatcher (5)",
+        "sceneName": "Deepnest_26b",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Centipede Hatcher (7)",
+        "sceneName": "Deepnest_26b",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ruins Lever Remade",
+        "sceneName": "Deepnest_26b",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "tram_inverse mask",
+        "sceneName": "Deepnest_26b",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item",
+        "sceneName": "Deepnest_26",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "mask tram left front",
+        "sceneName": "Deepnest_26b",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Zombie Runner Sp (1)",
+        "sceneName": "Deepnest_33",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Collapser Small",
+        "sceneName": "Deepnest_33",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Deepnest_33",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Battle Scene v2",
+        "sceneName": "Deepnest_33",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item",
+        "sceneName": "Deepnest_33",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Zombie Hornhead Sp (1)",
+        "sceneName": "Deepnest_33",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Hornhead Sp (2)",
+        "sceneName": "Deepnest_33",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Hornhead Sp",
+        "sceneName": "Deepnest_33",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Health Cocoon",
+        "sceneName": "Deepnest_40",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Breakable Wall",
+        "sceneName": "Deepnest_39",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant",
+        "sceneName": "Deepnest_39",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (14)",
+        "sceneName": "Deepnest_39",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (42)",
+        "sceneName": "Deepnest_39",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (18)",
+        "sceneName": "Deepnest_39",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (36)",
+        "sceneName": "Deepnest_39",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb",
+        "sceneName": "Deepnest_39",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (27)",
+        "sceneName": "Deepnest_39",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (44)",
+        "sceneName": "Deepnest_39",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (12)",
+        "sceneName": "Deepnest_39",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (15)",
+        "sceneName": "Deepnest_39",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (13)",
+        "sceneName": "Deepnest_39",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Remasker",
+        "sceneName": "Deepnest_39",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Collapser Small (4)",
+        "sceneName": "Deepnest_39",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (25)",
+        "sceneName": "Deepnest_39",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (23)",
+        "sceneName": "Deepnest_39",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (40)",
+        "sceneName": "Deepnest_39",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (20)",
+        "sceneName": "Deepnest_39",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Collapser Small (3)",
+        "sceneName": "Deepnest_39",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (6)",
+        "sceneName": "Deepnest_39",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (24)",
+        "sceneName": "Deepnest_39",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (10)",
+        "sceneName": "Deepnest_39",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (31)",
+        "sceneName": "Deepnest_39",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask (1)",
+        "sceneName": "Deepnest_39",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (34)",
+        "sceneName": "Deepnest_39",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (9)",
+        "sceneName": "Deepnest_39",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Collapser Small (6)",
+        "sceneName": "Deepnest_39",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (17)",
+        "sceneName": "Deepnest_39",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Collapser Small",
+        "sceneName": "Deepnest_39",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Deepnest_39",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (35)",
+        "sceneName": "Deepnest_39",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (43)",
+        "sceneName": "Deepnest_39",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (21)",
+        "sceneName": "Deepnest_39",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Collapser Small (2)",
+        "sceneName": "Deepnest_39",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (28)",
+        "sceneName": "Deepnest_39",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (38)",
+        "sceneName": "Deepnest_39",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (3)",
+        "sceneName": "Deepnest_39",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (11)",
+        "sceneName": "Deepnest_39",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (29)",
+        "sceneName": "Deepnest_39",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "One Way Wall",
+        "sceneName": "Deepnest_39",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Egg Sac",
+        "sceneName": "Deepnest_39",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (8)",
+        "sceneName": "Deepnest_39",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (26)",
+        "sceneName": "Deepnest_39",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (32)",
+        "sceneName": "Deepnest_39",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (4)",
+        "sceneName": "Deepnest_39",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (1)",
+        "sceneName": "Deepnest_39",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Grub Bottle",
+        "sceneName": "Deepnest_39",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (2)",
+        "sceneName": "Deepnest_39",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (33)",
+        "sceneName": "Deepnest_39",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "One Way Wall (1)",
+        "sceneName": "Deepnest_39",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Collapser Small (5)",
+        "sceneName": "Deepnest_39",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (39)",
+        "sceneName": "Deepnest_39",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (41)",
+        "sceneName": "Deepnest_39",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (22)",
+        "sceneName": "Deepnest_39",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (5)",
+        "sceneName": "Deepnest_39",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (19)",
+        "sceneName": "Deepnest_39",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Collapser Small (7)",
+        "sceneName": "Deepnest_39",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Collapser Small (1)",
+        "sceneName": "Deepnest_39",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (16)",
+        "sceneName": "Deepnest_39",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (37)",
+        "sceneName": "Deepnest_39",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (30)",
+        "sceneName": "Deepnest_39",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (7)",
+        "sceneName": "Deepnest_39",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Slash Spider (4)",
+        "sceneName": "Deepnest_39",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Slash Spider (2)",
+        "sceneName": "Deepnest_39",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Slash Spider",
+        "sceneName": "Deepnest_39",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Slash Spider (3)",
+        "sceneName": "Deepnest_39",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Deepnest_42",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Plank Solid 1 (1)",
+        "sceneName": "Deepnest_42",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Plank Solid 1 (2)",
+        "sceneName": "Deepnest_42",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Plank Solid 1",
+        "sceneName": "Deepnest_42",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Collapser Small",
+        "sceneName": "Deepnest_41",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "One Way Wall (2)",
+        "sceneName": "Deepnest_41",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask temp",
+        "sceneName": "Deepnest_41",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Collapser Small (1)",
+        "sceneName": "Deepnest_41",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask (2)",
+        "sceneName": "Deepnest_41",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "One Way Wall (1)",
+        "sceneName": "Deepnest_41",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Breakable Wall",
+        "sceneName": "Deepnest_41",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Collapser Small (2)",
+        "sceneName": "Deepnest_41",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Collapser Small (4)",
+        "sceneName": "Deepnest_41",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "One Way Wall",
+        "sceneName": "Deepnest_41",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Slash Spider",
+        "sceneName": "Deepnest_41",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Collapser Small (6)",
+        "sceneName": "Deepnest_Spider_Town",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "One Way Wall",
+        "sceneName": "Deepnest_Spider_Town",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Inverse Remasker (1)",
+        "sceneName": "Deepnest_Spider_Town",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "one way permanent",
+        "sceneName": "Deepnest_Spider_Town",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Collapser Small (9)",
+        "sceneName": "Deepnest_Spider_Town",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Grub Bottle",
+        "sceneName": "Deepnest_Spider_Town",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Inverse Remasker",
+        "sceneName": "Deepnest_Spider_Town",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Collapser Small (8)",
+        "sceneName": "Deepnest_Spider_Town",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Remasker (1)",
+        "sceneName": "Deepnest_Spider_Town",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Inverse Remasker (2)",
+        "sceneName": "Deepnest_Spider_Town",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Collapser Small (10)",
+        "sceneName": "Deepnest_Spider_Town",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Sound Region",
+        "sceneName": "Deepnest_Spider_Town",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Remasker (3)",
+        "sceneName": "Deepnest_Spider_Town",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Remasker",
+        "sceneName": "Deepnest_Spider_Town",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Egg Sac",
+        "sceneName": "Deepnest_Spider_Town",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Collapser Small (7)",
+        "sceneName": "Deepnest_Spider_Town",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Remasker bar",
+        "sceneName": "Deepnest_Spider_Town",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Collapser Small (11)",
+        "sceneName": "Deepnest_Spider_Town",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Collapser Small (12)",
+        "sceneName": "Deepnest_Spider_Town",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "hack jump secret remask",
+        "sceneName": "Deepnest_Spider_Town",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Collapser Small (4)",
+        "sceneName": "Deepnest_Spider_Town",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Remasker (2)",
+        "sceneName": "Deepnest_Spider_Town",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Collapser Small (5)",
+        "sceneName": "Deepnest_Spider_Town",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Remasker (4)",
+        "sceneName": "Deepnest_Spider_Town",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Collapser Small (3)",
+        "sceneName": "Deepnest_Spider_Town",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "remask_store_room",
+        "sceneName": "Deepnest_Spider_Town",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item",
+        "sceneName": "Deepnest_Spider_Town",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Slash Spider (3)",
+        "sceneName": "Deepnest_Spider_Town",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Slash Spider",
+        "sceneName": "Deepnest_Spider_Town",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Slash Spider (4)",
+        "sceneName": "Deepnest_Spider_Town",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Slash Spider (1)",
+        "sceneName": "Deepnest_Spider_Town",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Slash Spider (2)",
+        "sceneName": "Deepnest_Spider_Town",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Battle Scene",
+        "sceneName": "Dream_01_False_Knight",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (27)",
+        "sceneName": "RestingGrounds_08",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ghost kcin",
+        "sceneName": "RestingGrounds_08",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ghost atra",
+        "sceneName": "RestingGrounds_08",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ghost wyatt",
+        "sceneName": "RestingGrounds_08",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (2)",
+        "sceneName": "RestingGrounds_08",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item",
+        "sceneName": "RestingGrounds_08",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (31)",
+        "sceneName": "RestingGrounds_08",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ghost chagax",
+        "sceneName": "RestingGrounds_08",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ghost boss",
+        "sceneName": "RestingGrounds_08",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (4)",
+        "sceneName": "RestingGrounds_08",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (25)",
+        "sceneName": "RestingGrounds_08",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (13)",
+        "sceneName": "RestingGrounds_08",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (10)",
+        "sceneName": "RestingGrounds_08",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Sound Region",
+        "sceneName": "RestingGrounds_08",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant",
+        "sceneName": "RestingGrounds_08",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (15)",
+        "sceneName": "RestingGrounds_08",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ghost hex",
+        "sceneName": "RestingGrounds_08",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (1)",
+        "sceneName": "RestingGrounds_08",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (18)",
+        "sceneName": "RestingGrounds_08",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (11)",
+        "sceneName": "RestingGrounds_08",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ghost garro",
+        "sceneName": "RestingGrounds_08",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ghost perpetos",
+        "sceneName": "RestingGrounds_08",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ghost molten",
+        "sceneName": "RestingGrounds_08",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (5)",
+        "sceneName": "RestingGrounds_08",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (28)",
+        "sceneName": "RestingGrounds_08",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ghost revek",
+        "sceneName": "RestingGrounds_08",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (30)",
+        "sceneName": "RestingGrounds_08",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (23)",
+        "sceneName": "RestingGrounds_08",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb",
+        "sceneName": "RestingGrounds_08",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (8)",
+        "sceneName": "RestingGrounds_08",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (17)",
+        "sceneName": "RestingGrounds_08",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ghost NPC 100 nail",
+        "sceneName": "RestingGrounds_08",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (22)",
+        "sceneName": "RestingGrounds_08",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ghost caspian",
+        "sceneName": "RestingGrounds_08",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ghost waldie",
+        "sceneName": "RestingGrounds_08",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (29)",
+        "sceneName": "RestingGrounds_08",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (7)",
+        "sceneName": "RestingGrounds_08",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (3)",
+        "sceneName": "RestingGrounds_08",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (24)",
+        "sceneName": "RestingGrounds_08",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (21)",
+        "sceneName": "RestingGrounds_08",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (16)",
+        "sceneName": "RestingGrounds_08",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (9)",
+        "sceneName": "RestingGrounds_08",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (19)",
+        "sceneName": "RestingGrounds_08",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ghost milly",
+        "sceneName": "RestingGrounds_08",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ghost magnus",
+        "sceneName": "RestingGrounds_08",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ghost grohac",
+        "sceneName": "RestingGrounds_08",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (6)",
+        "sceneName": "RestingGrounds_08",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ghost wayner",
+        "sceneName": "RestingGrounds_08",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (26)",
+        "sceneName": "RestingGrounds_08",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (12)",
+        "sceneName": "RestingGrounds_08",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "karina",
+        "sceneName": "RestingGrounds_08",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (33)",
+        "sceneName": "RestingGrounds_08",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (32)",
+        "sceneName": "RestingGrounds_08",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ghost thistlewind",
+        "sceneName": "RestingGrounds_08",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (20)",
+        "sceneName": "RestingGrounds_08",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (14)",
+        "sceneName": "RestingGrounds_08",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "gramaphone",
+        "sceneName": "Room_Tram",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "gramaphone (1)",
+        "sceneName": "Room_Tram",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Breakable Wall",
+        "sceneName": "Abyss_03_c",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Zombie Hive",
+        "sceneName": "Hive_01",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Hive Breakable Pillar",
+        "sceneName": "Hive_01",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Hive Bench",
+        "sceneName": "Hive_01",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Bee Stinger",
+        "sceneName": "Hive_01",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Hive Breakable Pillar (1)",
+        "sceneName": "Hive_01",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (1)",
+        "sceneName": "Hive_02",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (12)",
+        "sceneName": "Hive_02",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (18)",
+        "sceneName": "Hive_02",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (22)",
+        "sceneName": "Hive_02",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (11)",
+        "sceneName": "Hive_02",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Bee Stinger (1)",
+        "sceneName": "Hive_02",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Hive Breakable Pillar (2)",
+        "sceneName": "Hive_02",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (6)",
+        "sceneName": "Hive_02",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (16)",
+        "sceneName": "Hive_02",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (8)",
+        "sceneName": "Hive_02",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (15)",
+        "sceneName": "Hive_02",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (13)",
+        "sceneName": "Hive_02",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (9)",
+        "sceneName": "Hive_02",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (19)",
+        "sceneName": "Hive_02",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (17)",
+        "sceneName": "Hive_02",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (14)",
+        "sceneName": "Hive_02",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (4)",
+        "sceneName": "Hive_02",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Bee Stinger (3)",
+        "sceneName": "Hive_02",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Dream Plant Orb (20)",
+        "sceneName": "Hive_02",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant",
+        "sceneName": "Hive_02",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (23)",
+        "sceneName": "Hive_02",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (21)",
+        "sceneName": "Hive_02",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Dream Plant Orb (2)",
+        "sceneName": "Hive_02",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Bee Stinger (2)",
+        "sceneName": "Hive_02",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Dream Plant Orb (7)",
+        "sceneName": "Hive_02",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Zombie Hive (1)",
+        "sceneName": "Hive_02",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Hive (2)",
+        "sceneName": "Hive_02",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Hive (3)",
+        "sceneName": "Hive_02",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Big Bee",
+        "sceneName": "Hive_03_c",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Bee Stinger (5)",
+        "sceneName": "Hive_03_c",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Bee Stinger (4)",
+        "sceneName": "Hive_03_c",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Break Floor 1",
+        "sceneName": "Hive_03_c",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Hive Breakable Pillar (5)",
+        "sceneName": "Hive_03_c",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Big Bee (1)",
+        "sceneName": "Hive_03_c",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Bee Stinger (6)",
+        "sceneName": "Hive_03_c",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Hive_03_c",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Blow Fly (1)",
+        "sceneName": "Deepnest_East_01",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Deepnest_East_01",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "One Way Wall",
+        "sceneName": "Deepnest_East_01",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Blow Fly (4)",
+        "sceneName": "Deepnest_East_01",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Blow Fly (2)",
+        "sceneName": "Deepnest_East_01",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Blow Fly (5)",
+        "sceneName": "Deepnest_East_01",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Blow Fly (3)",
+        "sceneName": "Deepnest_East_01",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Blow Fly",
+        "sceneName": "Deepnest_East_01",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Bee Stinger (7)",
+        "sceneName": "Hive_03",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Bee Stinger (8)",
+        "sceneName": "Hive_03",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Grub Bottle",
+        "sceneName": "Hive_03",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Big Bee (2)",
+        "sceneName": "Hive_03",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Remasker",
+        "sceneName": "Hive_03",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Bee Stinger (10)",
+        "sceneName": "Hive_04",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Bee Stinger (9)",
+        "sceneName": "Hive_04",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Hive (4)",
+        "sceneName": "Hive_04",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Bee Stinger (11)",
+        "sceneName": "Hive_04",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Zombie Hive (6)",
+        "sceneName": "Hive_04",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Big Bee (3)",
+        "sceneName": "Hive_04",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Big Bee (4)",
+        "sceneName": "Hive_04",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Bee Stinger (12)",
+        "sceneName": "Hive_04",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Hive Break Wall",
+        "sceneName": "Hive_04",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Grub Bottle",
+        "sceneName": "Hive_04",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Hive Breakable Pillar (4)",
+        "sceneName": "Hive_04",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Hive Breakable Pillar (3)",
+        "sceneName": "Hive_04",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Hive Breakable Pillar (5)",
+        "sceneName": "Hive_04",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Heart Piece",
+        "sceneName": "Hive_04",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Hive Breakable Pillar",
+        "sceneName": "Hive_05",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Hive Breakable Pillar (1)",
+        "sceneName": "Hive_05",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Hive Breakable Pillar (2)",
+        "sceneName": "Hive_05",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item Stand",
+        "sceneName": "Hive_05",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Vespa NPC",
+        "sceneName": "Hive_05",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Quake Floor",
+        "sceneName": "Deepnest_East_02",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "One Way Wall",
+        "sceneName": "Deepnest_East_02",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Grub Bottle",
+        "sceneName": "Waterways_14",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Collapser Small",
+        "sceneName": "Waterways_14",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Remasker",
+        "sceneName": "Waterways_14",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Grub Mimic 2",
+        "sceneName": "Deepnest_36",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Grub Mimic 1",
+        "sceneName": "Deepnest_36",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Grub Mimic 3",
+        "sceneName": "Deepnest_36",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Grub Mimic Bottle (1)",
+        "sceneName": "Deepnest_36",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Grub Mimic Bottle (2)",
+        "sceneName": "Deepnest_36",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Grub Bottle",
+        "sceneName": "Deepnest_36",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Grub Mimic Bottle",
+        "sceneName": "Deepnest_36",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Vessel Fragment",
+        "sceneName": "Abyss_04",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Royal Gaurd",
+        "sceneName": "White_Palace_11",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "White Palace Orb Lever",
+        "sceneName": "White_Palace_02",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Collapser Small",
+        "sceneName": "White_Palace_02",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Battle Scene",
+        "sceneName": "White_Palace_02",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "WP Lever",
+        "sceneName": "White_Palace_03_hub",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "WP Lever",
+        "sceneName": "White_Palace_15",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "White Palace Orb Lever",
+        "sceneName": "White_Palace_15",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Quake Floor",
+        "sceneName": "White_Palace_15",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny",
+        "sceneName": "Fungus3_25",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item",
+        "sceneName": "Fungus3_28",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Jellyfish (3)",
+        "sceneName": "Fungus3_archive_02",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Jellyfish (5)",
+        "sceneName": "Fungus3_archive_02",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Jellyfish (6)",
+        "sceneName": "Fungus3_archive_02",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Jellyfish (2)",
+        "sceneName": "Fungus3_archive_02",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Jellyfish (1)",
+        "sceneName": "Fungus3_archive_02",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Jellyfish",
+        "sceneName": "Fungus3_archive_02",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Jellyfish (4)",
+        "sceneName": "Fungus3_archive_02",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Hatcher (1)",
+        "sceneName": "Crossroads_35",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Angry Buzzer",
+        "sceneName": "Crossroads_12",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Battle Control",
+        "sceneName": "Ruins2_03",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret sound",
+        "sceneName": "Ruins2_Watcher_Room",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Royal Zombie Coward",
+        "sceneName": "Ruins2_Watcher_Room",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Inverse Remasker",
+        "sceneName": "Ruins2_Watcher_Room",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Ruins2_Watcher_Room",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny",
+        "sceneName": "Deepnest_East_03",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Giant Hopper",
+        "sceneName": "Deepnest_East_08",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Bursting Bouncer(Clone)",
+        "sceneName": "Room_Colosseum_Bronze",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Shiny Item",
+        "sceneName": "Room_Colosseum_Bronze",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Col_Glow_Remasker",
+        "sceneName": "Room_Colosseum_Silver",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Super Spitter(Clone)",
+        "sceneName": "Room_Colosseum_Silver",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Bursting Bouncer(Clone)",
+        "sceneName": "Room_Colosseum_Silver",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Giant Hopper(Clone)",
+        "sceneName": "Room_Colosseum_Silver",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Shiny Item",
+        "sceneName": "Room_Colosseum_Silver",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item",
+        "sceneName": "Waterways_12",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Flamebearer Spawn",
+        "sceneName": "Ruins1_28",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Flamebearer Spawn",
+        "sceneName": "Fungus1_10",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Flamebearer Spawn",
+        "sceneName": "RestingGrounds_06",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Flamebearer Spawn",
+        "sceneName": "Tutorial_01",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Flamebearer Spawn",
+        "sceneName": "Deepnest_East_03",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Grimm Chest",
+        "sceneName": "Grimm_Main_Tent",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item",
+        "sceneName": "Grimm_Main_Tent",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Flamebearer Spawn",
+        "sceneName": "Abyss_02",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Flamebearer Spawn",
+        "sceneName": "Hive_03",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Abyss_08",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item (1)",
+        "sceneName": "Abyss_08",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "One Way Wall",
+        "sceneName": "Abyss_08",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item",
+        "sceneName": "Abyss_08",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "White Palace Orb Lever",
+        "sceneName": "White_Palace_14",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Breakable Wall Ruin Lift",
+        "sceneName": "White_Palace_06",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Breakable Wall Waterways",
+        "sceneName": "White_Palace_12",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "WP Lever",
+        "sceneName": "White_Palace_12",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Break Floor 1",
+        "sceneName": "White_Palace_12",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Breakable Wall Waterways",
+        "sceneName": "White_Palace_09",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Quake Floor",
+        "sceneName": "White_Palace_09",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item RoyalCharm",
+        "sceneName": "White_Palace_09",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item",
+        "sceneName": "Abyss_15",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Remasker",
+        "sceneName": "Room_temple",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Dream_Final",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Chest",
+        "sceneName": "Deepnest_45_v02",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item (1)",
+        "sceneName": "Deepnest_45_v02",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Breakable Wall",
+        "sceneName": "Deepnest_45_v02",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Inverse Remasker (1)",
+        "sceneName": "Deepnest_45_v02",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Breakable Wall Waterways",
+        "sceneName": "Deepnest_45_v02",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Last Weaver",
+        "sceneName": "Deepnest_45_v02",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Inverse Remasker",
+        "sceneName": "Deepnest_45_v02",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Shiny Item",
+        "sceneName": "Deepnest_45_v02",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Secret Mask",
+        "sceneName": "Deepnest_45_v02",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Collapser Small",
+        "sceneName": "Deepnest_45_v02",
+        "activated": false,
+        "semiPersistent": false
+      },
+      {
+        "id": "Angry Buzzer(Clone)",
+        "sceneName": "Room_Colosseum_Gold",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Col_Glow_Remasker",
+        "sceneName": "Room_Colosseum_Gold",
+        "activated": true,
+        "semiPersistent": false
+      },
+      {
+        "id": "Mage (1)",
+        "sceneName": "Room_Colosseum_Gold",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mantis Heavy(Clone)",
+        "sceneName": "Room_Colosseum_Gold",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Mantis Heavy Flyer(Clone)",
+        "sceneName": "Room_Colosseum_Gold",
+        "activated": false,
+        "semiPersistent": true
+      },
+      {
+        "id": "Lesser Mawlek(Clone)",
+        "sceneName": "Room_Colosseum_Gold",
+        "activated": false,
+        "semiPersistent": true
       }
     ],
-    "persistentIntItems": []
+    "persistentIntItems": [
+      {
+        "id": "Soul Totem mini_two_horned",
+        "sceneName": "Crossroads_19",
+        "value": -1,
+        "semiPersistent": true
+      },
+      {
+        "id": "Soul Totem 2",
+        "sceneName": "Crossroads_ShamanTemple",
+        "value": -1,
+        "semiPersistent": true
+      },
+      {
+        "id": "Soul Totem mini_horned",
+        "sceneName": "Crossroads_35",
+        "value": -1,
+        "semiPersistent": true
+      },
+      {
+        "id": "Soul Totem mini_horned",
+        "sceneName": "Crossroads_18",
+        "value": -1,
+        "semiPersistent": true
+      },
+      {
+        "id": "Soul Totem mini_horned",
+        "sceneName": "Fungus2_10",
+        "value": -1,
+        "semiPersistent": true
+      },
+      {
+        "id": "Soul Totem mini_two_horned",
+        "sceneName": "RestingGrounds_06",
+        "value": -1,
+        "semiPersistent": true
+      },
+      {
+        "id": "Soul Totem 4",
+        "sceneName": "RestingGrounds_05",
+        "value": -1,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ruins Lift",
+        "sceneName": "Ruins2_05",
+        "value": 3,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ruins Lift (1)",
+        "sceneName": "Ruins2_05",
+        "value": 3,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ruins Lift (1)",
+        "sceneName": "Ruins2_01_b",
+        "value": 1,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ruins Lift",
+        "sceneName": "Ruins2_01_b",
+        "value": 1,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ruins Lift 2",
+        "sceneName": "Ruins1_05b",
+        "value": 1,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ruins Lift 1",
+        "sceneName": "Ruins1_03",
+        "value": 1,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ruins Lift 1",
+        "sceneName": "Ruins1_02",
+        "value": 1,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ruins Lift 3",
+        "sceneName": "Ruins1_05c",
+        "value": 4,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ruins Lift 1",
+        "sceneName": "Ruins1_05",
+        "value": 3,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ruins Lift",
+        "sceneName": "Ruins1_31",
+        "value": 1,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ruins Lift 2",
+        "sceneName": "Ruins1_23",
+        "value": 2,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ruins Lift 1",
+        "sceneName": "Ruins1_23",
+        "value": 2,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ruins Lift",
+        "sceneName": "Ruins1_25",
+        "value": 2,
+        "semiPersistent": false
+      },
+      {
+        "id": "Soul Totem 1",
+        "sceneName": "Ruins1_24",
+        "value": -1,
+        "semiPersistent": true
+      },
+      {
+        "id": "Soul Totem 3",
+        "sceneName": "Ruins1_32",
+        "value": -1,
+        "semiPersistent": true
+      },
+      {
+        "id": "Soul Totem 5",
+        "sceneName": "Crossroads_45",
+        "value": -1,
+        "semiPersistent": true
+      },
+      {
+        "id": "Soul Totem 5",
+        "sceneName": "Mines_20",
+        "value": -1,
+        "semiPersistent": true
+      },
+      {
+        "id": "Soul Totem mini_horned",
+        "sceneName": "Mines_31",
+        "value": -1,
+        "semiPersistent": true
+      },
+      {
+        "id": "Soul Totem mini_two_horned",
+        "sceneName": "Mines_31",
+        "value": -1,
+        "semiPersistent": true
+      },
+      {
+        "id": "Soul Totem mini_two_horned",
+        "sceneName": "Mines_25",
+        "value": -1,
+        "semiPersistent": true
+      },
+      {
+        "id": "Soul Totem mini_horned",
+        "sceneName": "Waterways_01",
+        "value": -1,
+        "semiPersistent": true
+      },
+      {
+        "id": "Soul Totem mini_two_horned",
+        "sceneName": "Waterways_04b",
+        "value": -1,
+        "semiPersistent": true
+      },
+      {
+        "id": "Soul Totem mini_two_horned",
+        "sceneName": "Waterways_08",
+        "value": -1,
+        "semiPersistent": true
+      },
+      {
+        "id": "Soul Totem mini_horned",
+        "sceneName": "Abyss_04",
+        "value": -1,
+        "semiPersistent": true
+      },
+      {
+        "id": "Soul Totem mini_horned",
+        "sceneName": "Waterways_07",
+        "value": -1,
+        "semiPersistent": true
+      },
+      {
+        "id": "Soul Totem mini_two_horned",
+        "sceneName": "Crossroads_25",
+        "value": -1,
+        "semiPersistent": true
+      },
+      {
+        "id": "Soul Totem 4",
+        "sceneName": "Crossroads_36",
+        "value": -1,
+        "semiPersistent": true
+      },
+      {
+        "id": "Soul Totem mini_horned",
+        "sceneName": "Fungus1_30",
+        "value": -1,
+        "semiPersistent": true
+      },
+      {
+        "id": "Soul Totem mini_horned",
+        "sceneName": "Fungus1_07",
+        "value": -1,
+        "semiPersistent": true
+      },
+      {
+        "id": "Soul Totem mini_horned",
+        "sceneName": "Fungus1_29",
+        "value": -1,
+        "semiPersistent": true
+      },
+      {
+        "id": "Soul Totem mini_horned",
+        "sceneName": "Fungus3_21",
+        "value": -1,
+        "semiPersistent": true
+      },
+      {
+        "id": "Soul Totem mini_two_horned",
+        "sceneName": "Fungus3_40",
+        "value": -1,
+        "semiPersistent": true
+      },
+      {
+        "id": "Soul Totem 5",
+        "sceneName": "Fungus2_21",
+        "value": -1,
+        "semiPersistent": true
+      },
+      {
+        "id": "Soul Totem 5",
+        "sceneName": "Mines_28",
+        "value": -1,
+        "semiPersistent": true
+      },
+      {
+        "id": "Soul Totem mini_horned",
+        "sceneName": "Mines_35",
+        "value": -1,
+        "semiPersistent": true
+      },
+      {
+        "id": "Soul Totem mini_two_horned",
+        "sceneName": "Deepnest_East_07",
+        "value": -1,
+        "semiPersistent": true
+      },
+      {
+        "id": "Soul Totem 5",
+        "sceneName": "Deepnest_East_11",
+        "value": -1,
+        "semiPersistent": true
+      },
+      {
+        "id": "Soul Totem 5",
+        "sceneName": "Deepnest_East_16",
+        "value": -1,
+        "semiPersistent": true
+      },
+      {
+        "id": "Soul Totem mini_two_horned",
+        "sceneName": "Deepnest_East_14",
+        "value": -1,
+        "semiPersistent": true
+      },
+      {
+        "id": "Soul Totem mini_horned",
+        "sceneName": "Deepnest_East_14",
+        "value": -1,
+        "semiPersistent": true
+      },
+      {
+        "id": "Soul Totem mini_horned",
+        "sceneName": "Fungus2_29",
+        "value": -1,
+        "semiPersistent": true
+      },
+      {
+        "id": "Soul Totem 5",
+        "sceneName": "Cliffs_02",
+        "value": -1,
+        "semiPersistent": true
+      },
+      {
+        "id": "Soul Totem mini_two_horned",
+        "sceneName": "Cliffs_01",
+        "value": -1,
+        "semiPersistent": true
+      },
+      {
+        "id": "Soul Totem mini_horned",
+        "sceneName": "Cliffs_04",
+        "value": -1,
+        "semiPersistent": true
+      },
+      {
+        "id": "Soul Totem 3",
+        "sceneName": "GG_Lurker",
+        "value": -1,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ruins Lift",
+        "sceneName": "Ruins_Elevator",
+        "value": 1,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ruins Lift",
+        "sceneName": "Ruins2_03b",
+        "value": 2,
+        "semiPersistent": false
+      },
+      {
+        "id": "Ruins Lift (1)",
+        "sceneName": "Ruins2_03",
+        "value": 1,
+        "semiPersistent": false
+      },
+      {
+        "id": "Soul Totem 4",
+        "sceneName": "Deepnest_38",
+        "value": -1,
+        "semiPersistent": true
+      },
+      {
+        "id": "Soul Totem mini_two_horned",
+        "sceneName": "Deepnest_42",
+        "value": -1,
+        "semiPersistent": true
+      },
+      {
+        "id": "Soul Totem 1",
+        "sceneName": "Deepnest_10",
+        "value": -1,
+        "semiPersistent": true
+      },
+      {
+        "id": "Soul Totem 5",
+        "sceneName": "Deepnest_Spider_Town",
+        "value": -1,
+        "semiPersistent": true
+      },
+      {
+        "id": "Soul Totem mini_two_horned",
+        "sceneName": "Deepnest_East_01",
+        "value": -1,
+        "semiPersistent": true
+      },
+      {
+        "id": "Soul Totem mini_horned",
+        "sceneName": "Deepnest_East_02",
+        "value": -1,
+        "semiPersistent": true
+      },
+      {
+        "id": "Soul Totem white",
+        "sceneName": "White_Palace_02",
+        "value": -1,
+        "semiPersistent": true
+      },
+      {
+        "id": "Soul Totem white",
+        "sceneName": "White_Palace_03_hub",
+        "value": -1,
+        "semiPersistent": true
+      },
+      {
+        "id": "Soul Totem white",
+        "sceneName": "White_Palace_15",
+        "value": -1,
+        "semiPersistent": true
+      },
+      {
+        "id": "Ruins Lift",
+        "sceneName": "Ruins2_Watcher_Room",
+        "value": 1,
+        "semiPersistent": false
+      },
+      {
+        "id": "Soul Totem white",
+        "sceneName": "White_Palace_04",
+        "value": -1,
+        "semiPersistent": true
+      },
+      {
+        "id": "Soul Totem white",
+        "sceneName": "White_Palace_09",
+        "value": -1,
+        "semiPersistent": true
+      }
+    ]
   }
 }
